@@ -1,10 +1,3 @@
----
-aine: "[[04 - Õpetamine/Ained/Miksimine|Miksimine]]"
-aine osa: "[[Miksimine (1. osa)]]"
-jrk: 1
-kodutöö: "[[Sissejuhatus Miksimisse#Tagasiside andmine]]"
-valmis: true
----
 ## Tere! :~)
 (tsau võib ka öelda)
 
@@ -15,7 +8,7 @@ NOTE:
 > - mida ainelt ootad. mis väljund võiks olla?
 
 ---
-![[Miksimine (1. osa)#Üldinfo]]
+
 
 ## Mis on miksimise point?
 
@@ -127,19 +120,14 @@ NOTE:
 ---
 
 ## Aga.. mix ja master võib muuta sinu arvamust laulust
-![[Pasted image 20250901155523.png|500]]
+
 
 ---
 
 ## Kuulamissüsteem
 
-> [!note]
-> [[NotebookLM - Miksimise ja masterdamise põhimõtted]] - https://www.digido.com/portfolio-item/digital-room-correction/
-> https://www.digido.com/portfolio-item/subwoofers/
-> kalibreerimine ei paranda kõiki probleeme, eriti kõlarite ja ruumi puhul. klappidega parem
-
 - Kõlarite tweeterid peavad sihtima kõrva, mida lähemal seinale seda parem (kui taga bassi port, siis jätke selle jagu ruumi). Kui kõlarite peal on EQ, siis kasutage seda, sest et...
-- Igal kuulamissüsteemil ja ruumil on oma "kõlakarakter". Saab parandada **kalibreerimisega**, et töödeldud muusika **tõlgenduks** ka teistele süsteemidele.
+- Igal kuulamissüsteemil ja ruumil on oma "kõlakarakter". Saab parandada **kalibreerimisega**, et töödeldud muusika **tõlgenduks** ka teistele süsteemidele. Kalibreerimine on justkui plaastri panemine enda ruumi akustika peale, võib aidata.
 	- Kõlarid - SoundID Reference, IK Multimedia ARC jne
 		- [Tasuta tarkvara Room EQ Wizard kasutamine ja ruumi EQ tekitamine](https://www.youtube.com/watch?v=Ev1bSSL8tRA) Vana video aga palju sellest endiselt kehtib, REWi tasub uurida endiselt!
 	- Klapid - SoundID Reference, Toneboosters Morphit, [AutoEQ](https://www.autoeq.app/) + EQ
@@ -155,8 +143,6 @@ NOTE:
 > - Hea näide: annõun R-10 vs R-11. r11 panin airpodsid ja kuulsin vilinat, nüüd r10s midagi muud ei kuulegi, haige et lasin selle enne läbi. Kuulamissüsteemide vahetamine on tähtis!
 
 ---
-
-![[Tonaalsus ja analüütiline kuulamine#Kuulamis valjus]]
 
 # Kodutöö
 
