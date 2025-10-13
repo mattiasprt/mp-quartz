@@ -1,15 +1,6 @@
-## Tere! :~)
-(tsau võib ka öelda)
-
-NOTE: 
-> - Milline on varasem kokkupuude miksimisega,
-> - mis ettekujutus sellest protsessist on, 
-> - mis DAWi ja OSi kasutad, 
-> - mida ainelt ootad. mis väljund võiks olla?
-
 ---
-
-
+title: 1. Sissejuhatus Miksimisse
+---
 ## Mis on miksimise point?
 
 - Võtta kõik salvestatud ja produtseeritud materjal ning luua sobilik kooskõla, mis on balanseeritud ja sobilik (žanriliselt ja/või isikupäraselt), viia täide artistlik visioon.
@@ -136,25 +127,3 @@ NOTE:
 			- Valikuline lisand Equalizer APO-le: [Peace GUI](https://sourceforge.net/projects/peace-equalizer-apo-extension/)
 		- Klappidel crossfeed - Peace GUI sisseehitatud, GHz Can Opener plugin. Simuleerib kõlaritega kuulamise olukorda, vasakule bleedib paremat signaali ja vastupidi, naturaalsem panoraam.
 - Vaheta keskkonda, tee pause ja puhka kõrvu, kuula muud muusikat.
-
-NOTE:
-> - Inimkõrv harjub väga kiiresti ära kuulamiskeskkonnaga. Kui kuulamissüsteem ei ole kalibreeritud, siis miksides võib kompenseerida sagedusi mida ei peaks kompenseerima. 
-> - "Car test" fenomen, loogiline siis kui oled autos palju muusikat kuulanud ja oled ära õppinud kuidas süsteem kõlab. Saad hea ülevaate enda mixist, võrreldes teiste muusika kuulamis kogemustega.
-> - Hea näide: annõun R-10 vs R-11. r11 panin airpodsid ja kuulsin vilinat, nüüd r10s midagi muud ei kuulegi, haige et lasin selle enne läbi. Kuulamissüsteemide vahetamine on tähtis!
-
----
-
-# Kodutöö
-
-- Lugemist:
-	- "Mixing While Producing Music: Good or Bad Idea?" https://www.izotope.com/en/learn/mixing-while-producing-music-good-or-bad-idea.html
-	- "What is the difference between mixing and mastering?" https://www.izotope.com/en/learn/what-is-the-difference-between-mixing-and-mastering.html
-- Uurige enda kuulamissüsteemi kalibreerimist ja katsetage sellega, ideaalis kalibreerige ära.
-
-## Tagasiside andmine
-
-- Järgmiseks loenguks kirjuta ühele vabalt valitud laulule (kellegi teise, mitte oma produtud) miksi tagasiside. Justkui mina oleksin miksija ja see oleks teie laul. Mis muudatusi te soovite kuulda? Mis toimib ja ei toimi? 
-- Eesmärk on passiivselt kuulamiselt analüütilisele kuulamisele ümber lülituda ja tagasiside andmist praktiseerida. 
-- Meili formaat:
-	- Laulu nimi ja link, kust kuulasid.
-	- Tagasiside, **vabas vormis**. Anna miksile nii tagasisidet nagu päris olukorras artistina annaksid!
