@@ -1,0 +1,1 @@
+see on readme tekst, lihtsalt test.
