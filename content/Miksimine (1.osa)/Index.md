@@ -1,0 +1,1 @@
+miksimine 1 index
