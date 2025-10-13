@@ -57,7 +57,7 @@ export default {
       title: "Sisukord",
     },
     contentMeta: {
-      readingTime: ({ minutes }) => `${minutes} lugemiseks`,
+      readingTime: ({ minutes }) => `${minutes} min lugemiseks`,
     },
   },
   pages: {
