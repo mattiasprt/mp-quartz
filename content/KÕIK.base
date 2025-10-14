@@ -5,6 +5,7 @@ views:
       and:
         - file.path.startsWith("content")
         - file.name != "index"
+        - file.name != "KÕIK.base"
     order:
       - draft
       - file.name
