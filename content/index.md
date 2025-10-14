@@ -17,7 +17,7 @@ Jõudu tööle!
 
 1. [[miksimine-1|Miksimine (1.osa)]]
 2. Miksimine (2.osa)
-3. [[miksimine-3|Miksimine (3.osa)]]
+3. Miksimine (3.osa)
 ## Stuudiotöö
 
 1. Stuudiotöö (1.osa)
@@ -25,8 +25,3 @@ Jõudu tööle!
 ## Digitaalne Helitöötlus
 
 - Digitaalne Helitöötlus
-
----
-
-# Hiliseimad muudatused
-![[Kõik materjalid.base]]
