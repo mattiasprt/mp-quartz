@@ -1,5 +1,42 @@
 ---
 title: Miksimine (1.osa)
-draft: false
+aliases:
+  - Miksimine 1
+publish: true
 ---
-Miksimine 1 info
+## Üldinfo
+
+> [!danger] PRODU 2 - SÜGIS
+> - Rõhk miksimis alaste teadmiste vundamendi loomisel, läbi praktiliste kodutööde ning visuaalse ja kuuldelise analüüsi. Tehnilise sõnavara laiendamine ja korrektne kasutamine.
+> - 10x 1.5h, 9 loengut, 1 arvestuslik töö
+> 	- Puududa võib maksimaalselt **2-st loengust!** Kui puudute rohkem, siis näeme järgmine aasta.
+> 	- Puudumine ei vabasta materjali läbi töötamisest ja kodutööst.
+> - Suhtlus kasutades UT meiliaadresse. Nii teie kui ka minu poolt. 
+> 	- mattias.part@ut.ee
+> 	- Kiiremad küsimused FB Messengeris: https://www.facebook.com/mattiaspart/
+
+> [!success] Eristamata hindamine, "arvestatud" saamiseks tuleb:
+> - Läbida arvestuslik töö.
+> - Esitada kõik kodutööd.
+> 	- Kõik kodutööd saavad minult tagasisidet, teie tööd ei lähe musta auku!
+
+---
+
+## Struktuur
+
+![[KÕIK LOENGUD.base#Miksimine (1.osa)]]
+
+> [!info] Arvestuslik töö
+> - Valige plugin mida soovite rohkem tundma õppida. Käige läbi plugina kasutusjuhend ja õppige antud tööriista pädevalt kasutama.
+> - Esitlete enda pluginat, kuidas töötab, kuidas ise praktikas kasutate, koos helinäidetega. Te peate oskama teemakohastele küsimustele vastata! ^y9k2ol
+
+---
+## Tudengid
+
+| Nimi                              | Märkmed    | Puudumisi (max 2) | Kodutöid tegemata |
+| --------------------------------- | ---------- | ----------------- | ----------------- |
+| Lisanna Kuningas                  | Mac, Logic |                   |                   |
+| Oskar Piik                        | Mac, FL    |                   |                   |
+| Pepi aka Jose Manuel Prieto Garay | Mac, Logic | 1 (17.09)         |                   |
+| Maaria Õun                        | Mac, Logic |                   |                   |
+| Kasper Suur                       | Win, ?     |                   |                   |

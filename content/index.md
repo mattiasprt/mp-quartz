@@ -1,6 +1,6 @@
 ---
 title: TÜVKA Materjalid
-draft: false
+publish: true
 ---
 # Tervist!
 
