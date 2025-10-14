@@ -25,3 +25,8 @@ Jõudu tööle!
 ## Digitaalne Helitöötlus
 
 - Digitaalne Helitöötlus
+
+---
+
+# Hiliseimad muudatused
+![[Kõik materjalid.base]]
