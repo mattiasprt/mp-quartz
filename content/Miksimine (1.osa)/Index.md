@@ -1,4 +1,3 @@
 ---
-title: Miksimine (1.osa) Sisukord
+title: Miksimine (1.osa)
 ---
-miksimine 1 index
