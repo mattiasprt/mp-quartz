@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "TÜVKA Materjalid",
+    pageTitle: "Õppematerjalid",
     pageTitleSuffix: " - Mattias Pärt",
     enableSPA: true,
     enablePopovers: true,
@@ -54,6 +54,7 @@ const config: QuartzConfig = {
   plugins: {
     transformers: [
       Plugin.FrontMatter(),
+      Plugin.HideContent({ pattern: /<!-- hide -->[\s\S]*?<!-- \/hide -->/g }),
       Plugin.CreatedModifiedDate({
         priority: ["frontmatter", "git", "filesystem"],
       }),
