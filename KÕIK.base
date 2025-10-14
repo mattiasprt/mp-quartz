@@ -1,0 +1,38 @@
+views:
+  - type: table
+    name: content dir
+    filters:
+      and:
+        - file.path.startsWith("content")
+        - file.name != "index"
+    order:
+      - draft
+      - file.name
+      - file.mtime
+      - file.path
+    sort:
+      - property: file.mtime
+        direction: DESC
+    columnSize:
+      file.mtime: 202
+  - type: table
+    name: IMPORT dir
+    filters:
+      and:
+        - file.path.startsWith("IMPORT")
+    order:
+      - jrk
+      - quartz
+      - file.name
+      - aine
+      - file.mtime
+    sort:
+      - property: aine
+        direction: ASC
+      - property: file.mtime
+        direction: DESC
+    columnSize:
+      note.jrk: 63
+      file.name: 350
+      note.aine: 272
+      file.mtime: 202
