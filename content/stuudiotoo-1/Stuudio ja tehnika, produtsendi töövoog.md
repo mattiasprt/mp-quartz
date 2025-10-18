@@ -156,10 +156,10 @@ tehtud: true
 	- [ ] Perkussiivsed elemendid / Vabalt valitud x instrument
 	- [x] Trummiset (kõige keerukam)
 
-17.10 Pepi projekti Lisanna ja Pepi vox
-31.10 Lisanna projekti Pepi el.gtr
-07.11 Oskari projekti Lisanna klaver kammersaalist
-14.11 Maaria projekti trummiset
+- 17.10 Pepi projekti Lisanna ja Pepi vox
+- 31.10 Lisanna projekti Pepi el.gtr
+- 07.11 Oskari projekti Lisanna klaver kammersaalist
+- 14.11 Maaria projekti trummiset
 
 ---
 ## Salvestuse ettevalmistus
