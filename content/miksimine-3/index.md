@@ -4,6 +4,9 @@ aliases:
   - Miksimine 3
 publish: true
 ---
+![[Miksimise kodutöödeks]]
+
+---
 ## Üldinfo
 
 > [!danger] PRODU 3 - SÜGIS
