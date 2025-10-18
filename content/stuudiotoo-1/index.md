@@ -4,11 +4,6 @@ aliases:
   - Stuudiotöö 1
 publish: true
 ---
-## TÜ VKA Stuudio Signal Flow
-
-<iframe src="https://mattiasprt.notion.site/ebd/27adc1e62ee08009a68bce50470ab0c3" width="100%" height="600" frameborder="0" allowfullscreen />
-
----
 ## Üldinfo
 
 > [!danger] PRODU 2 - SÜGIS
