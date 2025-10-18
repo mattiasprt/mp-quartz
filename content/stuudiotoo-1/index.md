@@ -4,6 +4,7 @@ aliases:
   - Stuudiotöö 1
 publish: true
 ---
+## [[TÜ VKA Stuudio Signal Flow]]
 ## Üldinfo
 
 > [!danger] PRODU 2 - SÜGIS
