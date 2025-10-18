@@ -12,7 +12,7 @@ publish: true
 
 ![[Efektide kasutamine#Efektid]]
 
-![[DAW Signal Flow#DAWi Signaaliahel]]
+![[DAWi Signal Flow#DAWi Signaaliahel]]
 
 ![[Reverb#Reverb]]
 

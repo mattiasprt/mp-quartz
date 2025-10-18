@@ -4,8 +4,9 @@ publish: true
 ## DAWi Signaaliahel
 
 <!-- hide -->
-[[DAW Signal Flow.canvas|DAW Signal Flow]]
+[[DAW Signal Flow Canvas.canvas]]
 <!-- /hide -->
+
 ![[DAW Signal Flow.png]]
 
 ---

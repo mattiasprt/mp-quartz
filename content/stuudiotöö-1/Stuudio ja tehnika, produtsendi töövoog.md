@@ -78,7 +78,7 @@ publish: false
 
 ## Signal Flow
 
-%% [[Salvestamise Signal Flow.canvas|Salvestamise Signal Flow]] %% ![Salvestamise Signal Flow.png|700](file:///Users/mattiasprt/Library/CloudStorage/GoogleDrive-mattiasprt@gmail.com/My%20Drive/ÕPETAMINE/Salvestamise%20Signal%20Flow.png)
+%% [[Salvestamise Signal Flow Canvas.canvas|Salvestamise Signal Flow]] %% ![Salvestamise Signal Flow.png|700](file:///Users/mattiasprt/Library/CloudStorage/GoogleDrive-mattiasprt@gmail.com/My%20Drive/ÕPETAMINE/Salvestamise%20Signal%20Flow.png)
 
 ### ![[TÜVKA Stuudio Signal flow.canvas|TÜVKA Signal flow]][LINK](https://mattiasprt.notion.site/T-VKA-Stuudio-Signal-Flow-27adc1e62ee08009a68bce50470ab0c3?pvs=143)
 

@@ -123,7 +123,7 @@ NOTE:
 
 - **Kõik eelnev mõjutab järgnevat!**
 - Clip > Clip Gain > Clip FX > (Prefader Pre-FX Send) > Insert FX > (Pre-fader Post-FX Send) > Fader, Pan > (Post-fader Send) > Group / Bus > Master
-	- [[DAW Signal Flow.canvas|Signal Flow joonis]] - [LINK](https://www.dropbox.com/scl/fi/1weowpx8lyjo36epkoubj/Signal-Flow.png?rlkey=ojh0frlwvq3qrdk82bd4hm111&dl=0)
+	- [[DAW Signal Flow Canvas.canvas|Signal Flow joonis]] - [LINK](https://www.dropbox.com/scl/fi/1weowpx8lyjo36epkoubj/Signal-Flow.png?rlkey=ojh0frlwvq3qrdk82bd4hm111&dl=0)
 - EHK fader määrab kanali volüümi, clip gain määrab kanali amplituudi!
 	- Clip gain määrab FXide sisendi valjuse. Kui FX clipib siis hiljem fader seda ei muuda.
 

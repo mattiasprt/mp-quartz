@@ -25,11 +25,6 @@ publish: true
 > - Sooritada arvestuslik töö.
 > - Esitada kõik kodutööd. Kõik kodutööd saavad minult tagasisidet, teie tööd ei lähe musta auku!
 
----
-## Struktuur
-
-![[KÕIK LOENGUD.base#Digitaalne Helitöötlus]]
-
 > [!note] Arvestuslik töö 01.12.25 14:15, 001s.
 > 2 valikut, valige üks:
 > 1) Semestri jooksul peab tudeng töötama teise heliinseneri või produtsendiga, kes salvestab/produtseerib/miksib/masterdab tudengi lugu. Teose esitus ja vabas vormis esitlus (plusspunktid kui saate ka projektifaili ette näidata): 
@@ -43,6 +38,11 @@ publish: true
 > 	- Kas jäid tulemiga rahule, mida teeksid tulevikus teisiti?
 
 <!-- hide -->
+
+---
+## Struktuur
+
+![[KÕIK LOENGUD.base#Digitaalne Helitöötlus]]
 
 ---
 ## Tudengid

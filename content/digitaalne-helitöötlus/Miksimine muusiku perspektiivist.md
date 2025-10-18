@@ -1,68 +1,24 @@
 ---
 aine: "[[04 - Õpetamine/content/digitaalne-helitöötlus/index|Digitaalne Helitöötlus]]"
 jrk: "6"
-publish: false
+publish: true
 kodutöö: "[[Miksimine muusiku perspektiivist#Leia miksija]]"
 ---
-![[Sissejuhatus Miksimisse#Mis on miksimise point?]]
+![[Miksimine#Mis on miksimise point?]]
 
-![[Sissejuhatus Miksimisse#Mõned miksimise põhitõed (inseneri perspektiivist)]]
+![[Miksimine#Mõned miksimise põhitõed (inseneri perspektiivist)]]
 
-![[Sissejuhatus Miksimisse#Platseebo]]
+![[Miksimine#Platseebo]]
 
-![[Sissejuhatus Miksimisse#Miksimine on loov protsess!]]
+![[Miksimine#Miksimine on loov protsess!]]
 
-![[Sissejuhatus Miksimisse#"Fix it in the mix"]]
+![[Miksimine#"Fix it in the mix"]]
 
-![[Sissejuhatus Miksimisse#Aga.. mix ja master võib muuta sinu arvamust laulust]]
+![[Miksimine#Kus on piir produktsiooni ja miksi vahel?]]
 
-## Kus on piir produktsiooni ja miksi vahel?
+![[Miksimine#Miksijaga koostöö]]
 
-- Digitaalsemas muusikas: 
-	- Produtsent on määranud loo arranžeeringu, virtuaalsed instrumendid ja nende *sound selection*'i.
-	- Miksija on loonud üldise kõlalise terviku, olemasolevast materjalist.
-- Traditsioonilisemas muusikas:
-	- Produtsent on tihti kas projektijuht või salvestaja. Nad määravad instrumentide kõla salvestustehnikaga, neil pole sadu nuppe mis nad keeravad nagu digitaalses produktsioonis.
-	- Miksija teeb "kuivast" stuudio salvestusest kõlalise terviku. 
-- Kuulajana ongi keeruline analüüsida, kus projekti käigus toimus mis muudatus ja otsus. Kuid fakt on see, et laulu lõpliku kõla eest vastutab masterdaja ja enne teda miksija.
-
----
-
-## Kuidas miksijaga koostööd teha?
-
-- Miksid 99% ajast ei saa "valmis" peale esimest versiooni. Mitu versiooni teha on tavaline ning ka väga tähtis!
-- Ära jää enda demosse kinni, eriti kui sa oled öelnud miksijale, et "tal on vabad käed". Kui sa tegelikult ei tea mis sa tahad siis ära anna automaatselt "vabu käsi", vaid proovige kommunikeerida ja leida ühine keel, eesmärgistage projekt. Tooge võrdluseks juba väljastatud muusikat ja nende laulude kõlapilti ("referents laulud").
-
-NOTE:
->- versioonid aka revisions
-
----
-
-## Kuidas võrrelda mikside versioone?
-
-- Tõmba DAWis versioonid kohakuti, solo'ta neid kordamööda. Kui on ajaline erinevus, siis nihuta versioonid paika.
-- Kui üks versioon on tajutavalt valjem kui teine, siis ühtlusta valjus, et sinu jaoks ei tunduks valjem versioon automaatselt paremana.
-- Analüüsi, kas sinu tagasisidet on kuulda võetud. 
-- Kirjuta enda mõtted üles DAWi markeritega, et nad oleksid *timestamped*.
-- Võrdle referents lauludega ja muu muusikaga, jällegi ühtlustades volüümi erinevus.
-
----
-
-## Kuidas otsida enda muusikale miksijat?
-
-- "Hea mix" on väga subjektiivne mõiste, ehk on keeruline anda näpunäiteid, kuidas tuvastada "head mixi". Kuid head miksijat leida on veidike kergem:
-- Kui sul on lugu mis sulle väga meeldib, siis Googelda ja vaata kas leiad loo miksija üles. 
-	- TIDALis on creditid tihtipeale olemas. Kui ei ole, siis sotsiaalmeedia reliisi postitustelt ehk leiab. Kui on muusikavideo siis muusikavideo descriptionist võib ka leida. 
-	- [muso.ai](https://muso.ai/) on ka hea tööriist, või [Discogs](https://www.discogs.com/search/) ja [AllMusic](https://www.allmusic.com/)
-- Vaata kas lugu on miksitud ja masterdatud sama inimese poolt. 
-	- Kui jah siis saad enda arvamuses kindlam olla.
-	- Kui ei, siis on keeruline teada kust antud projektil tõmmati piir miksi ja masteri vahel. Masterdaja võis miksi kõla muuta kriitiliselt, kuid võis ka mõjutada seda minimaalselt. 
-	- Kui produ, miks ja master on kõik sama inimene siis saad eriti kindel olla enda arvamuses.
-- Uuri kas leitud miksijal on portfoolio või välja toodud diskograafia, kuula sealt tema töödeldud muusikat ja analüüsi kas see kõlab endiselt su jaoks meeldivalt.
-- Enamasti levivad need nimed tutvuste kaudu, kuna tegu on võrdlemisi kaadritaguste inimestega.
-
----
-
+<!-- hide -->
 ## Diskussioon
 
 - Milline on olnud teie kokkupuude miksijatega, kes nad olid?
@@ -73,7 +29,6 @@ NOTE:
 - Mida teeksid järgmine kord koostöös teisiti?
 
 ---
-
 ## Projekti näide
 
 NOTE:
@@ -86,3 +41,5 @@ NOTE:
 - Leia täiesti võõras, enda jaoks uus, miksiinsener kelle kõlapilt sulle meeldib (mitte mina :)) ). 
 - Kirjutage meili vastuseks miksija nimi ja paar muusikanäidet, mille põhjal oma arvamuse moodustasid. Proovige ka sõnastada, mis sulle meeldib nende laulude kõla puhul? 
 - Eesmärk on lülituda passivselt kuulamiselt analüütilisele kuulamisele, ning proovida eristada kust maalt on hakanud projektis miksimise ja masterdamise faas.
+
+<!-- /hide -->
