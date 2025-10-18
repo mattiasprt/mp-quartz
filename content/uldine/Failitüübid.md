@@ -6,7 +6,7 @@ publish: true
 - Lossy vs lossless, ehk kaduteta ja kadudega failitüübid.
 	- Kõige levinum lossy failitüüp: MP3
 	- Levinud lossless failitüübid: WAV, FLAC
-- Erinevusteks: failimaht, sagedus spektrum, waveform, kõlalised artifactid
+- Erinevusteks: failimaht, sagedusspektrum, waveform, kõlalised artifactid
 
 |              | Lossy                                                                                                                              | Lossless                                                                             |
 | ------------ | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
