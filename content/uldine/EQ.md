@@ -11,7 +11,7 @@ publish: true
 - EQga saab mõjutada ainult eksisteerivat materjali. Instrumendi kõlale ei saa "bassi juurde panna", kui seal füüsiliselt ei ole neid madalaid sagedusi olemas või salvestatud.
 - Ideaalis, selle asemel, et üritada soundi parandada EQga, on soovituslik muuta soundi allikat, mikri asetust, süna soundi jne. Kuid kui see enam võimalik ei ole, siis tasub võtta kätte EQ.
 
-NOTE:
+>NOTE:
 > - Tehke EQ liigutus muusika ajal ja analüüsige kuidas spektrum ja kõla muutub.
 
 ---
@@ -48,7 +48,7 @@ NOTE:
 [[Tonaalsuse Sõnastamine.canvas|Tonaalsuse Sõnastamine]]
 <!-- /hide -->
 ![[Tonaalsuse Sõnastamine.png]]<!-- hide -->
-NOTE:
+>NOTE:
 > - Õppimine läbi sõnavara, lase mussi, boosti või cuti sagedusvahemikku, küsi iseloomustavat sõna
 > - Ei pea olema terve laulu kõrakarakteri kohta, saab ka kasutada individuaalsetel elementidel!
 
@@ -66,7 +66,7 @@ NOTE:
 	- Kõrgsageduslike boostide asemel kontrolli enne madalat otsa!
 	- Näiteks, 250Hz vähendamine annab sama efekti, kui 5kHz tõstmine
 
-NOTE: 
+>NOTE: 
 > - eq vaatamise asemel rõhuda analüütilisele kuulamisele
 > - üldine tava on cuttimise eelistus üle boostimise
 
@@ -80,7 +80,7 @@ NOTE:
 	- Balanss, panoraam, EQ "carving".
 
 <!-- hide -->
-NOTE:
+>NOTE:
 > - Näita TDR Prism'ist Auditory masking
 > - Näita Newfangled EQuivocate critical bands
 > - keera **maskiv saund** valjuks, pane tähele mida maskib, siis vaikseks ja pane tähele mis seda katab, eq vastavalt
@@ -107,7 +107,7 @@ NOTE:
 	- [iZotope Tonal Balance Control](https://www.izotope.com/en/products/tonal-balance-control-2)
 - Slope 4.5dB/Oct, näitab üldiselt lineaarset pilti tänapäeva muusika puhul.
 
-NOTE: 
+>NOTE: 
 > - Kuulata muusikat mis hetkel Spotify Chartsis või Radiomonitori topis. Tonaalne balanss on hea kõla alus.
 
 ---
@@ -124,7 +124,7 @@ NOTE:
 4. Kui Teie arust Question = Your Response siis: -> Check Answer -> Next Question
 
 <!-- hide -->
-NOTE:
+>NOTE:
 > - kui tudenge kasutab kooli arvutit, veendu et kaust oleks õiges kohas
 > - näita ekraanil sõnavara harjutuse ajal
 

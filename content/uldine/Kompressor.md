@@ -7,7 +7,7 @@ publish: true
 - Kasutada siis kui on kuuldav dünaamiline ebaütlus. Mingid perkussiivsed löögid "löövad liiga välja" või kui mingid spetsiifilised noodid partiis kaovad miksi sisse ära, võrreldes teiste nootidega.
 
 <!-- hide -->
-NOTE:
+>NOTE:
 >- näide trummiseti ja bassipartii puhul [Over You DEMO.RPP](file:///Users/mattiasprt/Library/CloudStorage/Dropbox/ÕPETAMINE/Over%20You%20DEMO/Over%20You%20DEMO.RPP)
 
 <!-- /hide -->
@@ -25,7 +25,7 @@ NOTE:
 	- Gain peale töötlust, volüümi kaotuse kompenseerimiseks.
 
 <!-- hide -->
-NOTE: 
+>NOTE: 
 >- Näidata visuaalselt, Pro-C2 ja occularScope
 
 <!-- /hide -->
@@ -47,7 +47,6 @@ NOTE:
 	- Hard knee = täpsus; Soft knee = pehme, *subtle*
 
 ---
-
 ## Attack-Release visuaalselt
 
 ![[Pasted image 20251008134517.png|800]]
@@ -63,7 +62,7 @@ NOTE:
 ![[Pasted image 20251006173142.png|800]]
 
 <!-- hide -->
-NOTE:
+>NOTE:
 >- Ozone Dynamics'is on hästi aru saada
 
 <!-- /hide -->

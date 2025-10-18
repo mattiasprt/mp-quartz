@@ -12,7 +12,7 @@ publish: true
 	- RMS (*Root Mean Squared*) - Enamasti 300ms vältel mõõdetud amplituudi [ruutkeskmine](https://et.wikipedia.org/wiki/Ruutkeskmine). 
 
 <!-- hide -->
-NOTE:
+>NOTE:
 >- Näita DAWis metereid
 
 <!-- /hide -->
@@ -27,7 +27,7 @@ NOTE:
 	- Makrodünaamika - Pikaajaline dünaamika, nt laulude eri sektsioonide vaheline valjuse erinevus.
 
 <!-- hide -->
-NOTE:
+>NOTE:
 >- näide dünaamilise ja vähese dünaamikaga masteri vahel [Dünaamika Võrdlus](file:///Users/mattiasprt/Library/CloudStorage/Dropbox/ÕPETAMINE/Dünaamika%20Võrdlus)
 
 <!-- /hide -->
@@ -41,7 +41,7 @@ NOTE:
 - Probleeme lahendades tuleks automeerida enne efekte. Post-fader volüümi automatsioon ainult siis, kui efektid töötavad nii nagu soovitud ja nende kõla ei tohi muutuda.
 
 <!-- hide -->
-NOTE:
+>NOTE:
 >- makro näide laulu sektsioonide puhul, mikro näide vokaali valjude nootide puhul.
 >- levinumalt tuntud kui ka volüümi automatsioon, on okei kasutada sünonüümina, lihtsalt olge teadlikud sõna erinevustest.
 
@@ -79,7 +79,7 @@ NOTE:
 - Platseebo mõju otsustusvõimele
 - GainMatch plugin
 
-NOTE: 
+>NOTE: 
 >- Teha test: 2 mixi kus üks smiley eq ja valjem, teine tavaline. küsida kumb kõlab paremini, siis loudness normalizeida ja küsida uuesti
 >- Logic Pro compressoril on by default autogain peal, mis teeb materjali valjemaks kui treshold alla tõmmata, pole loogiline.
 
@@ -100,7 +100,7 @@ NOTE:
 | kompressor "hammustab" liiga palju | kompressor töötab "kontrollitult" |
 | pumpamine                          |                                   |
 <!-- hide -->
-NOTE:
+>NOTE:
 >- Näita visuaalselt waveforme.
 >- Mis veel?
 

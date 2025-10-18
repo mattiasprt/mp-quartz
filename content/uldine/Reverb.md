@@ -16,7 +16,7 @@ publish: true
 - Ärge kutsuge **kaja**ks!
 
 <!-- hide -->
-NOTE:
+>NOTE:
 >- Näita enda enimkasutatud pluginaid.
 
 <!-- /hide -->
@@ -28,7 +28,7 @@ NOTE:
 - Pre-delay - Aeg algse signaali ja reverbi saba alguse vahel, mida pikem seda "kaugemalt" kõlab signaal. Võimaldab hoida signaali transiendi puhtana, et reverb seda ära ei *smear*'iks. Näiteks tähtis vokaali kaashäälikutel, et nad ei kõlaks "uduselt".
 - Size - Ruumi suurus, klaustrofoobne vs avar jne
 
-NOTE:
+>NOTE:
 > - Kuidas tempo syncida: 60000 : BPM = 1/4 noot millisekundites
 >	- Või lihtsalt zoomi sisse, selecti noodi pikkus snap gridil ja vaata mitu ms selection kestab
 

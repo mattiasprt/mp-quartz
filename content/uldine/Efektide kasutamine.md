@@ -10,7 +10,7 @@ publish: true
 	- Kui sa soovid, et aux kanali level muutuks vastavalt algsignaali faderile siis post, kui ei siis pre.
 
 <!-- hide -->
-NOTE:
+>NOTE:
 >- [Insert vs Send, Pre vs Post.RPP](file:///Users/mattiasprt/Library/CloudStorage/Dropbox/ÕPETAMINE/Insert%20vs%20Send,%20Pre%20vs%20Post/Insert%20vs%20Send,%20Pre%20vs%20Post.RPP) / [Insert vs Send, Pre vs Post.als](file:///Users/mattiasprt/Library/CloudStorage/Dropbox/ÕPETAMINE/Insert%20vs%20Send,%20Pre%20vs%20Post/Insert%20vs%20Send,%20Pre%20vs%20Post%20Project/Insert%20vs%20Send,%20Pre%20vs%20Post.als)
 
 <!-- /hide -->

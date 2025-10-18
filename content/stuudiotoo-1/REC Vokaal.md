@@ -1,18 +1,11 @@
 ---
 aine: "[[04 - Õpetamine/content/stuudiotoo-1/index|Stuudiotöö 1]]"
 jrk: "3"
-publish: false
+publish: true
 kodutöö:
+tehtud: true
 ---
-## Salvestuse ettevalmistus
-
-- Eksportige enda DAWist materjal mille peale me salvestama hakkame. 
-- Importige see Pro Toolsi projekti. Ideaalis valmistage projekt ette 001s, siis saate juba saata signaali ka Behringeri süsteemi.
-	- Sama sample rate ja bit depth mis sinu projekt! Vältige ebavajalikke konversioone.
-- Tehke Pro Toolsis tühjad rajad, ideaalis korrektsete inputidega (määratud 001s), kuhu me hakkame salvestama.
-- Proovige ka inputlisti tegemist: [TEMPLATE](https://docs.google.com/spreadsheets/d/1BCbxRhaKBFH1tdbhUe7F7zAMbtVsWFcL5hDuThUsKoI/edit?usp=sharing "https://docs.google.com/spreadsheets/d/1BCbxRhaKBFH1tdbhUe7F7zAMbtVsWFcL5hDuThUsKoI/edit?usp=sharing") 
-	- Eriti kui teil ei ole võimalik 001s projekti ette valmistada!
-- Veenduge, et teie muusik on valmistunud enda partiid esitama.
+![[Stuudio ja tehnika, produtsendi töövoog#Salvestuse ettevalmistus]]
 
 ---
 ## Vokaalide salvestus
@@ -50,29 +43,4 @@ Hea artikkel: https://mastering.com/recording-vocals-how-to-record-vocals
 	- Tehke vähemalt üks täispikkuses take, et oleks mingi visuaalne referents DAWis ja vokalist saaks hääle soojaks.
 
 ---
-## Pro Tools
-
-Hea lühike video: https://www.youtube.com/watch?v=Cakn-t4Izqo
-
-- Input monitoring nupp sees = kui tahad kuulda live inputi, väljas kui tahad kuulda salvestatud materjali.
-	- Katsetada teha eraldi aux track mikri monitooringuks. Siis ei lähe signaal kunagi mutesse kuulaja poolelt, sest selle saab saata otse monitooringusse.
-- DSP efektid ei lisa latencyt, saab kasutada salvestusel.
-- Duplicate track, ilma klippideta: 
-	- Right click, duplicate track (cmd + shift + D)
-		- Uncheck "Playlist" - siis ei kopeeri klippe.
-	- Mõistlik teha kohe alguses mitu tracki ja siis jooksvalt nimetada neid sobivalt.
-- Playlistide kasutamine, compimiseks: 
-	- Playlisti vaade trackide alt.
-	- ctrl + backslash??
-- Punch-in: 
-	- QuickPunch REC mode
-	- Punch-in ja punch-out markerid
-- Loop recording:
-	- Loop playback peale
-	- Preferences -> Operation -> “Create New Playlists on Loop Record"
-- Eksport:
-	- Selecti kõik materjal, veendu, et alguspunkt oleks sama mis importitud materjali alguspunkt. Siis kui tõmbate materjali enda projekti on kõik ajaliselt õiges kohas.
-	- Consolidate: 
-		- Edit -> Consolidate VÕI cmd + shift + 5 (või 3?)
-		- Vaadake kuhu failid tekkisid ja copyge endale kuhugi sobivasse kohta. Siis võite Pro Toolsis undo teha ja kõik materjal on un-consolidated kujul tagasi.
-	- VÕI File > Export > Selected Tracks as Files (või Bounce selected tracks)
+![[Salvestamine ja produktsioon#Pro Tools 101]]

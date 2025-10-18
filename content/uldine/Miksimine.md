@@ -27,7 +27,7 @@ publish: true
 - Miksimist ei õpi ilma praktiseerimata. Kilometraaži kogumine on ääretult tähtis.
 - Miksimist ei õpi ilma tagasisideta. Omas mullis miksimine ei vii arenguni.
 
-NOTE: 
+>NOTE: 
 > - Olen ise pidevalt astunud ämbrisse kus hakkan muusikat ületöötlema, raiskan aega kuna hiljem värske kõrvaga kuulates võtan protsessingut vähemaks. 
 > - Pluginate kontekstis, kasuta demosid, ära kohe osta. kui ei hakka külge siis äkki ei ole vaja ka osta. kaalu kas sa lihtsalt ostad toredat kasutajakogemust või reaalset lisaväärtust.
 
@@ -81,7 +81,7 @@ NOTE:
 	- Miksija teeb "kuivast" stuudio salvestusest kõlalise terviku. 
 - Kuulajana ongi keeruline analüüsida, kus projekti käigus toimus mis muudatus ja otsus. Kuid fakt on see, et laulu lõpliku kõla eest vastutab masterdaja ja enne teda miksija.
 
-NOTE:
+>NOTE:
 >  - Kas peab piiri tõmbama?
 > 	 - Nt elektroonilisel mussil käivad protsessid enamasti käsikäes
 >  - Piiri tõmbamine võimaldab produktsioonis loovust ja selle hilisemat committimist. Kui laulu struktuur on paigas siis alles hakka balanseerima ja töötlema. Parameetreid saab lõputult kruttida, kuid tegu on distractioniga.
@@ -93,7 +93,7 @@ NOTE:
 - Miksid 99% ajast ei saa "valmis" peale esimest versiooni. Mitu versiooni teha on tavaline ning ka väga tähtis!
 - Ära jää enda demosse kinni, eriti kui sa oled öelnud miksijale, et "tal on vabad käed". Kui sa tegelikult ei tea mis sa tahad siis ära anna automaatselt "vabu käsi", vaid proovige kommunikeerida ja leida ühine keel, eesmärgistage projekt. Tooge võrdluseks juba väljastatud muusikat ja nende laulude kõlapilti ("referents laulud").
 
-NOTE:
+>NOTE:
 >- versioonid aka revisions
 
 ---

@@ -3,7 +3,8 @@ filters:
     - file.folder.startsWith("04 - Õpetamine/")
     - file.basename != "index"
     - file.folder != "04 - Õpetamine/content/Misc"
-    - '!file.folder.startsWith("04 - Õpetamine/content/uldine")'
+    - '!file.folder.contains("uldine")'
+    - '!file.folder.contains("attachments")'
 properties:
   file.name:
     displayName: Loeng
@@ -13,6 +14,7 @@ views:
     order:
       - jrk
       - publish
+      - tehtud
       - file.name
       - kodutöö
       - aine
@@ -88,9 +90,11 @@ views:
     name: Stuudiotöö (1.osa)
     filters:
       and:
-        - aine == link("04 - Õpetamine/content/stuudiotöö-1/index", "Stuudiotöö 1")
+        - aine == link("04 - Õpetamine/content/stuudiotoo-1/index", "Stuudiotöö 1")
     order:
       - jrk
+      - publish
+      - tehtud
       - file.name
       - kodutöö
     sort:

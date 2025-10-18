@@ -10,7 +10,7 @@ publish: true
 	- Ping-Pong - Delay põrkab vasaku ja parema kanali vahel
 	- Slapback - Väga lühikese noodivältusega delay, lisab elemendile laiust, enamasti kitarridel või *indie* vokaalidel. 
 
-NOTE:
+>NOTE:
 >- Produ trikk: Echoboy delay igavatele staatilistele trummidele, siis mängida groove ja shuffle knobidega
 
 ---

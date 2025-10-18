@@ -12,7 +12,7 @@ publish: true
 	- Phase flip / invert ja polarity flip / invert on sünonüümid, sest tegu on sama tegevusega.
 
 <!-- hide -->
-NOTE: 
+>NOTE: 
 >- Kui lained pikemad, faasinihked tajutavamad. Kui nt leierdada kicki ja bassi.
 >- Comb filter ja faasinihe näide - [faas.RPP](file:///Users/mattiasprt/Library/CloudStorage/Dropbox/ÕPETAMINE/faas/faas.RPP)
 
@@ -26,7 +26,7 @@ NOTE:
 - Kõige kindlam on lihtsalt käsitsi paika lohistada.
 - Kui pluginaid kasutada, siis tuleb nende töö üle kontrollida.
 
-NOTE:
+>NOTE:
 >- Trummidel kõige kergem OHde järgi spot mikreid nihutada, sest OHdesse jõuab signaal kõige hiljem, kuna mikrid on kõige kaugemal. Kui trummipartii *feel* läheb paigast ära siis saab kogu seti tagasi nihutada ühiselt, nii et faasisuhted on paigas.
 
 ---
@@ -39,7 +39,7 @@ NOTE:
 - Tasuta: [TB_GonioMeter](https://www.toneboosters.com/tb_goniometer_v1.html)
 
 <!-- hide -->
-NOTE:
+>NOTE:
 >- Goniometer näide
 
 <!-- /hide -->
@@ -51,7 +51,7 @@ NOTE:
 - Delta nupp - Pluginates. Plugina sisend ja väljund signaali erinevuse kuulamiseks, sama mis null test.
 
 <!-- hide -->
-NOTE:
+>NOTE:
 >- Delta hea gainstaginguks, delta peal - keerake väljundit niipalju vaiksemaks, kuni signaal on kõige vaiksem.
 >- Null test näide, näita ka delta nuppu eri pluginates
 
@@ -64,7 +64,7 @@ NOTE:
 - Comb filter - L ja R kanali peale komplimenteerivate sagedustega comb filter. Võimaldab teha mono signaali laiaks, perfektse mono compatibilityga. ([kHs Comb Filter](https://kilohearts.com/products/comb_filter))
 
 <!-- hide -->
-NOTE:
+>NOTE:
 >- Näita efekte nt bäkk voxidel ja kitradel - [Home DEMO.RPP](file:///Users/mattiasprt/Library/CloudStorage/Dropbox/ÕPETAMINE/Home%20DEMO/Home%20DEMO.RPP)
 
 <!-- /hide -->
@@ -95,7 +95,7 @@ NOTE:
 	- Kui kasutate MS EQt siis katsetage linear phase'iga. Sest olenevalt signaalist, võib Mid ja Side kanalite faasisuhe olla väga tähtis.
 
 <!-- hide -->
-NOTE:
+>NOTE:
 >- lase helinäiteid Midist ja Sideist
 
 <!-- /hide -->

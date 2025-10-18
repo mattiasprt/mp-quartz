@@ -32,7 +32,7 @@ tehtud: true
 ---
 ## Projekti näide
 
-NOTE:
+>NOTE:
 >- näita mingit reaalset projekti. mis algmaterjaliga ma töötasin ja mis on lõpptulem.
 
 ---

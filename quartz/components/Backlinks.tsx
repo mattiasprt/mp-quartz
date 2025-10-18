@@ -25,7 +25,12 @@ export default ((opts?: Partial<BacklinksOptions>) => {
   }: QuartzComponentProps) => {
     const slug = simplifySlug(fileData.slug!)
     const backlinkFiles = allFiles.filter((file) => file.links?.includes(slug))
-    if (options.hideWhenEmpty && backlinkFiles.length == 0) {
+    // custom
+    const outgoingLinks = fileData.links ?? []  
+    const outgoingFiles = allFiles.filter((file) =>   
+      outgoingLinks.includes(simplifySlug(file.slug!))  
+    )  
+    if (options.hideWhenEmpty && backlinkFiles.length == 0 && outgoingFiles.length == 0) {
       return null
     }
     return (
@@ -44,6 +49,21 @@ export default ((opts?: Partial<BacklinksOptions>) => {
             <li>{i18n(cfg.locale).components.backlinks.noBacklinksFound}</li>
           )}
         </OverflowList>
+        
+        <h3>Outgoing Links</h3>  
+        <OverflowList>  
+          {outgoingFiles.length > 0 ? (  
+            outgoingFiles.map((f) => (  
+              <li>  
+                <a href={resolveRelative(fileData.slug!, f.slug!)} class="internal">  
+                  {f.frontmatter?.title}  
+                </a>  
+              </li>  
+            ))  
+          ) : (  
+            <li>No outgoing links found</li>  
+          )}  
+        </OverflowList>  
       </div>
     )
   }

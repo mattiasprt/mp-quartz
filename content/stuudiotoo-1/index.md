@@ -2,7 +2,7 @@
 title: Stuudiotöö 1
 aliases:
   - Stuudiotöö 1
-publish: false
+publish: true
 ---
 ## Üldinfo
 
@@ -13,21 +13,13 @@ publish: false
 >	- Puudumine ei vabasta materjali läbi töötamisest ja kodutööst.
 >- Suhtlus kasutades UT meiliaadresse. Nii teie kui ka minu poolt.
 >	- [mattias.part@ut.ee](mailto:mattias.part@ut.ee)
->	- Kiiremad küsimused FB Messengeris: https://www.facebook.com/mattiaspart/
+>	- Kiiremad küsimused [FB Messengeris](https://www.facebook.com/mattiaspart/).
 
 > [!success] Eristav hindamine, lõpphinne kujuneb:
 >- Arvestusliku töö esitamisest ja töö tulemusest.
 >	- Hindan tudengi eneseanalüüsi ja peamiselt, et kuidas vastab küsimusele: "Mida teeksin järgmine kord paremini?"
 >	- Hindan salvestatud materjali kõlakvaliteeti ning salvestusmeetodite põhjendamist. 
 >- Iga tudeng peab salvestama vähemalt ühe praktikumi jooksul enda projektiks uut materjali ja läbi viima salvestusprotsessi.
-
----
-## Struktuur
-
-> [!note]
-> [[NotebookLM - Miksimise ja masterdamise põhimõtted]] - The Recording Engineers Handbook 5th Edition b.pdf
-
-![[KÕIK LOENGUD.base#Stuudiotöö (1.osa)]]
 
 > [!info] Arvestuslik töö 05.12.25 14:15, foonikas 001. 
 >- Salvestus:
@@ -37,6 +29,16 @@ publish: false
 >- Esitlus:
 >	- Esitate enda lõpliku projekti (oma läpakast või 001 Macist) ning oskate kirjeldada ja põhjendada kasutatud salvestusmeetodeid, näidake ka pilte salvestusprotsessist, mikrite asetusest, inputlisti jne. Tähtis on ka eneseanalüüs, kuidas läks protsess ja kommunikatsioon muusikutega, mille taha takerdusid, mida teeksid järgmine kord teisiti ja kuidas jne.
 >- Tahan ka lugu eksporditud .wav failina, et ise hiljem üle kuulata. Laul ei pea olema lõplikult miksitud ja masterdatud, kuid võiks olla seisukorras, kus julgete ja tahate seda mulle esitada.
+
+<!-- hide -->
+
+---
+## Struktuur
+
+> [!note]
+> [[NotebookLM - Miksimise ja masterdamise põhimõtted]] - The Recording Engineers Handbook 5th Edition b.pdf
+
+![[KÕIK LOENGUD.base#Stuudiotöö (1.osa)]]
 
 ---
 
@@ -48,3 +50,4 @@ publish: false
 | Oskar Piik               |         | 1 (17.10)         |                      |                   |
 | Jose Manuel Prieto Garay |         |                   |                      |                   |
 | Maaria Õun               |         | 1 (17.10)         |                      |                   |
+<!-- /hide -->
