@@ -2,7 +2,7 @@
 aine: "[[04 - Õpetamine/content/stuudiotöö-1/index|Stuudiotöö 1]]"
 jrk: 1 & 2
 kodutöö: "[[Stuudio ja tehnika, produtsendi töövoog#Salvestuse ettevalmistus]]"
-publish: true
+publish: false
 ---
 ![[Sissejuhatus Digitaalsesse Helitöötlusse#Kuidas saab laul Sinu peast teiste kõrva(klappi)desse?]]
 
@@ -56,7 +56,7 @@ publish: true
 
 - Salvesta nii palju kui saad, salvesta ka scratch trackid. Hea päästerõngas hädaolukordades.
 	- Võimalusel kasuta "pre record audio input"i (Logicus "Quick Punch-In" ja "Flashback Recording"), et DAW salvestaks signaali juba enne salvestusnupu vajutamist. Et fraasi algused ei kaoks ära punch-inides.
-- Ärge laske kanali keskmist peaki üle -12dB, siis jääb veel headroomi kui peaks mingi üllatavalt vali hetk tulema.
+- Ärge laske kanali **keskmist** peaki üle -12dB, siis jääb veel headroomi kui peaks mingi üllatavalt vali hetk tulema.
 - Subjektiivsed ja situatsioonilised mõtted:
 	- Salvestusel võiks sound kõlada võimalikult sarnaselt nagu see ruumis kõlab.
 	- Enne salvestus sessiooni võiks demo kuulata, et sessioonil sound kiiresti paika saada.

@@ -2,7 +2,7 @@
 title: Stuudiotöö (1.osa)
 aliases:
   - Stuudiotöö 1
-publish: false
+publish: true
 ---
 ## Üldinfo
 
@@ -45,6 +45,6 @@ publish: false
 | Nimi                     | Märkmed | Puudmised (max 2) | Kodutöid üle tähtaja | Kodutöid tegemata |
 | ------------------------ | ------- | ----------------- | -------------------- | ----------------- |
 | Lisanna Kuningas         |         |                   |                      |                   |
-| Oskar Piik               |         |                   |                      |                   |
+| Oskar Piik               |         | 1 (17.10)         |                      |                   |
 | Jose Manuel Prieto Garay |         |                   |                      |                   |
-| Maaria Õun               |         |                   |                      |                   |
+| Maaria Õun               |         | 1 (17.10)         |                      |                   |

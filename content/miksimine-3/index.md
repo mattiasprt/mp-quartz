@@ -2,7 +2,7 @@
 title: Miksimine (3.osa)
 aliases:
   - Miksimine 3
-publish: false
+publish: true
 ---
 ## Üldinfo
 
@@ -66,7 +66,7 @@ publish: false
 | Nimi              | Märkmed | Puudumised (max 2) | Kodutöid üle tähtaja | Kodutöid tegemata |
 | ----------------- | ------- | ------------------ | -------------------- | ----------------- |
 | Samuel Hõim       | Ableton |                    |                      |                   |
-| Grete Lagemaa     | Ableton |                    | 1 (2.)               |                   |
-| Kerttu Piigli     | FL      |                    |                      |                   |
+| Grete Lagemaa     | Ableton |                    | 2 (2. 4.)            |                   |
+| Kerttu Piigli     | FL      | 1 (15.10)          | 1 (4.)               | 1 (4.)            |
 | Ott Rang          | Ableton |                    | 1 (1.)               | 1 (1.)            |
 | Ariana Arutjunjan | Logic   |                    |                      |                   |

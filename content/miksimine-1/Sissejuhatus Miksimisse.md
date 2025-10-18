@@ -2,7 +2,7 @@
 aine: "[[04 - Õpetamine/content/miksimine-1/index|Miksimine 1]]"
 jrk: "1"
 kodutöö: "[[Sissejuhatus Miksimisse#Tagasiside andmine]]"
-publish: true
+publish: false
 ---
 ## Tere! :~)
 (tsau võib ka öelda)
@@ -132,11 +132,6 @@ NOTE:
 ---
 
 ## Kuulamissüsteem
-
-> [!note]
-> [[NotebookLM - Miksimise ja masterdamise põhimõtted]] - https://www.digido.com/portfolio-item/digital-room-correction/
-> https://www.digido.com/portfolio-item/subwoofers/
-> kalibreerimine ei paranda kõiki probleeme, eriti kõlarite ja ruumi puhul. klappidega parem
 
 - Kõlarite tweeterid peavad sihtima kõrva, mida lähemal seinale seda parem (kui taga bassi port, siis jätke selle jagu ruumi). Kui kõlarite peal on EQ, siis kasutage seda, sest et...
 - Igal kuulamissüsteemil ja ruumil on oma "kõlakarakter". Saab parandada **kalibreerimisega**, et töödeldud muusika **tõlgenduks** ka teistele süsteemidele.

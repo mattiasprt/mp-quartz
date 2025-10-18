@@ -2,12 +2,14 @@
 title: Digitaalne Helitöötlus
 aliases:
   - Digitaalne Helitöötlus
-publish: false
+publish: true
 ---
+<!-- hide -->
 > [!todo] Tulevikus
 > Aine võiks olla semestril mis on peale muusikute audioprogrammide ainet. 4. aasta tundub veits kentsakas seda anda.
 
 ---
+<!-- /hide -->
 ## Üldinfo
 
 > [!danger] RÜTM, PÄRIMUS 4 - SÜGIS
@@ -40,8 +42,9 @@ publish: false
 > 	- Millised olid protsessi käigus takerdumise hetked ja kuidas aines omandatud teadmised aitasid mingites olukordades paremini toime tulla. 
 > 	- Kas jäid tulemiga rahule, mida teeksid tulevikus teisiti?
 
----
+<!-- hide -->
 
+---
 ## Tudengid
 
 | Nimi             | Puudumisi (max 3) | Kodutöid tegemata |
@@ -50,5 +53,7 @@ publish: false
 | Helery Kõrvemaa  | 1 (15.09)         |                   |
 | Ekke Kaarel Rand | 2 (15.09, 22.09)  |                   |
 | Helen Piir       |                   | 1 (5.)            |
-| Raphael          |                   | 1 (5.)            |
+| Raphael          |                   |                   |
 Ekke puudub 27.10
+
+<!-- /hide -->

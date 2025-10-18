@@ -4,10 +4,8 @@ jrk: "1"
 kodutöö: "[[Sissejuhatus Digitaalsesse Helitöötlusse#Laulu valimine]]"
 publish: true
 ---
-# Kuidas saab laul Sinu peast teiste kõrva(klappi)desse?
-
+## Kuidas saab laul Sinu peast teiste kõrva(klappi)desse?
 ---
-
 ## 1. Laulukirjutamine ja demo tegemine
 
 - Määrab vundamendi kõigeks mis järgneb.
@@ -101,14 +99,9 @@ NOTE:
 
 - Laul pole valmis seni kuni teised seda kuulata ei saa.
 
+<!-- hide -->
 NOTE:
 > - reaalne näide: [klaaspilvedel DEMO-MIX-MASTER.RPP](file:///Users/mattiasprt/Library/CloudStorage/Dropbox/ÕPETAMINE/DEMO-PROD-MIX-MASTER/klaaspilvedel%20DEMO-MIX-MASTER.RPP)
-
----
-
-# Üld
-
-![[04 - Õpetamine/Ained/Digitaalne Helitöötlus#Üldinfo]]
 
 ---
 
@@ -120,3 +113,5 @@ NOTE:
 	- Vastates sellele meilile privaatselt, et kogu selle aine vestlus oleks ühe meilivestluse all. Nii ka edaspidi!
 	- Loengus on vaja kasutada laulu faili, tekitan selle teile.
 	- Kui teil on endil kõrgkvaliteediga fail laulust olemas siis laadige see [SIIA](https://www.dropbox.com/request/WDUkrqufv7TzTWDv8zeU "https://www.dropbox.com/request/WDUkrqufv7TzTWDv8zeU").
+
+<!-- /hide -->

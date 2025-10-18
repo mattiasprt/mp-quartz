@@ -18,5 +18,9 @@ singli master vs kogumiku master
 
 kuidas otsida enda tööle masterdajat? kas see võiks olla sama inimene kes mixib? mis on eelised ja puudused
 
+kas olete varasemalt eristanud masteri ja mixi faasi?
+
+näita projekte
+
 tagasisidestamise kodutöö
 

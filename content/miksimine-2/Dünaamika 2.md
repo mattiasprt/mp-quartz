@@ -1,7 +1,7 @@
 ---
 aine: "[[04 - Õpetamine/content/miksimine-2/index|Miksimine 2]]"
 jrk:
-publish: true
+publish: false
 ---
 # Dünaamika 2
 ---
@@ -60,6 +60,11 @@ NOTE:
 
 ---
 
+## Sidechain compression
+
+- 
+
+---
 # Kodutöö
 
 - Vali laul: https://is.gd/MJ7iNi või ekspordi enda produtud demost trackid.
