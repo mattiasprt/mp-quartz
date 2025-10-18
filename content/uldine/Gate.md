@@ -10,8 +10,8 @@ Staatilise müra vähendamiseks vaiksetel hetkedel. Bleedi vähendamiseks.
 - Release - Millisekundites kui kaua läheb aega, et gate sulguks peale tresholdist alla langemist
 - Hold - Kui kaua gate minimaalselt avatuna püsib peale tresholdi ületust. 
 
-NOTE:
->- Lisa:
+>NOTE:
+>- Lisa: 
 > ![[Pasted image 20250826182105.png|600]]
 
 ---

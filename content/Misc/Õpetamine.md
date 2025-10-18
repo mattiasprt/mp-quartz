@@ -9,6 +9,7 @@
 | HVVK.00.068  | [[04 - Õpetamine/content/miksimine-1/index\|Miksimine 1]]                       | II         | PR II        | 20        | 2       |           |         |
 |              | [[04 - Õpetamine/content/miksimine-2/index\|Miksimine 2]]                       | II         | PR II        |           |         | 20        | 2       |
 |              | [[04 - Õpetamine/content/miksimine-3/index\|Miksimine 3]]                       | III        | PR III       | 20        | 2       |           |         |
+![[Quartz#Quartz]]
 
 ---
 ## [[Õppeaine|Õppeaine Template]]

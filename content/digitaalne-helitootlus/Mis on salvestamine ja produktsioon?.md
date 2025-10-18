@@ -2,7 +2,7 @@
 aine: "[[04 - Õpetamine/content/digitaalne-helitootlus/index|Digitaalne Helitöötlus]]"
 publish: true
 jrk: "5"
-kodutöö: "[[Mis on salvestamine ja produktsioon#Loop]]"
+kodutöö: "[[Mis on salvestamine ja produktsioon?#Loop]]"
 tehtud: true
 ---
 # Meenutuseks:

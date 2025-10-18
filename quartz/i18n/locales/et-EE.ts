@@ -33,7 +33,7 @@ export default {
       title: "Reader mode",
     },
     explorer: {
-      title: "Ained",
+      title: "Materjalid",
     },
     footer: {
       createdWith: "Created with",

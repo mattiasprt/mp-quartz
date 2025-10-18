@@ -9,7 +9,7 @@ publish: true
 - Et säilitada objektiivsus: vaheta keskkonda, tee pause ja puhka kõrvu, kuula muud muusikat.
 
 <!-- hide -->
-NOTE:
+>NOTE:
 >- "Car test" fenomen, loogiline ainult siis kui oled autos palju muusikat kuulanud ja oled ära õppinud kuidas süsteem kõlab.
 >- Hea näide: annõun R-10 vs R-11. r11 panin airpodsid ja kuulsin vilinat, nüüd r10s midagi muud ei kuulegi, haige et lasin selle enne läbi. Kuulamissüsteemide vahetamine on tähtis!
 
@@ -36,7 +36,7 @@ NOTE:
 - "Valjem kõlab paremini" tõenäoliselt ka selle tõttu, et siis lihtsalt kõrv kuuleb rohkem võrdset tonaalset spektrumit.
 
 <!-- hide -->
-NOTE: 
+>NOTE: 
 >- APU Loudness Contoursi näitel Equal Loudness Curves'ide tutvustus.
 
 <!-- /hide -->

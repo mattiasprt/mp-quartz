@@ -9,7 +9,7 @@ tehtud: true
 ## Tere! :~)
 (tsau võib ka öelda)
 
-NOTE: 
+>NOTE: 
 > - Milline on varasem kokkupuude miksimisega,
 > - mis ettekujutus sellest protsessist on, 
 > - mis DAWi ja OSi kasutad, 

@@ -40,7 +40,7 @@ tehtud: true
 	- Veendu, et fail laadis üles!
 5. Kirjuta minu meilile vastuseks: kuidas protsess läks, kui takerdusite siis mille taha ja kas ülesanne aitas sul hoomata paremini tööriistade otstarvet ja kasutust. Kui midagi jäi segaseks siis kirjutage üles küsimused mida soovite veel arutada!
 
-NOTE:
+>NOTE:
 >- Hea võimalus teil oma DAWiga tutvust teha
 
 <!-- /hide -->

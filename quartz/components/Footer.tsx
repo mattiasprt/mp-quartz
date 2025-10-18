@@ -12,20 +12,28 @@ export default ((opts?: Options) => {
     const year = new Date().getFullYear()
     const links = opts?.links ?? []
     return (
-      <footer class={`${displayClass ?? ""}`}>
-        <p>
-          {i18n(cfg.locale).components.footer.createdWith}{" "}
-          <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
-        </p>
-        <ul>
-          {Object.entries(links).map(([text, link]) => (
-            <li>
-              <a href={link}>{text}</a>
-            </li>
-          ))}
-        </ul>
-      </footer>
-    )
+      <footer class={`${displayClass ?? ""}`}>  
+        <p>  
+          © 2025 Mattias Pärt. <br />  
+          See materjal on avaldatud{" "}  
+          <a   
+            href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.et"   
+            target="_blank"   
+            rel="noopener noreferrer"  
+          >  
+            Creative Commons BY-NC-SA 4.0 Rahvusvahelise litsentsi  
+          </a>{" "}  
+          alusel. Seda võib kasutada mitteärilistel eesmärkidel, autorile viidates ning sama litsentsi tingimustel.  
+        </p>  
+        <ul>  
+          {Object.entries(links).map(([text, link]) => (  
+            <li>  
+              <a href={link}>{text}</a>  
+            </li>  
+          ))}  
+        </ul>  
+      </footer>  
+    )  
   }
 
   Footer.css = style

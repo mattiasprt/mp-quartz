@@ -5,7 +5,7 @@ kodutöö: "[[Sissejuhatus Digitaalsesse Helitöötlusse#Laulu valimine]]"
 publish: true
 tehtud: true
 ---
-## Kuidas saab laul Sinu peast teiste kõrva(klappi)desse?
+# Kuidas saab laul Sinu peast teiste kõrva(klappi)desse?
 ---
 ## 1. Laulukirjutamine ja demo tegemine
 
@@ -17,7 +17,7 @@ tehtud: true
 - Demo tegemine DAWis määrab kindlama sihi.
 	- Samuti ka referentside leidmine
 
-NOTE:
+>NOTE:
 > - voice recordingud, lihtsad demod dawis, ideede välja joonistamine/sketchimine
 > - ilmselgelt kõik etapid on paindlikud ja voolavad ühest teise sujuvalt, vastavalt vajadusele aga konkreetse piiri tõmbamine on tihtipeale tõhus.
 
@@ -30,7 +30,7 @@ NOTE:
 - Partiid mängitakse stuudios sisse, või kasutatakse digitaalseid MIDI instrumente.
 - Tekib konkreetsem kõlapilt.
 
-NOTE:
+>NOTE:
 > - salvestamine tuntud inglise keeles kui ka tracking
 
 ---
@@ -44,7 +44,7 @@ NOTE:
 	- Müra ja segavate elementide eemaldamine.
 - Tegu ei ole ilmtingimata "vigade parandusega", tegu on esitluse viimistlemisega. 
 
-NOTE:
+>NOTE:
 > - Esitades enda partiid anna lihtsalt enda esitusega maksimum kasutades nii head tehnikat kui suudad. Väga palju on võimalik peale esitust korrigeerida, kuid ärge kasutage seda kui karku mille najal enda esitust ülal hoida!
 > - või kui üks take ei ole tervikuna ideaalne siis samuti, see on täiesti okei teha lõplik produkt nii et see kõlab ideaalselt, kasutades mitut takei. kuulajat võib ju "petta" kui see tähendab et tema saab selle loo kuulamisest suurema naudingu.
 
@@ -61,7 +61,7 @@ NOTE:
  - Vahetu suhtlus artisti ja inseneri vahel, et insener teeniks lugu nii nagu artist seda ette kujutab. Pidev tagasisidestamine ja uute versioonide tegemine.
  - ~~*"fix it in the mix"*~~
 
-NOTE:
+>NOTE:
 > - tõhusa suhtluse ja tagasisidestamise jaoks on vaja analüütilise kuulamise oskust ja korrektse sõnavara kasutust
 
 ---
@@ -101,7 +101,7 @@ NOTE:
 - Laul pole valmis seni kuni teised seda kuulata ei saa.
 
 <!-- hide -->
-NOTE:
+>NOTE:
 > - reaalne näide: [klaaspilvedel DEMO-MIX-MASTER.RPP](file:///Users/mattiasprt/Library/CloudStorage/Dropbox/ÕPETAMINE/DEMO-PROD-MIX-MASTER/klaaspilvedel%20DEMO-MIX-MASTER.RPP)
 
 ---

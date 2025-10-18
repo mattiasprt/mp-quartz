@@ -15,7 +15,7 @@ publish: true
 | Miinused     | Kui heli on "tihendatud" siis algset kvaliteeti tagasi enam ei saa. Korduvalt tihendades, kaotab fail aina rohkem enda kvaliteeti. | Suurem failimaht, kuigi tänapäeval pole probleem                                     |
 
 <!-- hide -->
-NOTE:
+>NOTE:
 > - Näita kellegi laulu põhjal näidet visuaalsest ja kuuldelisest erinevusest lossy ja losslessi vahel.
 
 <!-- /hide -->
