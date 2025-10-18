@@ -35,8 +35,8 @@ publish: true
 
 | Nimi                              | Märkmed    | Puudumisi (max 2) | Kodutöid tegemata |
 | --------------------------------- | ---------- | ----------------- | ----------------- |
-| Lisanna Kuningas                  | Mac, Logic |                   |                   |
+| Lisanna Kuningas                  | Mac, Logic | 1 (15.10)         |                   |
 | Oskar Piik                        | Mac, FL    |                   |                   |
 | Pepi aka Jose Manuel Prieto Garay | Mac, Logic | 1 (17.09)         |                   |
-| Maaria Õun                        | Mac, Logic |                   |                   |
+| Maaria Õun                        | Mac, Logic | 1 (15.10)         |                   |
 | Kasper Suur                       | Win, ?     |                   |                   |

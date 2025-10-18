@@ -1,6 +1,6 @@
 ---
 aine: "[[04 - Õpetamine/content/digitaalne-helitöötlus/index|Digitaalne Helitöötlus]]"
-publish: true
+publish: false
 jrk: "5"
 kodutöö: "[[Salvestamine ja Produktsioon#Loop]]"
 ---

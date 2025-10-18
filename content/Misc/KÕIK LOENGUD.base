@@ -3,6 +3,7 @@ filters:
     - file.folder.startsWith("04 - Õpetamine/")
     - file.basename != "index"
     - file.folder != "04 - Õpetamine/content/Misc"
+    - '!file.folder.startsWith("04 - Õpetamine/content/üldine")'
 properties:
   file.name:
     displayName: Loeng
@@ -28,10 +29,10 @@ views:
     name: Miksimine (1.osa)
     filters:
       and:
-        - aine == link("Miksimine (1. osa)")
+        - aine == link("04 - Õpetamine/content/miksimine-1/index", "Miksimine 1")
     order:
       - jrk
-      - quartz
+      - publish
       - file.name
       - kodutöö
     sort:
@@ -40,8 +41,8 @@ views:
       - property: file.name
         direction: ASC
     columnSize:
+      note.publish: 3
       file.name: 421
-      note.quartz: -693
   - type: table
     name: Miksimine (2.osa)
     filters:
@@ -54,37 +55,40 @@ views:
     name: Miksimine (3.osa)
     filters:
       and:
-        - aine == link("Miksimine (3. osa)")
+        - aine == link("04 - Õpetamine/content/miksimine-3/index", "Miksimine 3")
     order:
       - jrk
-      - quartz
+      - publish
       - file.name
     sort:
+      - property: file.name
+        direction: ASC
       - property: jrk
         direction: ASC
+    columnSize:
+      note.publish: 6
   - type: table
     name: Digitaalne Helitöötlus
     filters:
       and:
-        - aine == link("Digitaalne Helitöötlus")
+        - aine == link("04 - Õpetamine/content/digitaalne-helitöötlus/index", "Digitaalne Helitöötlus")
     order:
       - jrk
-      - quartz
+      - publish
       - file.name
       - kodutöö
     sort:
       - property: jrk
         direction: ASC
     columnSize:
-      note.antud: 5
+      note.publish: 78
   - type: table
     name: Stuudiotöö (1.osa)
     filters:
       and:
-        - aine == link("Stuudiotöö (1. osa)")
+        - aine == link("04 - Õpetamine/content/stuudiotöö-1/index", "Stuudiotöö 1")
     order:
       - jrk
-      - quartz
       - file.name
       - kodutöö
     sort:
@@ -94,8 +98,12 @@ views:
     name: Stuudiotöö (2.osa)
     filters:
       and:
-        - aine == link("Stuudiotöö (2. osa)")
+        - aine == link("04 - Õpetamine/content/stuudiotöö-2/index", "Stuudiotöö 2")
     order:
       - jrk
-      - quartz
       - file.name
+    sort:
+      - property: jrk
+        direction: ASC
+      - property: file.name
+        direction: ASC

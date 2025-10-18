@@ -53,17 +53,6 @@
 			"color":"1"
 		},
 		{
-			"id":"28b0540804db0ac3",
-			"type":"text",
-			"text":"Kõrvu kriipiv",
-			"styleAttributes":{"textAlign":"center","shape":"pill"},
-			"x":1020,
-			"y":-280,
-			"width":320,
-			"height":60,
-			"color":"1"
-		},
-		{
 			"id":"7e8f6251774a87ac",
 			"type":"text",
 			"text":"*Harsh* / Terav ",
@@ -91,6 +80,17 @@
 		},
 		{"id":"7cd5879e27bac516","type":"file","file":"99 - Attachments & Misc/Pasted image 20250826141051.png","x":-390,"y":-1156,"width":1730,"height":636},
 		{
+			"id":"1ba3e3d0d17a68c9",
+			"type":"text",
+			"text":"Täidlane",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":270,
+			"y":-160,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
 			"id":"6d0d5b52f0cf6ce6",
 			"type":"text",
 			"text":"*Rumble* / Müdin",
@@ -100,17 +100,6 @@
 			"width":320,
 			"height":60,
 			"color":"1"
-		},
-		{
-			"id":"de4339a394e9ea87",
-			"type":"text",
-			"text":"**Balansis**",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-560,
-			"y":-220,
-			"width":260,
-			"height":180,
-			"color":"4"
 		},
 		{
 			"id":"ae0d9a5122f3ac92",
@@ -131,6 +120,39 @@
 			"x":140,
 			"y":-340,
 			"width":260,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"de4339a394e9ea87",
+			"type":"text",
+			"text":"**Balansis**",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-560,
+			"y":-220,
+			"width":260,
+			"height":180,
+			"color":"4"
+		},
+		{
+			"id":"f4710daa9715ea81",
+			"type":"text",
+			"text":"*Present*, *Presence*, Konkreetne",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":720,
+			"y":-160,
+			"width":300,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"28b0540804db0ac3",
+			"type":"text",
+			"text":"Kõrvu kriipiv",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":1020,
+			"y":-280,
+			"width":320,
 			"height":60,
 			"color":"1"
 		},
@@ -168,15 +190,15 @@
 			"color":"1"
 		},
 		{
-			"id":"912aeb49ddf14fd1",
+			"id":"b6eadb077d968937",
 			"type":"text",
-			"text":"**Liiga vähe**",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-560,
-			"y":-40,
-			"width":260,
-			"height":180,
-			"color":"3"
+			"text":"*Air* / Õhulisus / Sädelus",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":1020,
+			"y":-100,
+			"width":320,
+			"height":60,
+			"color":"4"
 		},
 		{
 			"id":"2693561a6ad948d4",
@@ -201,6 +223,17 @@
 			"color":"4"
 		},
 		{
+			"id":"912aeb49ddf14fd1",
+			"type":"text",
+			"text":"**Liiga vähe**",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-560,
+			"y":-40,
+			"width":260,
+			"height":180,
+			"color":"3"
+		},
+		{
 			"id":"115167c8c64319e5",
 			"type":"text",
 			"text":"Õõnes",
@@ -210,28 +243,6 @@
 			"width":390,
 			"height":60,
 			"color":"3"
-		},
-		{
-			"id":"1ba3e3d0d17a68c9",
-			"type":"text",
-			"text":"Täidlane",
-			"styleAttributes":{"textAlign":"center","shape":"pill"},
-			"x":270,
-			"y":-160,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"f4710daa9715ea81",
-			"type":"text",
-			"text":"*Present*, *Presence*, Konkreetne",
-			"styleAttributes":{"textAlign":"center","shape":"pill"},
-			"x":720,
-			"y":-160,
-			"width":300,
-			"height":60,
-			"color":"4"
 		},
 		{
 			"id":"42489c3db5d16e5e",
@@ -267,13 +278,35 @@
 			"color":"2"
 		},
 		{
-			"id":"2fcb1e8f04d2998a",
+			"id":"b6583248146d6f2f",
 			"type":"text",
-			"text":"Kauge, puudub *Presence* / Karakter",
+			"text":"Elutu",
 			"styleAttributes":{"textAlign":"center","shape":"pill"},
-			"x":660,
-			"y":80,
-			"width":360,
+			"x":1020,
+			"y":-40,
+			"width":320,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"a05305ca99e30ebb",
+			"type":"text",
+			"text":"**60**",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-20,
+			"y":220,
+			"width":60,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"be7e9d4addd734a5",
+			"type":"text",
+			"text":"\"Teki all\", *Dark*",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":790,
+			"y":20,
+			"width":550,
 			"height":60,
 			"color":"3"
 		},
@@ -287,6 +320,50 @@
 			"width":260,
 			"height":60,
 			"color":"3"
+		},
+		{
+			"id":"2fcb1e8f04d2998a",
+			"type":"text",
+			"text":"Kauge, puudub *Presence* / Karakter",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":660,
+			"y":80,
+			"width":360,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"6cb4877897ec4a2b",
+			"type":"text",
+			"text":"**2k**",
+			"styleAttributes":{"textAlign":"center"},
+			"x":760,
+			"y":220,
+			"width":60,
+			"height":60,
+			"color":"5"
+		},
+		{
+			"id":"b23d494897f945e2",
+			"type":"text",
+			"text":"**600**",
+			"styleAttributes":{"textAlign":"center"},
+			"x":500,
+			"y":220,
+			"width":60,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"6fc13bd0ca9461e1",
+			"type":"text",
+			"text":"**6k**",
+			"styleAttributes":{"textAlign":"center"},
+			"x":1020,
+			"y":220,
+			"width":60,
+			"height":60,
+			"color":"6"
 		},
 		{
 			"id":"c346722b3ec94271",
@@ -322,28 +399,6 @@
 			"color":"6"
 		},
 		{
-			"id":"a05305ca99e30ebb",
-			"type":"text",
-			"text":"**60**",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-20,
-			"y":220,
-			"width":60,
-			"height":60,
-			"color":"2"
-		},
-		{
-			"id":"be7e9d4addd734a5",
-			"type":"text",
-			"text":"\"Teki all\", *Dark*",
-			"styleAttributes":{"textAlign":"center","shape":"pill"},
-			"x":790,
-			"y":20,
-			"width":550,
-			"height":60,
-			"color":"3"
-		},
-		{
 			"id":"39b9be5e4641a41e",
 			"type":"text",
 			"text":"**20**",
@@ -353,40 +408,6 @@
 			"width":60,
 			"height":60,
 			"color":"1"
-		},
-		{
-			"id":"b6eadb077d968937",
-			"type":"text",
-			"text":"*Air* / Õhulisus / Sädelus",
-			"styleAttributes":{"textAlign":"center","shape":"pill"},
-			"x":1020,
-			"y":-100,
-			"width":320,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"b6583248146d6f2f",
-			"type":"text",
-			"text":"Elutu",
-			"styleAttributes":{"textAlign":"center","shape":"pill"},
-			"x":1020,
-			"y":-40,
-			"width":320,
-			"height":60,
-			"color":"3"
-		},
-		{"id":"85249af9067feb9f","type":"file","file":"99 - Attachments & Misc/Pasted image 20250826173850.png","x":-632,"y":400,"width":2065,"height":1240},
-		{
-			"id":"f0d206747350a0bc",
-			"type":"text",
-			"text":"**20k**",
-			"styleAttributes":{"textAlign":"center"},
-			"x":1280,
-			"y":220,
-			"width":60,
-			"height":60,
-			"color":"6"
 		},
 		{
 			"id":"ad94ed9e7d99a7ba",
@@ -399,34 +420,13 @@
 			"height":60,
 			"color":"3"
 		},
+		{"id":"85249af9067feb9f","type":"file","file":"99 - Attachments & Misc/Pasted image 20250826173850.png","x":-632,"y":400,"width":2065,"height":1240},
 		{
-			"id":"6cb4877897ec4a2b",
+			"id":"f0d206747350a0bc",
 			"type":"text",
-			"text":"**2k**",
+			"text":"**20k**",
 			"styleAttributes":{"textAlign":"center"},
-			"x":760,
-			"y":220,
-			"width":60,
-			"height":60,
-			"color":"5"
-		},
-		{
-			"id":"b23d494897f945e2",
-			"type":"text",
-			"text":"**600**",
-			"styleAttributes":{"textAlign":"center"},
-			"x":500,
-			"y":220,
-			"width":60,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"6fc13bd0ca9461e1",
-			"type":"text",
-			"text":"**6k**",
-			"styleAttributes":{"textAlign":"center"},
-			"x":1020,
+			"x":1280,
 			"y":220,
 			"width":60,
 			"height":60,

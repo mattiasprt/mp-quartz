@@ -3,11 +3,15 @@ aine: "[[04 - Õpetamine/content/miksimine-1/index|Miksimine 1]]"
 jrk: "8"
 publish: false
 ---
+%% materjali juurde
+kõlanäited
+ER LR, reverbi ja delay täiendavad seaded %%
+
 ![[Tööriistakast#Efektid]]
 
 ## EQ enne vs pärast efekti
 
-- Pluginates sisseehitatud high- ja lowcut.
+- Pluginates sisseehitatud high- ja lowcut, enamasti post-reverb.
 - Paindlikum on aux kanalil ise EQda. Näiteks vokaali reverbi puhul EQ essid ja mudasus välja enne reverbi saatmist jne (või näiteks de-esser enne reverbi).
 - Lowcut reverbidel vähendab miksis mudasuse kogunemist. EQ kuulates tervet miksi, mitte solos!
 

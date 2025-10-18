@@ -9,128 +9,99 @@
 		{"id":"f56db2cdd503be79","type":"group","x":-180,"y":20,"width":180,"height":100},
 		{"id":"9d7f587db222107b","type":"group","x":220,"y":20,"width":180,"height":100},
 		{
-			"id":"4c06a3bb038bcb1b",
+			"id":"6eb09490f1a28635",
 			"type":"text",
-			"text":"STUUDIO OUT 9-16",
-			"styleAttributes":{
-				"shape":null
-			},
-			"x":-1060,
-			"y":280,
-			"width":300,
-			"height":60,
-			"color":"2"
+			"text":"",
+			"styleAttributes":{},
+			"x":-1230,
+			"y":1685,
+			"width":60,
+			"height":60
 		},
 		{
-			"id":"ec14c6b06490a597",
+			"id":"c490b30f3cfc802c",
 			"type":"text",
-			"text":"NEVE IN 9-16",
+			"text":"",
 			"styleAttributes":{},
-			"x":-1060,
+			"x":-1230,
+			"y":1785,
+			"width":60,
+			"height":60
+		},
+		{
+			"id":"6d7f2b9a90b7ebd0",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{},
+			"x":-1540,
+			"y":1685,
+			"width":60,
+			"height":60
+		},
+		{
+			"id":"141a7b5c7bdfbdef",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{},
+			"x":-1540,
+			"y":1785,
+			"width":60,
+			"height":60
+		},
+		{
+			"id":"88b0cf0f4005ae52",
+			"type":"text",
+			"text":"SPL GAINSTATION IN 1-8",
+			"styleAttributes":{},
+			"x":-1500,
 			"y":380,
 			"width":300,
 			"height":60,
 			"color":"2"
 		},
 		{
-			"id":"bdbdc68ce802218f",
+			"id":"b15f20df0cd0d6be",
 			"type":"text",
-			"text":"STUUDIO OUT 17-18",
+			"text":"[SPL GainStation 1-8](https://spl.audio/wp-content/uploads/GS8-Mk2_BA_E.pdf) ![[gainstation Background Removed.png]]",
 			"styleAttributes":{
 				"shape":null
 			},
-			"x":-620,
-			"y":280,
-			"width":260,
-			"height":60,
-			"color":"2"
+			"x":-1500,
+			"y":540,
+			"width":300,
+			"height":140,
+			"color":"1"
 		},
 		{
-			"id":"6a226540cee5c6ac",
+			"id":"fde9c315cdd4e7de",
 			"type":"text",
-			"text":"19",
-			"styleAttributes":{
-				"shape":null
-			},
-			"x":-160,
-			"y":40,
-			"width":60,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"1d61a79b7dc1bd98",
-			"type":"text",
-			"text":"20",
-			"styleAttributes":{
-				"shape":null
-			},
-			"x":-80,
-			"y":40,
-			"width":60,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"092024b33f5eefc3",
-			"type":"text",
-			"text":"18",
-			"styleAttributes":{
-				"shape":null
-			},
-			"x":-480,
-			"y":40,
-			"width":60,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"abd72363d6088b33",
-			"type":"text",
-			"text":"13",
-			"styleAttributes":{
-				"shape":null
-			},
-			"x":-1060,
-			"y":120,
-			"width":60,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"0d76a8bac679c696",
-			"type":"text",
-			"text":"500 SERIES 1-2",
+			"text":"**001/002 <u>ON</u> when RECORDING or using HARDWARE**\n1. Mac\n2. Converters\n3. Behringer Monitoring\n4. Black Lion (Turns on the following)\n\t1. MTRX + OUTBOARD\n\t2. PREAMPS\n\t3. SPEAKERS\n\n**OFF**\n1. PREAMPS\n2. Black Lion (Leave MTRX + OUTBOARD & SPEAKERS on)\n3. Behringer Monitoring\n4. Converters\n5. Mac Shut Down",
 			"styleAttributes":{},
-			"x":-220,
-			"y":380,
-			"width":260,
-			"height":60,
-			"color":"2"
+			"x":-2080,
+			"y":680,
+			"width":480,
+			"height":460
 		},
 		{
-			"id":"ab259c84449d4423",
+			"id":"25abc3a4baaa2bbc",
 			"type":"text",
-			"text":"T-TECH 1-2",
+			"text":"[Black Lion PG-2 Type F Power Conditioner](https://www.blacklionaudio.com/wp-content/uploads/2025/03/Black-Lion-Audio-PG-2-Type-F-Owners-Manual.pdf) ![[blacklion.png]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1500,
+			"y":1020,
+			"width":300,
+			"height":140,
+			"color":"1"
+		},
+		{
+			"id":"3951049cb9925e23",
+			"type":"text",
+			"text":"**001/002 <u>ON</u> when MIXING**\n1. Mac\n2. Black Lion (Turns on the following)\n\t1. MTRX + OUTBOARD\n\t2. SPEAKERS\n\n**OFF = ON in reverse**",
 			"styleAttributes":{},
-			"x":-620,
-			"y":380,
-			"width":260,
-			"height":60,
-			"color":"2"
-		},
-		{
-			"id":"1151703e702942da",
-			"type":"text",
-			"text":"STUUDIO OUT 19-20",
-			"styleAttributes":{
-				"shape":null
-			},
-			"x":-220,
-			"y":280,
-			"width":260,
-			"height":60,
-			"color":"2"
+			"x":-2080,
+			"y":1160,
+			"width":480,
+			"height":235
 		},
 		{
 			"id":"ab44f3fa047a0f06",
@@ -172,17 +143,85 @@
 			"color":"4"
 		},
 		{
-			"id":"83a84b22e57f41cb",
+			"id":"935cdf64cc447e16",
 			"type":"text",
-			"text":"17",
+			"text":"16",
 			"styleAttributes":{
 				"shape":null
 			},
-			"x":-560,
-			"y":40,
+			"x":-820,
+			"y":120,
 			"width":60,
 			"height":60,
 			"color":"4"
+		},
+		{
+			"id":"4c06a3bb038bcb1b",
+			"type":"text",
+			"text":"STUUDIO OUT 9-16",
+			"styleAttributes":{
+				"shape":null
+			},
+			"x":-1060,
+			"y":280,
+			"width":300,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"cc5b4759f1efda68",
+			"type":"text",
+			"text":"002",
+			"styleAttributes":{},
+			"x":-1480,
+			"y":1380,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"82410783262f0c6d",
+			"type":"text",
+			"text":"PATCHBAY I/O",
+			"styleAttributes":{},
+			"x":-1480,
+			"y":1485,
+			"width":260,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"d0b46304ea739067",
+			"type":"text",
+			"text":"Behringer Monitoring",
+			"styleAttributes":{},
+			"x":-880,
+			"y":1380,
+			"width":260,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"664d3db222b7b921",
+			"type":"text",
+			"text":"Ethernet Ports",
+			"styleAttributes":{},
+			"x":-880,
+			"y":1480,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"4b7a8f02e0ac1c25",
+			"type":"text",
+			"text":"HARDWARE",
+			"styleAttributes":{},
+			"x":-1480,
+			"y":1585,
+			"width":260,
+			"height":60,
+			"color":"1"
 		},
 		{
 			"id":"8f9f206102e4500f",
@@ -211,13 +250,37 @@
 			"color":"4"
 		},
 		{
-			"id":"935cdf64cc447e16",
+			"id":"b3302fb0f80a91d8",
 			"type":"text",
-			"text":"16",
+			"text":"3",
 			"styleAttributes":{
 				"shape":null
 			},
-			"x":-820,
+			"x":-1340,
+			"y":40,
+			"width":60,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"ec14c6b06490a597",
+			"type":"text",
+			"text":"NEVE IN 9-16",
+			"styleAttributes":{},
+			"x":-1060,
+			"y":380,
+			"width":300,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"abd72363d6088b33",
+			"type":"text",
+			"text":"13",
+			"styleAttributes":{
+				"shape":null
+			},
+			"x":-1060,
 			"y":120,
 			"width":60,
 			"height":60,
@@ -235,6 +298,41 @@
 			"width":60,
 			"height":60,
 			"color":"4"
+		},
+		{
+			"id":"470806fd23e68af8",
+			"type":"text",
+			"text":"[Neve 1073OPX ](https://www.ams-neve.com/wp-content/uploads/2022/03/OPX-User-Manual-Issue-2-1.pdf) ![[neve Background Removed.png]]",
+			"styleAttributes":{
+				"shape":null
+			},
+			"x":-1060,
+			"y":540,
+			"width":300,
+			"height":140,
+			"color":"1"
+		},
+		{
+			"id":"bc9f6ccefac39265",
+			"type":"text",
+			"text":"NEVE OUT",
+			"styleAttributes":{},
+			"x":-1060,
+			"y":740,
+			"width":300,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"2dccbb210cfd256d",
+			"type":"text",
+			"text":"I/O IN 9-16",
+			"styleAttributes":{},
+			"x":-1060,
+			"y":840,
+			"width":300,
+			"height":60,
+			"color":"2"
 		},
 		{
 			"id":"b9c826d246907963",
@@ -263,6 +361,19 @@
 			"color":"4"
 		},
 		{
+			"id":"0e0d6565b8761bba",
+			"type":"text",
+			"text":"7",
+			"styleAttributes":{
+				"shape":null
+			},
+			"x":-1340,
+			"y":120,
+			"width":60,
+			"height":60,
+			"color":"4"
+		},
+		{
 			"id":"04d8194d992dae8c",
 			"type":"text",
 			"text":"1",
@@ -270,6 +381,441 @@
 				"shape":null
 			},
 			"x":-1500,
+			"y":40,
+			"width":60,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"0c06512e4d74d66f",
+			"type":"text",
+			"text":"2",
+			"styleAttributes":{
+				"shape":null
+			},
+			"x":-1420,
+			"y":40,
+			"width":60,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"dd8b90482e80f947",
+			"type":"text",
+			"text":"Samal ajal mõlemat ei saa",
+			"styleAttributes":{"textAlign":"center","shape":"pill","border":"dashed"},
+			"x":-620,
+			"y":840,
+			"width":140,
+			"height":60
+		},
+		{
+			"id":"b1e653f84d26d05b",
+			"type":"text",
+			"text":"5",
+			"styleAttributes":{
+				"shape":null
+			},
+			"x":-1500,
+			"y":120,
+			"width":60,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"5ec5f13b1a803b7c",
+			"type":"text",
+			"text":"6",
+			"styleAttributes":{
+				"shape":null
+			},
+			"x":-1420,
+			"y":120,
+			"width":60,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"1a45b28efc054b32",
+			"type":"text",
+			"text":"STUUDIO OUT 1-8",
+			"styleAttributes":{
+				"shape":null
+			},
+			"x":-1500,
+			"y":280,
+			"width":300,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"1151703e702942da",
+			"type":"text",
+			"text":"STUUDIO OUT 19-20",
+			"styleAttributes":{
+				"shape":null
+			},
+			"x":-220,
+			"y":280,
+			"width":260,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"fe37f4d69e246db7",
+			"type":"text",
+			"text":"STUUDIO OUT 21-22",
+			"styleAttributes":{
+				"shape":null
+			},
+			"x":180,
+			"y":280,
+			"width":260,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"9aaebe18c1437251",
+			"type":"text",
+			"text":"VARIMU IN 1-2",
+			"styleAttributes":{},
+			"x":1880,
+			"y":1360,
+			"width":260,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"b3f6e268bfc7ae36",
+			"type":"text",
+			"text":"Manley Vari-Mu",
+			"styleAttributes":{},
+			"x":1880,
+			"y":1460,
+			"width":260,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"c48df16486a331ab",
+			"type":"text",
+			"text":"VARIMU OUT",
+			"styleAttributes":{},
+			"x":1880,
+			"y":1560,
+			"width":260,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"bd1233b5f80ca062",
+			"type":"text",
+			"text":"DigiTech Studio V2 Quad",
+			"styleAttributes":{},
+			"x":1880,
+			"y":1740,
+			"width":260,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"97026c9ff27a05d9",
+			"type":"text",
+			"text":"STUUDIO OUT 23",
+			"styleAttributes":{
+				"shape":null
+			},
+			"x":580,
+			"y":280,
+			"width":260,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"3af76ec04091835e",
+			"type":"text",
+			"text":"Neumann Monitors 5.1",
+			"styleAttributes":{},
+			"x":-400,
+			"y":1880,
+			"width":260,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"dfd86b0017b7accb",
+			"type":"text",
+			"text":"Talkback Microphone",
+			"styleAttributes":{},
+			"x":-400,
+			"y":1280,
+			"width":260,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"25de0d3ddb10fdcc",
+			"type":"text",
+			"text":"Avid Converter 1",
+			"styleAttributes":{
+				"shape":null
+			},
+			"x":-330,
+			"y":1020,
+			"width":260,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"811add5834b5942b",
+			"type":"text",
+			"text":"500 SERIES 5",
+			"styleAttributes":{},
+			"x":580,
+			"y":380,
+			"width":260,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"ae8a0b682b73a0a4",
+			"type":"text",
+			"text":"STUUDIO OUT 24",
+			"styleAttributes":{
+				"shape":null
+			},
+			"x":980,
+			"y":280,
+			"width":260,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"b16cd886569e1971",
+			"type":"text",
+			"text":"500 SERIES 6",
+			"styleAttributes":{},
+			"x":980,
+			"y":380,
+			"width":260,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"f18715382c41f1a2",
+			"type":"text",
+			"text":"Avid Converter 2",
+			"styleAttributes":{
+				"shape":null
+			},
+			"x":175,
+			"y":1020,
+			"width":260,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"0d76a8bac679c696",
+			"type":"text",
+			"text":"500 SERIES 1-2",
+			"styleAttributes":{},
+			"x":-220,
+			"y":380,
+			"width":260,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"b6578d058bc6774d",
+			"type":"text",
+			"text":"RADIAL IN",
+			"styleAttributes":{},
+			"x":1340,
+			"y":380,
+			"width":260,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"e9f61f6f65447a1c",
+			"type":"text",
+			"text":"500 SERIES 3-4",
+			"styleAttributes":{},
+			"x":180,
+			"y":380,
+			"width":260,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"3a3db62a4810dae9",
+			"type":"text",
+			"text":"STEREO IN",
+			"styleAttributes":{},
+			"x":-70,
+			"y":1880,
+			"width":250,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"2ece23a6213ee62e",
+			"type":"text",
+			"text":"Avid MTRX",
+			"styleAttributes":{
+				"shape":null
+			},
+			"x":-70,
+			"y":1480,
+			"width":250,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"87951dfc81f9c671",
+			"type":"text",
+			"text":"Avid HDX",
+			"styleAttributes":{
+				"shape":null
+			},
+			"x":-70,
+			"y":1280,
+			"width":250,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"d454cd5df7ccc2f2",
+			"type":"text",
+			"text":"DISTRESSOR OUT 1-2",
+			"styleAttributes":{},
+			"x":1880,
+			"y":1020,
+			"width":260,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"7ee3cfd28225b0ba",
+			"type":"text",
+			"text":"Distressor 1-2",
+			"styleAttributes":{},
+			"x":1880,
+			"y":920,
+			"width":260,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"1b22927ecddfd99f",
+			"type":"text",
+			"text":"Ühendada nt. I/O IN 9-16",
+			"styleAttributes":{"textAlign":"center","shape":"pill","border":"dashed"},
+			"x":1400,
+			"y":840,
+			"width":140,
+			"height":60
+		},
+		{
+			"id":"c0769a59124bbbf2",
+			"type":"text",
+			"text":"INPUTS 31-32 (Flock)",
+			"styleAttributes":{},
+			"x":1340,
+			"y":1020,
+			"width":260,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"46ae150806a58975",
+			"type":"text",
+			"text":"DISTRESSOR IN 1-2",
+			"styleAttributes":{},
+			"x":1880,
+			"y":820,
+			"width":260,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"cf3680c78cd84f6c",
+			"type":"text",
+			"text":"[Flock Audio Digital PATCH](https://www.flockaudio.com/_files/ugd/4d2b38_54ef4bc90b914d62b7c27ee73fce1588.pdf) ![[flock Background Removed.png]]",
+			"styleAttributes":{},
+			"x":1340,
+			"y":1165,
+			"width":260,
+			"height":130,
+			"color":"1"
+		},
+		{
+			"id":"72502d0aa3a850fc",
+			"type":"text",
+			"text":"OUTPUTS 31-32 (Flock)",
+			"styleAttributes":{},
+			"x":1340,
+			"y":1360,
+			"width":260,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"34cc73c7e556a3c1",
+			"type":"text",
+			"text":"Mac",
+			"styleAttributes":{},
+			"x":435,
+			"y":1480,
+			"width":250,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"564792de45a45b51",
+			"type":"text",
+			"text":"I/O OUT 17-24",
+			"styleAttributes":{},
+			"x":175,
+			"y":1115,
+			"width":260,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"a81c66b257a51c40",
+			"type":"text",
+			"text":"[Grace Design m501 1-2](https://www.gracedesign.com/support/manuals/m501_manual_RevA.pdf) ![[grace Background Removed.png]]",
+			"styleAttributes":{
+				"shape":null
+			},
+			"x":-220,
+			"y":540,
+			"width":260,
+			"height":140,
+			"color":"1"
+		},
+		{
+			"id":"6a226540cee5c6ac",
+			"type":"text",
+			"text":"19",
+			"styleAttributes":{
+				"shape":null
+			},
+			"x":-160,
+			"y":40,
+			"width":60,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"1d61a79b7dc1bd98",
+			"type":"text",
+			"text":"20",
+			"styleAttributes":{
+				"shape":null
+			},
+			"x":-80,
 			"y":40,
 			"width":60,
 			"height":60,
@@ -328,26 +874,52 @@
 			"color":"4"
 		},
 		{
-			"id":"b3302fb0f80a91d8",
+			"id":"bdbdc68ce802218f",
 			"type":"text",
-			"text":"3",
+			"text":"STUUDIO OUT 17-18",
 			"styleAttributes":{
 				"shape":null
 			},
-			"x":-1340,
+			"x":-620,
+			"y":280,
+			"width":260,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"40101e6187941067",
+			"type":"text",
+			"text":"[Heritage 73 jr II 1-2](https://heritageaudio.com/wp-content/uploads/2022/09/73-JR-II_-User-Manual.pdf) ![[heritage Background Removed.png]]",
+			"styleAttributes":{
+				"shape":null
+			},
+			"x":180,
+			"y":540,
+			"width":260,
+			"height":140,
+			"color":"1"
+		},
+		{
+			"id":"83a84b22e57f41cb",
+			"type":"text",
+			"text":"17",
+			"styleAttributes":{
+				"shape":null
+			},
+			"x":-560,
 			"y":40,
 			"width":60,
 			"height":60,
 			"color":"4"
 		},
 		{
-			"id":"0c06512e4d74d66f",
+			"id":"092024b33f5eefc3",
 			"type":"text",
-			"text":"2",
+			"text":"18",
 			"styleAttributes":{
 				"shape":null
 			},
-			"x":-1420,
+			"x":-480,
 			"y":40,
 			"width":60,
 			"height":60,
@@ -365,141 +937,6 @@
 			"color":"2"
 		},
 		{
-			"id":"1b22927ecddfd99f",
-			"type":"text",
-			"text":"Ühendada nt. I/O IN 9-16",
-			"styleAttributes":{"textAlign":"center","shape":"pill","border":"dashed"},
-			"x":1400,
-			"y":840,
-			"width":140,
-			"height":60
-		},
-		{
-			"id":"9aaebe18c1437251",
-			"type":"text",
-			"text":"VARIMU IN 1-2",
-			"styleAttributes":{},
-			"x":1880,
-			"y":1360,
-			"width":260,
-			"height":60,
-			"color":"2"
-		},
-		{
-			"id":"b3f6e268bfc7ae36",
-			"type":"text",
-			"text":"Manley Vari-Mu",
-			"styleAttributes":{},
-			"x":1880,
-			"y":1460,
-			"width":260,
-			"height":60,
-			"color":"1"
-		},
-		{
-			"id":"c48df16486a331ab",
-			"type":"text",
-			"text":"VARIMU OUT",
-			"styleAttributes":{},
-			"x":1880,
-			"y":1560,
-			"width":260,
-			"height":60,
-			"color":"2"
-		},
-		{
-			"id":"bd1233b5f80ca062",
-			"type":"text",
-			"text":"DigiTech Studio V2 Quad",
-			"styleAttributes":{},
-			"x":1880,
-			"y":1740,
-			"width":260,
-			"height":60,
-			"color":"1"
-		},
-		{
-			"id":"d454cd5df7ccc2f2",
-			"type":"text",
-			"text":"DISTRESSOR OUT 1-2",
-			"styleAttributes":{},
-			"x":1880,
-			"y":1020,
-			"width":260,
-			"height":60,
-			"color":"2"
-		},
-		{
-			"id":"7ee3cfd28225b0ba",
-			"type":"text",
-			"text":"Distressor 1-2",
-			"styleAttributes":{},
-			"x":1880,
-			"y":920,
-			"width":260,
-			"height":60,
-			"color":"1"
-		},
-		{
-			"id":"97026c9ff27a05d9",
-			"type":"text",
-			"text":"STUUDIO OUT 23",
-			"styleAttributes":{
-				"shape":null
-			},
-			"x":580,
-			"y":280,
-			"width":260,
-			"height":60,
-			"color":"2"
-		},
-		{
-			"id":"fe37f4d69e246db7",
-			"type":"text",
-			"text":"STUUDIO OUT 21-22",
-			"styleAttributes":{
-				"shape":null
-			},
-			"x":180,
-			"y":280,
-			"width":260,
-			"height":60,
-			"color":"2"
-		},
-		{
-			"id":"811add5834b5942b",
-			"type":"text",
-			"text":"500 SERIES 5",
-			"styleAttributes":{},
-			"x":580,
-			"y":380,
-			"width":260,
-			"height":60,
-			"color":"2"
-		},
-		{
-			"id":"c0769a59124bbbf2",
-			"type":"text",
-			"text":"INPUTS 31-32 (Flock)",
-			"styleAttributes":{},
-			"x":1340,
-			"y":1020,
-			"width":260,
-			"height":60,
-			"color":"1"
-		},
-		{
-			"id":"cf3680c78cd84f6c",
-			"type":"text",
-			"text":"[Flock Audio Digital PATCH](https://www.flockaudio.com/_files/ugd/4d2b38_54ef4bc90b914d62b7c27ee73fce1588.pdf) ![[flock Background Removed.png]]",
-			"styleAttributes":{},
-			"x":1340,
-			"y":1165,
-			"width":260,
-			"height":130,
-			"color":"1"
-		},
-		{
 			"id":"e750e14fe8b9347a",
 			"type":"text",
 			"text":"BSS Dynamics",
@@ -509,94 +946,6 @@
 			"width":260,
 			"height":60,
 			"color":"1"
-		},
-		{
-			"id":"46ae150806a58975",
-			"type":"text",
-			"text":"DISTRESSOR IN 1-2",
-			"styleAttributes":{},
-			"x":1880,
-			"y":820,
-			"width":260,
-			"height":60,
-			"color":"2"
-		},
-		{
-			"id":"ae8a0b682b73a0a4",
-			"type":"text",
-			"text":"STUUDIO OUT 24",
-			"styleAttributes":{
-				"shape":null
-			},
-			"x":980,
-			"y":280,
-			"width":260,
-			"height":60,
-			"color":"2"
-		},
-		{
-			"id":"72502d0aa3a850fc",
-			"type":"text",
-			"text":"OUTPUTS 31-32 (Flock)",
-			"styleAttributes":{},
-			"x":1340,
-			"y":1360,
-			"width":260,
-			"height":60,
-			"color":"1"
-		},
-		{
-			"id":"6eb09490f1a28635",
-			"type":"text",
-			"text":"",
-			"styleAttributes":{},
-			"x":-1230,
-			"y":1685,
-			"width":60,
-			"height":60
-		},
-		{
-			"id":"c490b30f3cfc802c",
-			"type":"text",
-			"text":"",
-			"styleAttributes":{},
-			"x":-1230,
-			"y":1785,
-			"width":60,
-			"height":60
-		},
-		{
-			"id":"3af76ec04091835e",
-			"type":"text",
-			"text":"Neumann Monitors 5.1",
-			"styleAttributes":{},
-			"x":-400,
-			"y":1880,
-			"width":260,
-			"height":60,
-			"color":"1"
-		},
-		{
-			"id":"3a3db62a4810dae9",
-			"type":"text",
-			"text":"STEREO IN",
-			"styleAttributes":{},
-			"x":-70,
-			"y":1880,
-			"width":250,
-			"height":60,
-			"color":"2"
-		},
-		{
-			"id":"b16cd886569e1971",
-			"type":"text",
-			"text":"500 SERIES 6",
-			"styleAttributes":{},
-			"x":980,
-			"y":380,
-			"width":260,
-			"height":60,
-			"color":"2"
 		},
 		{
 			"id":"1697563827183a66",
@@ -623,222 +972,6 @@
 			"color":"1"
 		},
 		{
-			"id":"b6578d058bc6774d",
-			"type":"text",
-			"text":"RADIAL IN",
-			"styleAttributes":{},
-			"x":1340,
-			"y":380,
-			"width":260,
-			"height":60,
-			"color":"2"
-		},
-		{
-			"id":"e9f61f6f65447a1c",
-			"type":"text",
-			"text":"500 SERIES 3-4",
-			"styleAttributes":{},
-			"x":180,
-			"y":380,
-			"width":260,
-			"height":60,
-			"color":"2"
-		},
-		{
-			"id":"34cc73c7e556a3c1",
-			"type":"text",
-			"text":"Mac",
-			"styleAttributes":{},
-			"x":435,
-			"y":1480,
-			"width":250,
-			"height":60,
-			"color":"1"
-		},
-		{
-			"id":"470806fd23e68af8",
-			"type":"text",
-			"text":"[Neve 1073OPX ](https://www.ams-neve.com/wp-content/uploads/2022/03/OPX-User-Manual-Issue-2-1.pdf) ![[neve Background Removed.png]]",
-			"styleAttributes":{
-				"shape":null
-			},
-			"x":-1060,
-			"y":540,
-			"width":300,
-			"height":140,
-			"color":"1"
-		},
-		{
-			"id":"6d7f2b9a90b7ebd0",
-			"type":"text",
-			"text":"",
-			"styleAttributes":{},
-			"x":-1540,
-			"y":1685,
-			"width":60,
-			"height":60
-		},
-		{
-			"id":"141a7b5c7bdfbdef",
-			"type":"text",
-			"text":"",
-			"styleAttributes":{},
-			"x":-1540,
-			"y":1785,
-			"width":60,
-			"height":60
-		},
-		{
-			"id":"cc5b4759f1efda68",
-			"type":"text",
-			"text":"002",
-			"styleAttributes":{},
-			"x":-1480,
-			"y":1380,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"82410783262f0c6d",
-			"type":"text",
-			"text":"PATCHBAY I/O",
-			"styleAttributes":{},
-			"x":-1480,
-			"y":1485,
-			"width":260,
-			"height":60,
-			"color":"2"
-		},
-		{
-			"id":"4b7a8f02e0ac1c25",
-			"type":"text",
-			"text":"HARDWARE",
-			"styleAttributes":{},
-			"x":-1480,
-			"y":1585,
-			"width":260,
-			"height":60,
-			"color":"1"
-		},
-		{
-			"id":"dfd86b0017b7accb",
-			"type":"text",
-			"text":"Talkback Microphone",
-			"styleAttributes":{},
-			"x":-400,
-			"y":1280,
-			"width":260,
-			"height":60,
-			"color":"1"
-		},
-		{
-			"id":"2ece23a6213ee62e",
-			"type":"text",
-			"text":"Avid MTRX",
-			"styleAttributes":{
-				"shape":null
-			},
-			"x":-70,
-			"y":1480,
-			"width":250,
-			"height":60,
-			"color":"1"
-		},
-		{
-			"id":"87951dfc81f9c671",
-			"type":"text",
-			"text":"Avid HDX",
-			"styleAttributes":{
-				"shape":null
-			},
-			"x":-70,
-			"y":1280,
-			"width":250,
-			"height":60,
-			"color":"1"
-		},
-		{
-			"id":"a81c66b257a51c40",
-			"type":"text",
-			"text":"[Grace Design m501 1-2](https://www.gracedesign.com/support/manuals/m501_manual_RevA.pdf) ![[grace Background Removed.png]]",
-			"styleAttributes":{
-				"shape":null
-			},
-			"x":-220,
-			"y":540,
-			"width":260,
-			"height":140,
-			"color":"1"
-		},
-		{
-			"id":"621bdb2a2211766e",
-			"type":"text",
-			"text":"[TubeTech MP2A 1-2](https://www.tube-tech.com/mp2a-dual-mic-preamplifier-and-di/) ![[tubetech Background Removed.png]]",
-			"styleAttributes":{
-				"shape":null
-			},
-			"x":-620,
-			"y":540,
-			"width":260,
-			"height":140,
-			"color":"1"
-		},
-		{
-			"id":"bc9f6ccefac39265",
-			"type":"text",
-			"text":"NEVE OUT",
-			"styleAttributes":{},
-			"x":-1060,
-			"y":740,
-			"width":300,
-			"height":60,
-			"color":"2"
-		},
-		{
-			"id":"2dccbb210cfd256d",
-			"type":"text",
-			"text":"I/O IN 9-16",
-			"styleAttributes":{},
-			"x":-1060,
-			"y":840,
-			"width":300,
-			"height":60,
-			"color":"2"
-		},
-		{
-			"id":"d0b46304ea739067",
-			"type":"text",
-			"text":"Behringer Monitoring",
-			"styleAttributes":{},
-			"x":-880,
-			"y":1380,
-			"width":260,
-			"height":60,
-			"color":"1"
-		},
-		{
-			"id":"664d3db222b7b921",
-			"type":"text",
-			"text":"Ethernet Ports",
-			"styleAttributes":{},
-			"x":-880,
-			"y":1480,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"dd8b90482e80f947",
-			"type":"text",
-			"text":"Samal ajal mõlemat ei saa",
-			"styleAttributes":{"textAlign":"center","shape":"pill","border":"dashed"},
-			"x":-620,
-			"y":840,
-			"width":140,
-			"height":60
-		},
-		{
 			"id":"75f56dc0966423b3",
 			"type":"text",
 			"text":"Retrosonic A312",
@@ -852,161 +985,28 @@
 			"color":"1"
 		},
 		{
-			"id":"40101e6187941067",
+			"id":"ab259c84449d4423",
 			"type":"text",
-			"text":"[Heritage 73 jr II 1-2](https://heritageaudio.com/wp-content/uploads/2022/09/73-JR-II_-User-Manual.pdf) ![[heritage Background Removed.png]]",
-			"styleAttributes":{
-				"shape":null
-			},
-			"x":180,
-			"y":540,
-			"width":260,
-			"height":140,
-			"color":"1"
-		},
-		{
-			"id":"0e0d6565b8761bba",
-			"type":"text",
-			"text":"7",
-			"styleAttributes":{
-				"shape":null
-			},
-			"x":-1340,
-			"y":120,
-			"width":60,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"b1e653f84d26d05b",
-			"type":"text",
-			"text":"5",
-			"styleAttributes":{
-				"shape":null
-			},
-			"x":-1500,
-			"y":120,
-			"width":60,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"5ec5f13b1a803b7c",
-			"type":"text",
-			"text":"6",
-			"styleAttributes":{
-				"shape":null
-			},
-			"x":-1420,
-			"y":120,
-			"width":60,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"1a45b28efc054b32",
-			"type":"text",
-			"text":"STUUDIO OUT 1-8",
-			"styleAttributes":{
-				"shape":null
-			},
-			"x":-1500,
-			"y":280,
-			"width":300,
-			"height":60,
-			"color":"2"
-		},
-		{
-			"id":"88b0cf0f4005ae52",
-			"type":"text",
-			"text":"SPL GAINSTATION IN 1-8",
+			"text":"T-TECH 1-2",
 			"styleAttributes":{},
-			"x":-1500,
+			"x":-620,
 			"y":380,
-			"width":300,
+			"width":260,
 			"height":60,
 			"color":"2"
 		},
 		{
-			"id":"b15f20df0cd0d6be",
+			"id":"621bdb2a2211766e",
 			"type":"text",
-			"text":"[SPL GainStation 1-8](https://spl.audio/wp-content/uploads/GS8-Mk2_BA_E.pdf) ![[gainstation Background Removed.png]]",
+			"text":"[TubeTech MP2A 1-2](https://www.tube-tech.com/mp2a-dual-mic-preamplifier-and-di/) ![[tubetech Background Removed.png]]",
 			"styleAttributes":{
 				"shape":null
 			},
-			"x":-1500,
+			"x":-620,
 			"y":540,
-			"width":300,
+			"width":260,
 			"height":140,
 			"color":"1"
-		},
-		{
-			"id":"fde9c315cdd4e7de",
-			"type":"text",
-			"text":"**001/002 <u>ON</u> when RECORDING or using HARDWARE**\n1. Mac\n2. Converters\n3. Behringer Monitoring\n4. Black Lion (Turns on the following)\n\t1. MTRX + OUTBOARD\n\t2. PREAMPS\n\t3. SPEAKERS\n\n**OFF**\n1. PREAMPS\n2. Black Lion (Leave MTRX + OUTBOARD & SPEAKERS on)\n3. Behringer Monitoring\n4. Converters\n5. Mac Shut Down",
-			"styleAttributes":{},
-			"x":-2080,
-			"y":680,
-			"width":480,
-			"height":460
-		},
-		{
-			"id":"25de0d3ddb10fdcc",
-			"type":"text",
-			"text":"Avid Converter 1",
-			"styleAttributes":{
-				"shape":null
-			},
-			"x":-330,
-			"y":1020,
-			"width":260,
-			"height":60,
-			"color":"1"
-		},
-		{
-			"id":"564792de45a45b51",
-			"type":"text",
-			"text":"I/O OUT 17-24",
-			"styleAttributes":{},
-			"x":175,
-			"y":1115,
-			"width":260,
-			"height":60,
-			"color":"2"
-		},
-		{
-			"id":"f18715382c41f1a2",
-			"type":"text",
-			"text":"Avid Converter 2",
-			"styleAttributes":{
-				"shape":null
-			},
-			"x":175,
-			"y":1020,
-			"width":260,
-			"height":60,
-			"color":"1"
-		},
-		{
-			"id":"25abc3a4baaa2bbc",
-			"type":"text",
-			"text":"[Black Lion PG-2 Type F Power Conditioner](https://www.blacklionaudio.com/wp-content/uploads/2025/03/Black-Lion-Audio-PG-2-Type-F-Owners-Manual.pdf) ![[blacklion.png]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-1500,
-			"y":1020,
-			"width":300,
-			"height":140,
-			"color":"1"
-		},
-		{
-			"id":"3951049cb9925e23",
-			"type":"text",
-			"text":"**001/002 <u>ON</u> when MIXING**\n1. Mac\n2. Black Lion (Turns on the following)\n\t1. MTRX + OUTBOARD\n\t2. SPEAKERS\n\n**OFF = ON in reverse**",
-			"styleAttributes":{},
-			"x":-2080,
-			"y":1160,
-			"width":480,
-			"height":235
 		}
 	],
 	"edges":[

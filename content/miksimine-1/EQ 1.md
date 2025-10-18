@@ -2,7 +2,7 @@
 aine: "[[04 - Õpetamine/content/miksimine-1/index|Miksimine 1]]"
 jrk: "4"
 kodutöö: "[[EQ 1#Mix 1 V2]]"
-publish: true
+publish: false
 ---
 ![[Sissejuhatus Miksimisse#Mis on miksimise point?]]
 

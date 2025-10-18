@@ -2,7 +2,7 @@
 title: Miksimine (2.osa)
 aliases:
   - Miksimine 2
-publish: false
+publish: true
 ---
 ## Üldinfo
 

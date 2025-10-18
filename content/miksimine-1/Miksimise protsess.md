@@ -2,7 +2,7 @@
 aine: "[[04 - Õpetamine/content/miksimine-1/index|Miksimine 1]]"
 jrk: 2 & 3
 kodutöö: "[[Miksimise protsess#Mix 1]]"
-publish: true
+publish: false
 ---
 > [!note]
 > [[NotebookLM - Miksimise ja masterdamise põhimõtted]] - https://forums.vaikene.ee/viewtopic.php?t=17
