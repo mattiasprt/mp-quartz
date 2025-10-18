@@ -4,7 +4,11 @@ aliases:
   - Stuudiotöö 1
 publish: true
 ---
-## [[TÜ VKA Stuudio Signal Flow]]
+> [!important] Salvestusteks
+> - [[TÜ VKA Stuudio Signal Flow]]
+> -  [Input List TEMPLATE](https://docs.google.com/spreadsheets/d/1BCbxRhaKBFH1tdbhUe7F7zAMbtVsWFcL5hDuThUsKoI/edit?usp=sharing "https://docs.google.com/spreadsheets/d/1BCbxRhaKBFH1tdbhUe7F7zAMbtVsWFcL5hDuThUsKoI/edit?usp=sharing") 
+
+---
 ## Üldinfo
 
 > [!danger] PRODU 2 - SÜGIS
