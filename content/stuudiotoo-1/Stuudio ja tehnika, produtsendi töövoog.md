@@ -91,10 +91,10 @@ tehtud: true
 
 ---
 ![[Salvestamine ja produktsioon#Pro Tools 101]]
-## Inputlist
+## Input list
 
 - Ideaalne abivahend kui tekib probleeme ja on vaja inpute vahetada. Saate hoida silma peal, mis sisendisse mis signaal läheb.
-- [TÜ VKA Stuudio Inputlist TEMPLATE](https://docs.google.com/spreadsheets/d/1BCbxRhaKBFH1tdbhUe7F7zAMbtVsWFcL5hDuThUsKoI/edit?usp=sharing)
+- [TÜ VKA Stuudio Input List TEMPLATE](https://docs.google.com/spreadsheets/d/1BCbxRhaKBFH1tdbhUe7F7zAMbtVsWFcL5hDuThUsKoI/edit?usp=sharing)
 
 <!-- hide -->
 
@@ -168,7 +168,7 @@ tehtud: true
 - Importige see Pro Toolsi projekti. Ideaalis valmistage projekt ette 001s, siis saate juba saata signaali ka Behringeri süsteemi.
 	- Sama sample rate ja bit depth mis sinu projekt! Vältige ebavajalikke konversioone.
 - Tehke Pro Toolsis tühjad rajad, ideaalis korrektsete inputidega (määratud 001s), kuhu me hakkame salvestama.
-- Proovige ka inputlisti tegemist: [TEMPLATE](https://docs.google.com/spreadsheets/d/1BCbxRhaKBFH1tdbhUe7F7zAMbtVsWFcL5hDuThUsKoI/edit?usp=sharing "https://docs.google.com/spreadsheets/d/1BCbxRhaKBFH1tdbhUe7F7zAMbtVsWFcL5hDuThUsKoI/edit?usp=sharing") 
+- Proovige ka input listi tegemist: [TEMPLATE](https://docs.google.com/spreadsheets/d/1BCbxRhaKBFH1tdbhUe7F7zAMbtVsWFcL5hDuThUsKoI/edit?usp=sharing "https://docs.google.com/spreadsheets/d/1BCbxRhaKBFH1tdbhUe7F7zAMbtVsWFcL5hDuThUsKoI/edit?usp=sharing") 
 	- Eriti kui teil ei ole võimalik 001s projekti ette valmistada!
 - Veenduge, et teie muusik on valmistunud enda partiid esitama.
 
