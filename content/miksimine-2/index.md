@@ -1,8 +1,8 @@
 ---
-title: Miksimine (2.osa)
+title: Miksimine 2
 aliases:
   - Miksimine 2
-publish: true
+publish: false
 ---
 ## Üldinfo
 
