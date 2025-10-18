@@ -3,18 +3,17 @@ aine: "[[04 - Õpetamine/content/miksimine-1/index|Miksimine 1]]"
 jrk: "5"
 kodutöö: "[[Mikside kuulamine ja EQ 2#Mix 2]]"
 publish: false
+tehtud: true
 ---
 > [!note]
 > - Kuulame mikside V2 versioone, võrdleme, vaatame mis tagasisidega arvestamine läks hästi, mis halvasti. Kuulame referents laule.
 > - Näitan visuaalselt spektrumi analüsaatoreid ja teeme EQ lükkeid nende mikside peal, kuulame erinevust.
 
-![[EQ 1#Muusika tonaalsuse analüüsimine]]
+![[EQ#Muusika tonaalsuse analüüsimine]]
 
-![[Tonaalsus ja analüütiline kuulamine#Tonaalsuse sõnadesse panemine]]
+![[EQ#Tonaalsuse sõnadesse panemine]]
 
-
-![[Tonaalsus ja analüütiline kuulamine#https //webtet.net/apcl/ /parametric]]
-
+![[EQ#https //webtet.net/apcl/ /parametric]]
 # Kodutöö
 ## Mix 2
 
@@ -26,8 +25,6 @@ publish: false
 6. **Siis ekspordi "V1" versioon, ehk peale miksimist versioon.** 
 7. [Lae üles miksi enne ja pärast failid](https://www.dropbox.com/request/1gsszcjaKfxgbTnTMMmo "https://www.dropbox.com/request/1gsszcjaKfxgbTnTMMmo"), VEENDU ET FAILID LAADISID ÜLES!
 8. Kui failid üles laetud, vasta sellele meilile lühikese eneseanalüüsiga. Kirjutage, mis lugu miksisite ja kuidas teil protsess edenes. Kui takerdusite siis mille taha ja kui tekkis protsessi jooksul mingeid küsimusi siis pange need ka kirja.
-
-
 ### Valikuline
 - Saavutage \>60% "Average accuracy" ja lisage meili screenshot: https://www.sonarworks.com/soundid-reference/match-the-mix
 - Läbige <u>vähemalt</u> 10 "küsimust" ja >70% "Average Score", lisage meili screenshot kus on näha nii parameetreid, kui ka tulemust: https://webtet.net/apcl/#/parametric
@@ -35,4 +32,5 @@ publish: false
 - Screenshot Macis: Cmd + Shift + 5
 - Windowsis Win + Shift + S
 	- Copy'ge pildid ja paste'ige meili.
+	
 %%[[Tonaalsus ja analüütiline kuulamine#Kodutöö]]%%

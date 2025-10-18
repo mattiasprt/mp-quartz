@@ -2,47 +2,18 @@
 aine: "[[04 - Õpetamine/content/miksimine-1/index|Miksimine 1]]"
 jrk: 2 & 3
 kodutöö: "[[Miksimise protsess#Mix 1]]"
-publish: false
+publish: true
+tehtud: true
 ---
+<!-- hide -->
 > [!note]
-> [[NotebookLM - Miksimise ja masterdamise põhimõtted]] - https://forums.vaikene.ee/viewtopic.php?t=17
-> https://forums.vaikene.ee/viewtopic.php?t=47
-> Tulevikus võiks see olla 3h loeng, jõuab ühe korraga ja rahulikult kõik tehtud.
+> - Tulevikus võiks see olla 3h loeng, jõuab ühe korraga ja rahulikult kõik tehtud.
 
-# Tagasisidestamine
-
-- Tähtis sest:
-	- Insener viib sinu nägemuse ellu.
-	- Selge ja konstruktiivne tagasiside säästab aega ja frustratsiooni.
----
-- Kuidas anda konstruktiivset tagasisidet heliinsenerile:
-	- Esiteks, ärge kiirustage. Seedige miksi, kuulake erinevatelt süsteemidelt ja võrrelge muu sarnase muusikaga. Puhake kõrvu.
-	- Olge ettevaatlikud võrreldes miksi demoga, *demoitis* on päris.
-	- Alustage positiivsest, räägi kõigest mis meeldib ja juba toimib, siis insener teab, et jätta need elemendid nii nagu on. 
-	- Alati kiitke ja tänage, isegi kui subjektiivselt endale ei meeldi, sest seal on nii palju tegureid miks v1 ei pruukinud välja kukkuda nii nagu ootasid. :)
-	- Anna võimalikult täpselt ja spetsiifiliselt enda soovidest teada. Kirjuta ka **miks** see element kuuldavas versioonis sinu jaoks ei toimi, annab lisainfot. Probleemi lahendamiseks võib olla mitmeid viise.
-		- Ideaalis võiks olla tagasiside kindlatele sektsioonidele või ajahetkedele, mitte üldiselt terve miksi kohta. Probleem ei pruugi olla kogu loo vältel.
-	- Kui ei oska selgitada enda soove, siis too näiteid teistest lauludest. Kuula spetsiifiliste elementide kõla, või üleüldist karakterit, anna teada mida insener refereerima peaks.
-	- Kui tehniline sõnavara on puudulik, siis kirjelda loovalt ja tunnetuslikult.
-	- Paku lahendusi ja küsi küsimusi, tegu on dialoogiga. Kuid usaldage ka inseneri, ta võib kuulda asju mida sa ei kuule.
-	- Lõpeta positiivsel noodil. Tegu on koostööga, austage üksteist ja üksteise aega.
----
-- Palju infot saab anda juba enne miksimist. Rääkige kohe koostöö alguses enda ootustest ja soovidest, suunake insener õigele rajale.
-	- Määrake kohe ära nö *non-negotiables* ehk kõlalised elemendid mis teie jaoks tähtsad. *"Elektrikitarr peabki kõlama pehmelt, ära tee teda traditsiooniliselt distortituks nagu üldiselt rokkmuusikas"*
-- Alternatiivseid versioone küsida on ka okei! "Kas ma saaks ühe versiooni kus viimases refis on vokaal hästi taga ja kõik on hästi reverbine?" jne.
----
-
-![[Tonaalsus ja analüütiline kuulamine#Tonaalsuse sõnadesse panemine]]
-
-## S.T.A.R meetod
-
-- Situation - *"Kui 1:15 vokaalid tulevad sisse.."*
-- Task - *"Ma tahan, et nad lõikaksid rohkem miksist läbi ja oleksid esil.."*
-- Action - *"..ilma, et essid kõlaksid kriipivalt või harshilt, kas saaks neid valjemaks ja pehmemaks?"*
-- Reference - *"Nagu näiteks vokaal (Laul) (Artistilt) (timestamp)."*
+<!-- /hide -->
 
 ---
 
+![[Tagasisidestamine#Tagasisidestamine]]
 # Kuidas enda produtseeritud muusikat miksimiseks üle anda?
 
 - Tõmbab selge piiri produktsiooni ja miksimise faasi vahele.
@@ -64,13 +35,11 @@ Minu projekti kausta ülesehitus:
 - Iga mixdowniga salvestan ka projektifaili koopia Mixdowni kausta. Juhuks kui ma tahan varasemasse projekti staadiumisse hiljem tagasi minna, või vaadata mis ma teinud olen.
 
 ---
-
 ## Algne DAWi seadistus
 
 - Buffer size - Mida kõrgem, seda rohkem latencyt aga projekt on arvutile kergem seedida. Muidu hoidke madalal, kui arvutil on raske, siis tõstke.
 
 ---
-
 - Sample rate ja bit depth. Sõltuv failidest. Projekt peaks olema samade sätungitega, mis failid. Siis ei toimu ühtegi konversiooni.
 - Sample rate - Mitu "punkti" sekundis helist salvestatud on, mõõdetud Hertsides. Analoog helil on "lõpmatu" detail, digitaalselt heli peab *quantize*'ima.
 	- Mida rohkem punkte, seda kõrgemaid sagedusi on võimalik salvestada. 
@@ -81,7 +50,6 @@ Minu projekti kausta ülesehitus:
 	- Hoidke lihtsalt 48kHz, set and forget.
 
 ---
-
 - Bit depth - Kui palju detaili üks "punkt" saab omada (amplituudi astmed). Jällegi, analoog helil on "lõpmatu" detail, digitaalselt heli peab *quantize*'ima.
 	- 16-bit (CD) = 65,536 possible volume levels; 24-bit (digitaalne standard) = 16.7 million levels
 		- Ehk määrab dünaamilise ulatuse: vahe kõige vaiksema salvestatava signaali ja kõige valjema vahel. 
@@ -92,7 +60,6 @@ Minu projekti kausta ülesehitus:
 	- Hoidke lihtsalt 24bit, set and forget.
 
 ---
-
 - Alati saab kvaliteeti vähendada aga hiljem "juurde panna" ei saa.
 - Mida kõrgemad sätungid, seda rohkem kulub kettamahtu.
 
@@ -100,7 +67,6 @@ NOTE:
 > - Oma projekte salvestades hoian 48_24, rohkem pole vaja, 44.1_16 ka okei. Ärge mõelge üle.
 
 ---
-
 ## Projektihaldus
 
 1. Projekti BPM paika. Kontrolli üle, et audio warpimine oleks maas. Siia saab nt. demo faili sisse tõmmata: https://tunebat.com/Analyzer. Kui demo faili pole siis tap tempoga leiab ka enamasti üles. Kerge vaadata kas trummilöögid langevad grid'i peale.
@@ -110,15 +76,17 @@ NOTE:
 5. Värvi trackid endale sobilikult ära, et aitaks visuaalset navigatsiooni.
 6. Lisa tühjad träkid eelmistele versioonidele, referents lauludele jne. Vaata et nad ei jookseks masterist läbi, vaid otse helikaardi outputi!
 
+<!-- hide -->
 NOTE: 
 > - organiseerimine ja hügieen! püstitatud struktuur võiks püsida kõikide projektide vältel, future proofing
 > - olge teadlikud mis on kliendi ootused miksile, kui oled ise produnud siis küsi endalt ja teistelt enne miksima hakkamist, kuidas see lugu saaks paremini kõlada?
 > 	- kui muidu on backseat produmine tüütu, siis selles etappide üleminekus on igasugune tagasiside oodatud
 
+<!-- /hide -->
+
 ---
 
-![[Tööriistakast#Volüüm ja amplituud]]
-
+![[Dünaamika#Volüüm ja amplituud]]
 ## Signal flow
 
 - **Kõik eelnev mõjutab järgnevat!**
@@ -127,23 +95,22 @@ NOTE:
 - EHK fader määrab kanali volüümi, clip gain määrab kanali amplituudi!
 	- Clip gain määrab FXide sisendi valjuse. Kui FX clipib siis hiljem fader seda ei muuda.
 
+<!-- hide -->
 NOTE: 
-> - 
 > - seleta erinevus clipgainil ja faderil, variant ka esimese insert FXina gain pluginat kasutada
 > - näide: saturator kanalile, clipgain ja fader erinevused
 > - pre ja postfader sendide erinevusest räägime reverb/delay loengus
 
+<!-- /hide -->
+
 ---
-
 ## Gainstaging
-
-> [!note]
-> [[NotebookLM - Miksimise ja masterdamise põhimõtted]] - https://www.soundonsound.com/techniques/gain-staging-your-daw-software
 
 - Ehk balansi loomine maast ja madalast, ehk radade gainist, ärge fadereid näppige!
 - Vaata metereid, **veendu kas pre-fader või post-fader metering**. Ideaalis pre-fader.
 	- Miksides hea tava master kanalil hoida max -6dB peak ja ligikaudu -18dB RMS.
-
+	
+---
 1. Pange laulu kõige tihedam / valjem sektsioon loopima. 
 2. Valides kõik klipid, tooge kõikide clip gain alla (vajadusel üles), kuni master kanali max peak on -6dB.
 3. Pange kõik klipid mutesse.
@@ -156,13 +123,11 @@ NOTE:
 	5. Balanseeri teiste *unmuted* elementide suhtes, kasutades clip gaini ja panimist.
 5. Kui kõik rajad unmutetud, siis vajadusel valige jälle kõik klipid ja tooge kõige clip gain alla, kuni master kanali max peak on taaskord ligikaudu -6dB. Siis on juba miks balanseeritud ja on ka mõnusalt headroomi edasiseks.
 
+---
 - Gainstageimine võimaldab hiljem fadereid hoida nulli lähedal, sest seal on neil kõige parem "resolutsioon", ehk täpne mänguruum.
 - Peale gainstageimist, kustuta radadelt vaikus, aitab visuaalset navigeerida.
-
 ---
-
-![[Faas, Linear Phase EQ, MS#Faas]]
-
+![[Faas#Faas]]
 ## Panoraam
 
 - Mis on mono ja stereo?
@@ -174,18 +139,16 @@ NOTE:
 
 NOTE:
 > - Pan law, tähtis kui liigutad projekti erinevate DAWide vahel ja ootad et su lugu kõlaks samamoodi, muidu set and forget, soovitatakse 3dB, ableton kasutab ka 3e, ei saagi muuta vist seal.
-> - Trummi spoti mikrite pannimise saab aru OHde järgi, OH solosse, kuulad kus element asub, panid spot mikri samasse kohta.
+> - Trummi spoti mikrite pannimise saab aru OHde järgi. Pannes OH solosse, kuulad kus element asub, pan'id spot mikri samasse kohta.
 > 	- Kui OH signaalid eraldi radadel siis panida nii, et kick oleks keskel ja snr seal lähedal, veits paremal või vasakul olenevalt kas trummari või publiku poolt vaade.
 
 ---
-
 ## Nüüd alles hakkame miksima..
 
 - Efektide kasutus ei tohiks kriitiliselt gainstage'i muuta! Ehk plugina bypassimisel ei tohiks selle raja tajutav valjus muutuda. Valjuse kontrollimiseks on faderid.
 - Solotada on kerge aga miksimises loeb kogu üldpildi kõla!
 
 ---
-
 ## Render / Export / Bounce ja Print
 
 - Millal on mix valmis?
@@ -203,12 +166,9 @@ NOTE:
 
 NOTE: 
 >- render, export, bounce, print: valdavalt sünonüümid, sama lõpptulem, erinevad DAWid kasutavad erinevaid sõnu. print on ainuke selge erinevus, sest see tähendab mixdowni "online" salvestamist.
->- ekspordi rajad ettenäidatud projektist ja tõmba uude projekti, näitamaks et radade kokkumäng ja "demo" kõlavad samamoodi.
 
 ---
-
-![[Tonaalsus ja analüütiline kuulamine#Miks on vaja digitaalses helitöötluses "kõrgkvaliteediga" faile?]]
-
+![[Failitüübid#Miks on vaja digitaalses helitöötluses "kõrgkvaliteediga" faile?]]
 ## Jagamine
 
 - Tehke kliendile kuulamine ja tagasisidestamine võimalikult mugavaks!
@@ -216,8 +176,9 @@ NOTE:
 - Vältige Google Drive'i linke, hästi aeglased ja kohmakad. Dropbox on parem. 
 - Võite ka kasutada nt. [SwissTransfer'it](https://www.swisstransfer.com/en-us) (parem WeTransfer)
 
----
+<!-- hide -->
 
+---
 # Kodutöö
 ## Mix 1
 
@@ -231,3 +192,5 @@ NOTE:
 	- Eesnimi_Projektinimi_After.wav
 7. Kui failid üleslaetud, vastake minu meilile:
 	- Kirjutage, mis lugu miksisite ja kuidas teil protsess edenes. Kui takerdusite siis mille taha ja kui tekkis protsessi jooksul mingeid küsimusi siis pange need kah kirja!
+
+<!-- /hide -->

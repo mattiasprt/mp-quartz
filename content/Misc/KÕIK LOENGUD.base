@@ -3,7 +3,7 @@ filters:
     - file.folder.startsWith("04 - Õpetamine/")
     - file.basename != "index"
     - file.folder != "04 - Õpetamine/content/Misc"
-    - '!file.folder.startsWith("04 - Õpetamine/content/üldine")'
+    - '!file.folder.startsWith("04 - Õpetamine/content/uldine")'
 properties:
   file.name:
     displayName: Loeng
@@ -33,6 +33,7 @@ views:
     order:
       - jrk
       - publish
+      - tehtud
       - file.name
       - kodutöö
     sort:
@@ -41,7 +42,7 @@ views:
       - property: file.name
         direction: ASC
     columnSize:
-      note.publish: 3
+      note.publish: 77
       file.name: 421
   - type: table
     name: Miksimine (2.osa)
@@ -71,10 +72,11 @@ views:
     name: Digitaalne Helitöötlus
     filters:
       and:
-        - aine == link("04 - Õpetamine/content/digitaalne-helitöötlus/index", "Digitaalne Helitöötlus")
+        - aine == link("04 - Õpetamine/content/digitaalne-helitootlus/index", "Digitaalne Helitöötlus")
     order:
       - jrk
       - publish
+      - tehtud
       - file.name
       - kodutöö
     sort:

@@ -1,5 +1,5 @@
 ---
-title: Miksimine (1.osa)
+title: Miksimine 1
 aliases:
   - Miksimine 1
 publish: true
@@ -13,22 +13,23 @@ publish: true
 > 	- Puudumine ei vabasta materjali läbi töötamisest ja kodutööst.
 > - Suhtlus kasutades UT meiliaadresse. Nii teie kui ka minu poolt. 
 > 	- mattias.part@ut.ee
-> 	- Kiiremad küsimused FB Messengeris: https://www.facebook.com/mattiaspart/
+> 	- Kiiremad küsimused [FB Messengeris](https://www.facebook.com/mattiaspart/).
 
 > [!success] Eristamata hindamine, "arvestatud" saamiseks tuleb:
 > - Läbida arvestuslik töö.
 > - Esitada kõik kodutööd.
 > 	- Kõik kodutööd saavad minult tagasisidet, teie tööd ei lähe musta auku!
 
----
+> [!info] Arvestuslik töö
+> - Valige plugin mida soovite rohkem tundma õppida. Käige läbi plugina kasutusjuhend ja õppige antud tööriista pädevalt kasutama.
+> - Esitlete enda pluginat, kuidas töötab, kuidas ise praktikas kasutate, koos helinäidetega. Te peate oskama teemakohastele küsimustele vastata!
 
+<!-- hide -->
+
+---
 ## Struktuur
 
 ![[KÕIK LOENGUD.base#Miksimine (1.osa)]]
-
-> [!info] Arvestuslik töö
-> - Valige plugin mida soovite rohkem tundma õppida. Käige läbi plugina kasutusjuhend ja õppige antud tööriista pädevalt kasutama.
-> - Esitlete enda pluginat, kuidas töötab, kuidas ise praktikas kasutate, koos helinäidetega. Te peate oskama teemakohastele küsimustele vastata! ^y9k2ol
 
 ---
 ## Tudengid
@@ -40,3 +41,4 @@ publish: true
 | Pepi aka Jose Manuel Prieto Garay | Mac, Logic | 1 (17.09)         |                   |
 | Maaria Õun                        | Mac, Logic | 1 (15.10)         |                   |
 | Kasper Suur                       | Win, ?     |                   |                   |
+<!-- /hide -->

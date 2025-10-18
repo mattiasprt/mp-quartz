@@ -3,8 +3,10 @@ aine: "[[04 - Õpetamine/content/miksimine-1/index|Miksimine 1]]"
 jrk: "6"
 kodutöö: "[[Miksimise sess#Mix 2 V2]]"
 publish: false
+tehtud: true
 ---
-nullist miksimine
+> [!note]
+> Lihtlabane miksimise sessioon, mingi käesolev projekt vms
 
 ---
 # Kodutöö

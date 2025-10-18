@@ -3,68 +3,19 @@ aine: "[[04 - Õpetamine/content/miksimine-2/index|Miksimine 2]]"
 jrk:
 publish: false
 ---
-# Dünaamika 2
----
-## Gate
+![[Gate#Gate]]
 
-Staatilise müra vähendamiseks vaiksetel hetkedel. Bleedi vähendamiseks.
-- Treshold - Kui signaal on sellest üle siis gate püsib avatuna, kui langeb alla siis gate sulgub
-- Reduction - Kui palju signaali vaiksemaks keeratakse kui gate on suletud
-- Attack - Millisekundites kui kaua läheb aega, et gate avaneks peale tresholdi ületamist
-- Release - Millisekundites kui kaua läheb aega, et gate sulguks peale tresholdist alla langemist
-- Hold - Kui kaua gate minimaalselt avatuna püsib peale tresholdi ületust. 
+![[Expander#Expander]]
 
-NOTE:
->- Lisa:
-> ![[Pasted image 20250826182105.png|600]]
+![[Multiband Compression#Multiband Compressor]]
 
----
+![[Konsoolipluginad#Konsoolipluginad]]
 
-## Expander
+![[Transient Shaper#Transient shaper]]
 
-- Laiendab dünaamikat. Võimendab signaali mis läheb üle tresholdi.
+![[Sidechain Compression#Sidechain Compression]]
 
-![[Pasted image 20251006172435.png|900]]
-
-NOTE:
->- https://webtet.net/apcl/#/expansion
-
----
-
-## De-esser
-
-- Sagedusspetsiifiline kompressor. Enamasti mõeldud vokaali esside vaigistamiseks.
-
----
-
-## Multiband Compressor
-
-- Sagedusspetsiifiline kompressor. Võimaldab hallata eri sagedusvahemike dünaamikat.
-
----
-
-## Konsoolipluginad
-
-- EQ, compressor, gate, expander, de-esser kõik ühes.
-
-NOTE:
->- Pro-d kasutavad:
-> ![[MWTM#CONSOLES]]
-
----
-
-## Transient shaper
-
-- Võimaldab manipuleerida signaali transient-sustain suhet. 
-- Kasulik perkussiivsete elementide puhul, sest neil on konkreetsem transient-sustain suhe.
-
----
-
-## Sidechain compression
-
-- 
-
----
+<!-- hide -->
 # Kodutöö
 
 - Vali laul: https://is.gd/MJ7iNi või ekspordi enda produtud demost trackid.
@@ -77,3 +28,5 @@ NOTE:
     - Eesnimi_Perenimi_Projektinimi_After.wav
 - Kui failid üleslaetud, vasta minu meilile:
     - Kirjelda kuidas top-down mixing metoodika sulle sobis, kas said laulu kiiremini kõlama kui "alt-üles" meetodiga?
+
+<!-- /hide -->
