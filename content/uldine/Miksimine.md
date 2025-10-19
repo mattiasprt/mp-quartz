@@ -20,12 +20,14 @@ publish: true
 
 - Mida vähem Sa teed, seda parem. Ära töötle üle olemasolevat produktsiooni (kui just väga vaja ei ole..)
 	- Kui sa ei kuule erinevust, siis miks teha?
+- Miksimine on kompromisside kunst, mida tihedam on arranžeering, seda keerulisem on miksida. Kõik elemendid ei saa EES olla..
 - Ära lange pluginate turunduse küüsi! Kasuta tööriistu mis Sul on olemas ja õpi neid tundma. Sa saad ühe korraliku digitaalse EQ või kompressoriga kõiki teisi turul olevaid sama kategooria pluginaid jäljendada. 
 	- Töövõtted on tähtsamad kui tööriistad!
 	- Stock pluginad on tänapäeval ilgelt head!
 	- Soodukad tulevad ka mõni teine kord!
 - Miksimist ei õpi ilma praktiseerimata. Kilometraaži kogumine on ääretult tähtis.
 - Miksimist ei õpi ilma tagasisideta. Omas mullis miksimine ei vii arenguni.
+- Miksimiskordade vaheline ajaline vahe on väga tähtis, kõrv peab vahepeal laulu "ära unustama", et sellele uuesti objektiivselt läheneda.
 
 >NOTE: 
 > - Olen ise pidevalt astunud ämbrisse kus hakkan muusikat ületöötlema, raiskan aega kuna hiljem värske kõrvaga kuulates võtan protsessingut vähemaks. 
