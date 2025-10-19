@@ -25,7 +25,8 @@ publish: true
 	- Windows - [Equalizer APO](https://sourceforge.net/projects/equalizerapo/)
 		- Valikuline lisand Equalizer APO-le: [Peace GUI](https://sourceforge.net/projects/peace-equalizer-apo-extension/)
 	- Klappidel crossfeed - Peace GUI sisseehitatud, GHz Can Opener plugin. Simuleerib kõlaritega kuulamise olukorda, ehk vasakule bleedib paremat signaali ja vastupidi, tekib naturaalsem panoraam.
-- Kõlarite kalibreerimine on justkui plaastri haavale peale panemine, tähtsam on ruumi akustika. Kõrvaklappide kalibreerimine ja crossfeedi kasutamine annab konkreetsema tulemuse.
+- Kõlarite kalibreerimine on justkui plaastri haavale peale panemine, reaalsuses on tähtsam ruumi akustika. Kõrvaklappide kalibreerimine ja crossfeedi kasutamine annab konkreetsema tulemuse, sest akustika ei ole mängus.
+	- Kuid ärge endiselt pimesi usaldage EQ korrektuuri, veenduge ikka kas kõla läheb paremaks ja lineaarsemaks.
 
 ---
 # Kuulamise volüüm
