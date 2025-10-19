@@ -103,12 +103,15 @@ publish: true
 - Tasuta **spectrum analyzer**-id:
 	- [TDR Prism](https://www.tokyodawn.net/tdr-prism/)
 	- [SPAN](https://www.voxengo.com/product/span/)
+- Slope 4.5dB/Oct, näitab üldiselt lineaarset pilti tänapäeva muusika puhul.
 - Tasuline aga väga kasulik:
 	- [iZotope Tonal Balance Control](https://www.izotope.com/en/products/tonal-balance-control-2)
-- Slope 4.5dB/Oct, näitab üldiselt lineaarset pilti tänapäeva muusika puhul.
 
+<!-- hide -->
 >NOTE: 
 > - Kuulata muusikat mis hetkel Spotify Chartsis või Radiomonitori topis. Tonaalne balanss on hea kõla alus.
+
+<!-- /hide -->
 
 ---
 # Harjutamine
