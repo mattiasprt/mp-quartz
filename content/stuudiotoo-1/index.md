@@ -20,20 +20,20 @@ publish: true
 >	- [mattias.part@ut.ee](mailto:mattias.part@ut.ee)
 >	- Kiiremad küsimused [FB Messengeris](https://www.facebook.com/mattiaspart/).
 
-> [!success] Eristav hindamine, lõpphinne kujuneb:
->- Arvestusliku töö esitamisest ja töö tulemusest.
->	- Hindan tudengi eneseanalüüsi ja peamiselt, et kuidas vastab küsimusele: "Mida teeksin järgmine kord paremini?"
->	- Hindan salvestatud materjali kõlakvaliteeti ning salvestusmeetodite põhjendamist. 
->- Iga tudeng peab salvestama vähemalt ühe praktikumi jooksul enda projektiks uut materjali ja läbi viima salvestusprotsessi.
-
 > [!info] Arvestuslik töö 05.12.25 14:15, foonikas 001. 
 >- Salvestus:
 >	- Salvestage enda projekti tarbeks vähemalt kahte muusikut (erinevad inimesed ja erinevad instrumendid). Kasutades 001te ja 002te. Tegu võib olla live salvestuse kontekstiga, kus kõik instrumendid mängivad ja salvestuvad samaaegselt, või lihtsalt overdub'imisega (üks partii korraga).
->		- Projekt võib olla sama, mille jaoks oleme praktikumis salvestanud.
->	- Ärge tehke samal salvestusel, mitme tudengi arvestuslikku tööd, kõik seisavad enda eest. Olge üksteisele toeks aga ärge salvestage samal salvestusel mitmesse arvestuslikku projekti sama mikri setup'iga. Tahan, et kõik läbiksid individuaalselt setup'imise ja salvestamise protsessi.
+>		- Projekt võib olla sama, mille jaoks oleme ka praktikumides salvestanud.
+>	- Ärge tehke samal salvestusel, mitme tudengi arvestuslikku tööd, kõik seisavad enda eest. Olge üksteisele toeks aga ärge salvestage samal sessioonil mitmesse arvestuslikku projekti, sama mikri setup'iga. Tahan, et kõik läbiksid individuaalselt ettevalmistuse, setup'imise ja salvestamise protsessi.
 >- Esitlus:
->	- Esitate enda lõpliku projekti (oma läpakast või 001 Macist) ning oskate kirjeldada ja põhjendada kasutatud salvestusmeetodeid, näidake ka pilte salvestusprotsessist, mikrite asetusest, inputlisti jne. Tähtis on ka eneseanalüüs, kuidas läks protsess ja kommunikatsioon muusikutega, mille taha takerdusid, mida teeksid järgmine kord teisiti ja kuidas jne.
+>	- Esitate enda lõpliku projekti (oma läpakast või 001 Macist) ning oskate kirjeldada ja põhjendada kasutatud salvestusmeetodeid, võimalusel näidake ka pilte salvestusprotsessist, mikrite asetustest, inputlisti jne. 
+>	- Tähtis on eneseanalüüs, kuidas läks protsess ja kommunikatsioon muusikutega. Kui takerdusite protsessi käigus, siis mille taha. Mida teeksid järgmine kord teisiti ja kuidas jne. 
+>		- Kui te toote enda vigu välja protsessi läbiviimisel, siis ma ei hinda teie tööd automaatselt madalamalt. Tähtis on eneseteadlikkus ja soov areneda!
 >- Tahan ka lugu eksporditud .wav failina, et ise hiljem üle kuulata. Laul ei pea olema lõplikult miksitud ja masterdatud, kuid võiks olla seisukorras, kus julgete ja tahate seda mulle esitada.
+
+> [!success] Eristav hindamine, lõpphinne kujuneb:
+>- Arvestusliku töö esitamisest ja töö tulemusest.
+>- Iga tudeng peab salvestama vähemalt ühe praktikumi jooksul enda projektiks uut materjali ja läbi viima salvestusprotsessi.
 
 <!-- hide -->
 

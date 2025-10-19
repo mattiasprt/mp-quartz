@@ -4,7 +4,7 @@ aliases:
   - Miksimine 1
 publish: true
 ---
-> [!important] Kodutöödeks
+> [!important] Kodutööd
 > - Laadige enda kodutööd [SIIA Dropboxi kausta](https://www.dropbox.com/request/1gsszcjaKfxgbTnTMMmo)!
 > - Materjali miksimiseks leiate näiteks [SIIT Notioni lehelt](https://mattiasprt.notion.site/Multitracks-for-Engineering-264dc1e62ee0809cb997f1822aadfd71?source=copy_link). 
 > - Kodutööde tagasiside leiab [SIIT Samply lehelt](https://samply.app/p/id:s-qFRHZRTo0AAAAAAAACzw?si=jbe3csD3K4Mr7UyWQT4GPXqdDyG2).
@@ -21,14 +21,13 @@ publish: true
 > 	- mattias.part@ut.ee
 > 	- Kiiremad küsimused [FB Messengeris](https://www.facebook.com/mattiaspart/).
 
+> [!info] Arvestuslik töö 26.11 kell 14:15
+> - Valige plugin mida soovite rohkem tundma õppida. Käige läbi plugina kasutusjuhend ja õppige antud tööriista pädevalt kasutama.
+> - Esitlete enda pluginat, räägite ja näitate kuidas töötab, kuidas ise praktikas kasutate, koos helinäidetega. Te peate oskama teemakohastele küsimustele pädevalt vastata!
+
 > [!success] Eristamata hindamine, "arvestatud" saamiseks tuleb:
 > - Läbida arvestuslik töö.
 > - Esitada kõik kodutööd.
-> 	- Kõik kodutööd saavad minult tagasisidet, teie tööd ei lähe musta auku!
-
-> [!info] Arvestuslik töö
-> - Valige plugin mida soovite rohkem tundma õppida. Käige läbi plugina kasutusjuhend ja õppige antud tööriista pädevalt kasutama.
-> - Esitlete enda pluginat, kuidas töötab, kuidas ise praktikas kasutate, koos helinäidetega. Te peate oskama teemakohastele küsimustele vastata!
 
 <!-- hide -->
 

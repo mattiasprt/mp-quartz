@@ -21,22 +21,22 @@ publish: true
 > 	- [mattias.part@ut.ee](mailto:mattias.part@ut.ee)
 > 	- Kiiremad küsimused [FB Messengeris](https://www.facebook.com/mattiaspart/).
 
+> [!info] Arvestuslik töö 03.12.25 16:15, foonikas 001.
+> - Esitad enda poolt miksitud laulu ja selle projekti. Laul ei pea olema teie poolt produtseeritud. Esitlus oma sülearvutis või stuudio arvutis.
+> 	- Miksist peab olema ka "before" versioon.
+> - Tagasisidestate üksteise töid, peale mida on nädal aega vastavalt tagasisidele muudatusi teha. 
+> - Miksimise ja tagasisidestamise protsess saab minult tagasiside ja hinnangu. ^luefab
+
 > [!success] Eristav hindamine, lõpphinne kujuneb:
 > - Arvestusliku töö läbimisest ja tulemusest. Hindamiskriteeriumid:
-> 	- Miksimise projekt ei ole sama mis produtseerimise projekt.
-> 	- On näha, et projektis on materjal korrektselt gainstage'itud.
-> 	- Mix ei kõla objektiivselt halvasti.
-> 	- Tagasiside antud teisele tudengile on väärtuslik ja mõistlik.
+> 	- Juhul kui tudeng on loo produtsent siis on tähtis, et miksimise projekt ei ole sama mis produtseerimise projekt.
+> 	- On näha, et projektis on materjal korrektselt gainstage'itud, meter'itel on tervislik headroom, midagi ei clipi.
+> 	- Miksi before'i ja V1'te võrreldes on toimunud kõlaline areng.
+> 	- Teisele tudengile antud tagasiside on väärtuslik ja mõistlik.
+> 	- V1'te ja V2'te võrreldes on võetud tagasisidet kuulda ja on toimunud kõlaline areng.
 > - Kodutööde õigeaegsest esitamisest.
-> 	- Kui tudengil jääb kodutöö tegemata õigeaegselt, siis läheb tema hinne ühe punkti võrra madalamaks. 
+> 	- Kui tudengil jääb kodutöö tegemata õigeaegselt, **siis läheb tema hinne ühe punkti võrra madalamaks.** 
 > 	- Aine lõpetamiseks on vaja kõik kodutööd ära teha!
-> 	- Kõik kodutööd saavad minult tagasisidet, teie tööd ei lähe musta auku!
-> - Tudengi püüdlikkusest, aktiivsusest ja motivatsioonist.
-
-> [!info] Arvestuslik töö 03.12.25 16:15, foonikas 001.
-> - Esitad enda poolt miksitud laulu ja selle projekti, kas oma sülearvutis või stuudio arvutis.
-> - Tagasisidestate üksteise töid, peale mida on nädal aega vastavalt tagasisidele muudatusi teha. 
-> - Miksimise kogu protsess saab minult tagasiside ja hinnangu. ^luefab
 
 # NB! Kuna 2025 sügissemestril on ainekava üpriski Frankenstein'itud, siis leiate läbitud teemad [[uldine|"Üldised teemad"]] alt.
 
