@@ -1,26 +1,33 @@
 ---
 aine: "[[04 - Õpetamine/content/digitaalne-helitootlus/index|Digitaalne Helitöötlus]]"
-publish: false
+publish: true
 jrk: "7"
 ---
-uudised: 17.11 on meie loeng 001s. meenuta arvestuslikku tööd. arvestus 1.12 ka 001s.
+<!-- hide -->
+## uudised
 
-stereo master vs stem master
-kuidas võrrelda mixi masteriga?
+17.11 on meie loeng 001s. meenuta arvestuslikku tööd. arvestus 1.12 ka 001s.
 
-masteri versioonide AB, master vs mix AB
+---
+<!-- /hide -->
 
-[[Miksimise protsess#Tagasisidestamine]]
+![[Masterdamine#Kus on piir miksi ja masteri vahel?]]
 
-[[Referentside kasutamine]]
+![[Masterdamine#Mis on masterdamise point?]]
 
-singli master vs kogumiku master
+![[Masterdamine#Tööriistad]]
 
-kuidas otsida enda tööle masterdajat? kas see võiks olla sama inimene kes mixib? mis on eelised ja puudused
+![[Valjus ja LUFS'id#Valjuse sõda ja Normaliseerimine]]
 
-kas olete varasemalt eristanud masteri ja mixi faasi?
+![[Masterdamine#Minu seminaritöö]]
 
-näita projekte
+![[Masterdamine#Minu lähenemine - Mastering Checklist]]
 
-tagasisidestamise kodutöö
+![[Tagasisidestamine#Tagasisidestamine]]
 
+<!-- hide -->
+# Kodutöö
+
+![[Sissejuhatus Miksimisse#Tagasiside andmine]]
+
+<!-- /hide -->

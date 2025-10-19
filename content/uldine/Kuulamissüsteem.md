@@ -4,7 +4,7 @@ publish: true
 # Kuulamissüsteem
 
 - Igal kuulamissüsteemil ja ruumil on oma "kõlakarakter" või tonaalsus. Seda saab parandada või täiendada süsteemi kalibreerimisega ning akustilise töötlusega. 
-	- Professionaalses keskkonnas peab süsteem olema **kalibreeritud** ning ruum akustiliselt töödeldud, et seal töödeldud muusika **tõlgenduks** ka teistele süsteemidele.
+	- Professionaalses keskkonnas peab süsteem olema **kalibreeritud** ning ruum akustiliselt töödeldud, et seal töödeldud muusika **transleeruks** ka teistele süsteemidele.
 - Inimkõrv harjub väga kiiresti ära kuulamiskeskkonnaga. Kui kuulamiskeskkond ei ole kalibreeritud, siis miksides võib üle kompenseerida sagedusi mida ei peaks kompenseerima. 
 - Et säilitada objektiivsus: vaheta keskkonda, tee pause ja puhka kõrvu, kuula muud muusikat.
 
