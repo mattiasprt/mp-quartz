@@ -21,7 +21,11 @@ jrk: "7"
 
 ![[Masterdamine#Minu seminaritöö]]
 
+<!-- hide -->
+
 ![[Masterdamine#Minu lähenemine - Mastering Checklist]]
+
+<!-- /hide -->
 
 ![[Tagasisidestamine#Tagasisidestamine]]
 
