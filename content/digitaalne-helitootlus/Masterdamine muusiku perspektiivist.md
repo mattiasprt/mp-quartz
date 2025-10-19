@@ -9,9 +9,10 @@ jrk: "7"
 17.11 on meie loeng 001s. meenuta arvestuslikku tööd. arvestus 1.12 ka 001s.
 
 ---
-<!-- /hide -->
 
 ![[Masterdamine#Kus on piir miksi ja masteri vahel?]]
+
+<!-- /hide -->
 
 ![[Masterdamine#Mis on masterdamise point?]]
 
