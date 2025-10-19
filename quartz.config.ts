@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Õppematerjalid",
-    pageTitleSuffix: " - Mattias Pärt",
+    pageTitleSuffix: " - Mattias Pärt Õppematerjalid",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
