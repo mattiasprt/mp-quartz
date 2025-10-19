@@ -80,6 +80,8 @@ tehtud: true
 - Väljundiks on lõplik masterdatud fail(id). Ideaalis konverteeritud ka mitmesse formaati, vastavalt vajadusele. Lõplik fail nimetatudki tihtipeale kui "master".
 	- Vajadusel ka sobilikud failid füüsilistele väljaannetele.
 
+%% [[Masterdamine]] %%
+
 ---
 
 ## 5.1. Metaandmed

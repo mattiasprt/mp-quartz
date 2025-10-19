@@ -23,14 +23,24 @@ publish: true
 	- Määrake kohe ära nö *non-negotiables* ehk kõlalised elemendid mis teie jaoks tähtsad. *"Elektrikitarr peabki kõlama pehmelt, ära tee teda traditsiooniliselt distortituks nagu üldiselt rokkmuusikas"*
 - Alternatiivseid versioone küsida on ka okei! "Kas ma saaks ühe versiooni kus viimases refis on vokaal hästi taga ja kõik on hästi reverbine?" jne.
 
+<!-- hide -->
+>NOTE:
+>- Reaalne tagasisidestamine:
+>- https://docs.google.com/document/d/1wFI0HYAAzlMltOC39xqreI6qXUzwOCriNdUzRETftT4/edit?usp=drive_link
+>- https://docs.google.com/document/d/1Clqrh_NPCmhJ-1Kwk6G60Wr0oHh-jNwdgiYXDPzefL4/edit?usp=drive_link
+>- tutvusta ka samplyt
+
+<!-- /hide -->
+
 ---
 ![[EQ#Tonaalsuse sõnadesse panemine]]
 
 ## S.T.A.R meetod
 
-- Situation - *"Kui 1:15 vokaalid tulevad sisse.."*
+Konstruktiivne ja spetsiifiline tagasisidestamise mall:
+- Situation - *"Kui 1:15 vokaalid tulevad sisse.."* 
 - Task - *"Ma tahan, et nad lõikaksid rohkem miksist läbi ja oleksid esil.."*
-- Action - *"..ilma, et essid kõlaksid kriipivalt või harshilt, kas saaks neid valjemaks ja pehmemaks?"*
+- Action - *"..ilma, et essid hakkaksid kriipima, kas saaks neid valjemaks ja pehmemaks?"*
 - Reference - *"Nagu näiteks vokaal (Laul) (Artistilt) (timestamp)."*
 
 ---

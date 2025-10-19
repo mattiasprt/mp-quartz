@@ -6,7 +6,8 @@ publish: true
 ---
 <!-- hide -->
 > [!todo] Tulevikus
-> Aine võiks olla semestril mis on peale muusikute audioprogrammide ainet. 4. aasta tundub veits kentsakas seda anda.
+> - Aine võiks olla semestril mis on peale muusikute audioprogrammide ainet. 4. aasta tundub veits kentsakas seda anda.
+> - Loenguid võib vabalt ka 001s teha. Arvutiklass aint siis kui on mingi harjutus vms.
 
 ---
 <!-- /hide -->

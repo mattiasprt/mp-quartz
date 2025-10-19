@@ -112,10 +112,10 @@ NOTE:
 	
 ---
 1. Pange laulu kõige tihedam / valjem sektsioon loopima. 
-2. Valides kõik klipid, tooge kõikide clip gain alla (vajadusel üles), kuni master kanali max peak on -6dB.
+2. Valides kõik klipid, tooge kõikide clip gain alla (vajadusel üles), kuni master kanali keskmine max peak on -6dB.
 3. Pange kõik klipid mutesse.
 4. Hakake ükshaaval unmutema radu tähtsuse järjekorras ja balanseerima unmutetud radade suhtes.
-	- Enda eelistus: Trummid ja kõik perkussiivne > Bass > Main vokaal > Lead instrumendid > Täitvad instrumendid > Bäkid > FXid
+	- Isiklik eelistus: Trummid ja kõik perkussiivne > Bass > Main vokaal > Lead instrumendid > Täitvad instrumendid > Bäkid > FXid
 	1. *Unmute* track
 	2. Kuula millega tegu
 	3. Analüüsi mis selle elemendi funktsioon miksis on

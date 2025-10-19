@@ -60,7 +60,7 @@ publish: true
 ---
 ## Faasi loov ära kasutamine
 
-- Haas delay - Ühe kanali viitamine teise suhtes. "Laiendav" efekt. Väärkasutamine viib "faasise soundini" ning halva mono tõlgendumiseni. Hea kasutada mitte kandvatel elementidel, mis tahate laiemaks teha. ([kHs Haas](https://kilohearts.com/products/haas))
+- Haas delay - Ühe kanali viitamine teise suhtes. "Laiendav" efekt. Väärkasutamine viib "faasise soundini" ning halva mono transleerumiseni. Hea kasutada mitte kandvatel elementidel, mis tahate laiemaks teha. ([kHs Haas](https://kilohearts.com/products/haas))
 - Comb filter - L ja R kanali peale komplimenteerivate sagedustega comb filter. Võimaldab teha mono signaali laiaks, perfektse mono compatibilityga. ([kHs Comb Filter](https://kilohearts.com/products/comb_filter))
 
 <!-- hide -->
