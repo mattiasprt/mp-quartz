@@ -3,7 +3,8 @@ publish: true
 ---
 # Tervist!
 
-Siit lehelt leiad kõikide minu õppeainete materjalid. Võimalik on ka teemasid märksõnadega otsida. Materjalid uuenevad jooksvalt ja lehekülg jääb alati kättesaadavaks.
+Siit lehelt leiad kõikide minu õppeainete materjalid. Võimalik on teemasid ka märksõnadega otsida. 
+Materjalid uuenevad jooksvalt ja lehekülg jääb teile alati kättesaadavaks :)
 
 Jõudu tööle!
 
