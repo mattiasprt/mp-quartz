@@ -23,7 +23,7 @@ publish: true
 
 > [!info] Arvestuslik töö 03.12.25 16:15, foonikas 001.
 > - Esitad enda poolt miksitud laulu ja selle projekti. Laul ei pea olema teie poolt produtseeritud. Esitlus oma sülearvutis või stuudio arvutis.
-> 	- Miksist peab olema ka "before" versioon.
+> 	- Miksist peab olema ka "before" versioon. Samamoodi nagu kodutöödel.
 > - Tagasisidestate üksteise töid, peale mida on nädal aega vastavalt tagasisidele muudatusi teha. 
 > - Miksimise ja tagasisidestamise protsess saab minult tagasiside ja hinnangu. ^luefab
 
