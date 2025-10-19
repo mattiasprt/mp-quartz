@@ -151,9 +151,8 @@ publish: true
 	- User: ene.trallmann@ut.ee
 	- Parool: TYVCAsos19
 
-<!-- hide -->
-
 ---
+<!-- hide -->
 ## Minu lähenemine - [[Mastering Checklist]]
 ---
 <!-- /hide -->
