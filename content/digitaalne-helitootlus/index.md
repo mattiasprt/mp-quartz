@@ -21,11 +21,7 @@ publish: true
 > 	- [mattias.part@ut.ee](mailto:mattias.part@ut.ee)
 > 	- Kiiremad küsimused [FB Messengeris](https://www.facebook.com/mattiaspart/).
 
-> [!success] Eristamata hindamine, "Arvestatud" saamiseks tuleb:
-> - Sooritada arvestuslik töö.
-> - Esitada kõik kodutööd. Kõik kodutööd saavad minult tagasisidet, teie tööd ei lähe musta auku!
-
-> [!note] Arvestuslik töö 01.12.25 14:15, 001s
+> [!note] Arvestuslik töö 01.12.25 kell 14:15, 001s
 > 2 valikut, valige üks:
 > 1) Semestri jooksul peab tudeng töötama teise heliinseneri või produtsendiga, kes salvestab/produtseerib/miksib/masterdab tudengi lugu. Teose esitus ja vabas vormis esitlus (plusspunktid kui saate ka projektifaili ette näidata): 
 > 		- Kuidas läks koostöö ja kommunikatsioon, milline on lõpptulem, milline oli sinu panus ja kas jäid kõigega rahule. 
@@ -36,6 +32,10 @@ publish: true
 > 		- Kas kõige üksi tegemine toetas või pärssis sinu loomingulist protsessi? 
 > 		- Millised olid protsessi käigus takerdumise hetked ja kuidas aines omandatud teadmised aitasid mingites olukordades paremini toime tulla. 
 > 		- Kas jäid tulemiga rahule, mida teeksid tulevikus teisiti?
+
+> [!success] Eristamata hindamine, "Arvestatud" saamiseks tuleb:
+> - Sooritada arvestuslik töö.
+> - Esitada kõik kodutööd. 
 
 <!-- hide -->
 
