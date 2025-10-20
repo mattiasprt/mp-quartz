@@ -3,6 +3,7 @@ aine: "[[04 - Õpetamine/content/digitaalne-helitootlus/index|Digitaalne Helitö
 publish: true
 jrk: "7"
 ---
+<!-- hide -->
 ![[Masterdamine#Kus on piir miksi ja masteri vahel?]]
 
 <!-- /hide -->
