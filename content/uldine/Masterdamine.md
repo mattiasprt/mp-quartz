@@ -75,9 +75,10 @@ publish: true
 ---
 ## AI Masterdamine
 
-- Ozone'i Master Assistant, AI teenused jne. Võtavad kõik selle "inimliku" töö mis selle punktini tehtud sai ja laseb selle läbi algoritmi, millel reaalsuses ei ole õrna aimugi mis eesmärk või artistlik visioon on.
+- AI masterdamise teenused, distribuutoritesse integreeritud masterdamise võimalused jne. Võtavad kõik selle "inimliku" töö mis selle punktini tehtud sai ja laseb selle läbi algoritmi, millel reaalsuses ei ole õrna aimugi mis eesmärk või artistlik visioon on.
 - Tegu on lihtsama vastupanu teed minemisega ja laiskusega. 
-- Ettevõtted teavad, et artistid on laisad ja ei viitsi veel ühte etappi enda muusikaga läbida, nõnda AI masterdamine on tehtud väga kättesaadavaks. Distribuutorid pakuvad seda jne.
+- Ettevõtted teavad, et artistid on laisad ja ei viitsi veel ühte etappi enda muusikaga läbida, nõnda AI masterdamine on tehtud väga kättesaadavaks.
+- Ozone Master Assistant on okei referents punkti saavutamise tööriist aga selle töö tulemust tuleb analüüsida ja sobivaks kruttida.
 
 ---
 ## Kuidas võrrelda miksi masteriga?
