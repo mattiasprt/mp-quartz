@@ -39,8 +39,8 @@ tehtud: true
 # Kodutöö
 ## Leia miksija
 
-- Leia täiesti võõras, enda jaoks uus, miksiinsener kelle kõlapilt sulle meeldib (mitte mina :)) ). 
-- Kirjutage meili vastuseks miksija nimi ja paar muusikanäidet, mille põhjal oma arvamuse moodustasid. Proovige ka sõnastada, mis sulle meeldib nende laulude kõla puhul? 
+- Leia täiesti võõras, enda jaoks uus, miksiinsener kelle kõlapilt sulle meeldib. 
+- Kirjutage meili vastuseks miksija nimi ja paar muusikanäidet, mille põhjal oma arvamuse moodustasid. Lisage ka miksija diskograafia link, playlist või koduleht. Proovige ka sõnastada, mis sulle meeldib nende laulude kõla puhul ja kuidas teie arvates miksija selle kõlaga seotud on.
 - Eesmärk on lülituda passivselt kuulamiselt analüütilisele kuulamisele, ning proovida eristada kust maalt on hakanud projektis miksimise ja masterdamise faas.
 
 <!-- /hide -->
