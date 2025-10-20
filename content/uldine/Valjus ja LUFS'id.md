@@ -59,5 +59,3 @@ publish: true
 <!-- /hide -->
 
 ---
-
-![[Dünaamika#Dünaamika mõõtmine]]

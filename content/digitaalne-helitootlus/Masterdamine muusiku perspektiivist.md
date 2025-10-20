@@ -3,15 +3,6 @@ aine: "[[04 - Õpetamine/content/digitaalne-helitootlus/index|Digitaalne Helitö
 publish: true
 jrk: "7"
 ---
-
-<!-- hide -->
-## uudised
-
-- 17.11 on meie loeng 001s. meenuta arvestuslikku tööd. arvestus 1.12 ka 001s.
-- näita uliana projekti ja lase demo võrdluses miksiga. et tekiks seos produ ja miksi vahel.
-
----
-
 ![[Masterdamine#Kus on piir miksi ja masteri vahel?]]
 
 <!-- /hide -->
