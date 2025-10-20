@@ -59,6 +59,5 @@ publish: true
 <!-- /hide -->
 
 ---
-## Dünaamika mõõtmine
 
-- Lahti kirjutatud [minu seminaritöös.](https://docs.google.com/document/d/1LaAj2Piu4tHgqFNTMTxYnq1NFn1Rn19j8gWvSxWsUs8/edit?tab=t.0#heading=h.o4k988dzj5kz)
+![[Dünaamika#Dünaamika mõõtmine]]

@@ -88,6 +88,7 @@ publish: true
 
 - Dünaamika mõõtmine digitaalses helis: Vahe keskmise/pikajalise (*RMS, LUFS-M, LUFS-S*) ja lühiajalise amplituudi (*peak, true peak*) vahel, tuntud kui ka *crest factor*.
 	- Dünaamika suhe ei muutu kui amplituudi vähendada. Peaki ja keskmise valjuse vaheline suhe on täpselt sama.
+- Lahti kirjutatud [minu seminaritöös.](https://docs.google.com/document/d/1LaAj2Piu4tHgqFNTMTxYnq1NFn1Rn19j8gWvSxWsUs8/edit?tab=t.0#heading=h.o4k988dzj5kz)
 
 ---
 # Sõnavara
