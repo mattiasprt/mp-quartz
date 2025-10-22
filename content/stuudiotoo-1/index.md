@@ -46,7 +46,6 @@ publish: true
 ![[KÕIK LOENGUD.base#Stuudiotöö (1.osa)]]
 
 ---
-
 ## Tudengid
 
 | Nimi                     | Märkmed | Puudmised (max 2) | Kodutöid üle tähtaja | Kodutöid tegemata |

@@ -2,7 +2,7 @@
 aine: "[[04 - Õpetamine/content/digitaalne-helitootlus/index|Digitaalne Helitöötlus]]"
 jrk: "6"
 publish: true
-kodutöö: "[[Miksimine muusiku perspektiivist#Leia miksija]]"
+kodutöö: "[[Mis on miksimine?#Leia miksija]]"
 tehtud: true
 ---
 ![[Miksimine#Mis on miksimise point?]]

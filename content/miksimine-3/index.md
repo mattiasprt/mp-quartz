@@ -43,11 +43,14 @@ publish: true
 <!-- hide -->
 
 ---
-
 ## Struktuur
 
 %% 
 AL. 2026
+
+Äkki teha et 1 loeng = 1 miksimise sess tudengi poolt, kus annan tagasisidet tema töövõtetele jne
+Ja siis teha ise ka paar sessi, kus miksin nt nende muusikat.
+
 ![[KÕIK LOENGUD.base#Miksimine (3.osa)]]
 
 > [!note] Arvestuslik töö

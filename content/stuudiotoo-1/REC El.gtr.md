@@ -4,3 +4,5 @@ jrk: "4"
 publish: false
 kodutöö:
 ---
+uudised
+neve front inpute saab küll kasutada, peab FNT sisse panema
