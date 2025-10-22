@@ -10,6 +10,7 @@ publish: true
 - Tonaalsust saab järeltöötluses mõjutada ekvaliseerimisega (EQ, equalizer).
 - EQga saab mõjutada ainult eksisteerivat materjali. Instrumendi kõlale ei saa "bassi juurde panna", kui seal füüsiliselt ei ole neid madalaid sagedusi olemas või salvestatud.
 - Ideaalis, selle asemel, et üritada soundi parandada EQga, on soovituslik muuta soundi allikat, mikri asetust, süna soundi jne. Kuid kui see enam võimalik ei ole, siis tasub võtta kätte EQ.
+- Alati ei olegi vaja EQt kasutada! Ole teadlik, kas selle kasutamine lisab materjalile väärtust või mitte.
 
 >NOTE:
 > - Tehke EQ liigutus muusika ajal ja analüüsige kuidas spektrum ja kõla muutub.

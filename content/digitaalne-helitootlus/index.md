@@ -9,8 +9,12 @@ publish: true
 > - Aine võiks olla semestril mis on peale muusikute audioprogrammide ainet. 4. aasta tundub veits kentsakas seda anda.
 > - Loenguid võib vabalt ka 001s teha. Arvutiklass aint siis kui on mingi harjutus vms.
 
----
 <!-- /hide -->
+
+> [!important] Kodutööd
+> - Laadige enda kodutööd [SIIA Dropboxi kausta](https://www.dropbox.com/request/WDUkrqufv7TzTWDv8zeU)!
+
+---
 ## Üldinfo
 
 > [!danger] RÜTM, PÄRIMUS 4 - SÜGIS
