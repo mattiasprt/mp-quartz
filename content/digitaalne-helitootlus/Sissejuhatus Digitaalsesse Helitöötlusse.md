@@ -45,8 +45,8 @@ tehtud: true
 - Tegu ei ole ilmtingimata "vigade parandusega", tegu on esitluse viimistlemisega. 
 
 >NOTE:
-> - Esitades enda partiid anna lihtsalt enda esitusega maksimum kasutades nii head tehnikat kui suudad. Väga palju on võimalik peale esitust korrigeerida, kuid ärge kasutage seda kui karku mille najal enda esitust ülal hoida!
-> - või kui üks take ei ole tervikuna ideaalne siis samuti, see on täiesti okei teha lõplik produkt nii et see kõlab ideaalselt, kasutades mitut takei. kuulajat võib ju "petta" kui see tähendab et tema saab selle loo kuulamisest suurema naudingu.
+> - Esitades enda partiid anna enda esitusega maksimum kasutades nii head tehnikat kui suudad. Väga palju on võimalik peale esitust korrigeerida, kuid ärge kasutage seda kui karku mille najal enda esitust ülal hoida!
+> - Kui üks take ei ole tervikuna ideaalne siis see on täiesti okei teha lõplik produkt nii et see kõlaks ideaalselt. Kasutades mitut take'i. kuulajat võib ju "petta" kui see tähendab, et tema saab selle loo kuulamisest suurema naudingu.
 
 ---
 

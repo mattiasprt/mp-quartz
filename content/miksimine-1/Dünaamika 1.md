@@ -3,6 +3,8 @@ aine: "[[04 - Õpetamine/content/miksimine-1/index|Miksimine 1]]"
 jrk: "7"
 publish: false
 ---
+kas jõuate arvestusliku töö tähtajaks tehtud?
+
 ![[Dünaamika#Dünaamika]]
 
 ![[Kompressor#Kompressor]]
@@ -19,7 +21,7 @@ publish: false
 - Vali laul: [https://is.gd/MJ7iNi](https://is.gd/MJ7iNi) või ekspordi enda produtud demost trackid.
 - Tee uus projekt, korrektsete sätungitega ja tõmba trackid sisse.
     - Ekspordi kohe "Before" versioon.
-- Lähene miksile gainstagingust, panimisest ja faderite balanseerimisest.
+- Lähene miksile gainstagingust, panimisest ja faderite balansseerimisest.
 - Katseta elementide ekvaliseerimisega, proovi leida negatiivset maskimist ja korrigeerida seda EQga.
 - Katseta elementide ja masteri kompresseerimisega. Katseta erinevaid attack ja release kiiruseid, et saavutada soovitud tulemus.
 	- Tekita headroomi ja kasuta limitterit, et teha lugu valjuks. 
