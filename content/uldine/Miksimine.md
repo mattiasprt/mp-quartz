@@ -3,7 +3,7 @@ publish: true
 ---
 # Mis on miksimise point?
 
-- Võtta kõik salvestatud ja produtseeritud materjal ning luua sobilik kooskõla, mis on balanseeritud ja sobilik (žanriliselt ja/või isikupäraselt), viia täide artistlik visioon.
+- Võtta kõik salvestatud ja produtseeritud materjal ning luua sobilik kooskõla, mis on balansseeritud ja sobilik (žanriliselt ja/või isikupäraselt), viia täide artistlik visioon.
 	1. Balanss: Volüüm, panoraam ja tonaalsus
 	2. Laius, sügavus ja ruumilisus: Reverbid ja efektid
 	3. Energia ja dünaamika: Dünaamilised tööriistad, amplituudi automatsioon
@@ -86,7 +86,7 @@ publish: true
 >NOTE:
 >  - Kas peab piiri tõmbama?
 > 	 - Nt elektroonilisel mussil käivad protsessid enamasti käsikäes
->  - Piiri tõmbamine võimaldab produktsioonis loovust ja selle hilisemat committimist. Kui laulu struktuur on paigas siis alles hakka balanseerima ja töötlema. Parameetreid saab lõputult kruttida, kuid tegu on distractioniga.
+>  - Piiri tõmbamine võimaldab produktsioonis loovust ja selle hilisemat committimist. Kui laulu struktuur on paigas siis alles hakka balansseerima ja töötlema. Parameetreid saab lõputult kruttida, kuid tegu on distractioniga.
 >  - Piiri tõmbamine säästab CPUd ja närvirakke.
 
 ---

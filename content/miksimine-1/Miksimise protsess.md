@@ -114,17 +114,19 @@ NOTE:
 1. Pange laulu kõige tihedam / valjem sektsioon loopima. 
 2. Valides kõik klipid, tooge kõikide clip gain alla (vajadusel üles), kuni master kanali keskmine max peak on -6dB.
 3. Pange kõik klipid mutesse.
-4. Hakake ükshaaval unmutema radu tähtsuse järjekorras ja balanseerima unmutetud radade suhtes.
+4. Hakake ükshaaval unmutema radu tähtsuse järjekorras ja balansseerima unmutetud radade suhtes.
 	- Isiklik eelistus: Trummid ja kõik perkussiivne > Bass > Main vokaal > Lead instrumendid > Täitvad instrumendid > Bäkid > FXid
 	1. *Unmute* track
 	2. Kuula millega tegu
 	3. Analüüsi mis selle elemendi funktsioon miksis on
 	4. Multimic'ed või leierdatude elementide puhul, kontrolli üle kanalitevaheline faasisuhe.
-	5. Balanseeri teiste *unmuted* elementide suhtes, kasutades clip gaini ja panimist.
-5. Kui kõik rajad unmutetud, siis vajadusel valige jälle kõik klipid ja tooge kõige clip gain alla, kuni master kanali max peak on taaskord ligikaudu -6dB. Siis on juba miks balanseeritud ja on ka mõnusalt headroomi edasiseks.
+	5. Balansseeri teiste *unmuted* elementide suhtes, kasutades clip gaini ja panimist.
+5. Kui kõik rajad unmutetud, siis vajadusel valige jälle kõik klipid ja tooge kõige clip gain alla, kuni master kanali max peak on taaskord ligikaudu -6dB. Siis on juba miks balansseeritud ja on ka mõnusalt headroomi edasiseks.
 
 ---
 - Gainstageimine võimaldab hiljem fadereid hoida nulli lähedal, sest seal on neil kõige parem "resolutsioon", ehk täpne mänguruum.
+	- Kui rajal ei ole dünaamilisi tööriistu, siis võite ka miksimise ajal balansseerida elemente gain'idega.
+	- Master fader'it ärge näppige! Sellega võib teha loo fade-in'e või fade-out'e, muidu selle liigutamine (nt olukorras kus mix läheb liiga valjuks) ei ole hea tava. Protsessi lõpu poole võib sellega teha maksimaalselt paari dB'lisi laulu sektsioonide automatsioone.
 - Peale gainstageimist, kustuta radadelt vaikus, aitab visuaalset navigeerida.
 ---
 ![[Faas#Faas]]

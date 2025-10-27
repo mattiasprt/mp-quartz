@@ -21,7 +21,7 @@ publish: false
 - Vali laul: https://is.gd/MJ7iNi või ekspordi enda produtud demost trackid.
 - Tee uus projekt, korrektsete sätungitega ja tõmba trackid sisse.
     - Ekspordi kohe "Before" versioon.
-- Lähene miksile gainstagingust, panimisest ja faderite balanseerimisest.
+- Lähene miksile gainstagingust, panimisest ja faderite balansseerimisest.
 - Miksi lugu top-down metoodikaga, alustades masterist, minnes signal chainis allapoole.
 - Lae miksi enne ja pärast failid: [https://www.dropbox.com/request/1gsszcjaKfxgbTnTMMmo](https://www.dropbox.com/request/1gsszcjaKfxgbTnTMMmo)
     - Eesnimi_Perenimi_Projektinimi_Before.wav

@@ -6,3 +6,4 @@ kodutöö:
 ---
 uudised
 neve front inpute saab küll kasutada, peab FNT sisse panema
+kas jõuate arvestusliku töö tähtajaks tehtud?
