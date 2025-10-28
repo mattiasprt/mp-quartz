@@ -4,6 +4,7 @@ publish: true
 # Helifailide puhastamine
 
 - Salvestatud helifailid, võivad vajada "puhastamist", kui salvestustingimused ei olnud perfektsed.
+- Peamiselt eemaldatakse, või vähendadakse, müra ja muud segavad elemendid, näiteks suu klikid.
 - Kui faile ei puhasta, siis nad võivad tekitada miksimises peavalu ja frustratsiooni. 
 > *Garbage in = Garbage out*
 
