@@ -43,3 +43,6 @@ publish: true
 <!-- /hide -->
 
 ---
+![[Pasted image 20251028155310.png]]
+
+---

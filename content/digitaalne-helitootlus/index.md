@@ -27,16 +27,15 @@ publish: true
 > 	- Kiiremad küsimused [FB Messengeris](https://www.facebook.com/mattiaspart/).
 
 > [!note] Arvestuslik töö 01.12.25 kell 14:15, 001s
-> 2 valikut, valige üks:
-> 1) Semestri jooksul peab tudeng töötama teise heliinseneri või produtsendiga, kes salvestab/produtseerib/miksib/masterdab tudengi lugu. Teose esitus ja vabas vormis esitlus (plusspunktid kui saate ka projektifaili ette näidata): 
-> 		- Kuidas läks koostöö ja kommunikatsioon, milline on lõpptulem, milline oli sinu panus ja kas jäid kõigega rahule. 
-> 		- Kas aines omandatud teadmised aitasid sul mingites olukordades paremini toime tulla kui varem? 
-> 		- Millised on endiselt sinu teadmiste kitsaskohad mis pärsivad koostöö protsessi? 
-> 		- Mida teeksid tulevikus teisiti?
-> 2) Tudeng produtseerib ja viimistleb enda oskuste kohaselt ühe loo/demo iseseisvalt. Teose ja projektifaili esitus ning vabas vormis esitlus: 
-> 		- Kas kõige üksi tegemine toetas või pärssis sinu loomingulist protsessi? 
-> 		- Millised olid protsessi käigus takerdumise hetked ja kuidas aines omandatud teadmised aitasid mingites olukordades paremini toime tulla. 
-> 		- Kas jäid tulemiga rahule, mida teeksid tulevikus teisiti?
+> - Valmista ja esita üks muusikateos, mille oled semestri jooksul kas iseseisvalt või koostöös teise produtsendi/heliinseneriga loonud. Kõik etapid ei pea olema sinu tehtud - oluline on, et sinu panus ja protsessi mõistmine oleks selgelt nähtav.
+> - Laul ei pea olema lõplikult miksitud ja masterdatud, vaid faasis kus tunnete, et olete valmis seda teistele esitlema.
+> - Teose esitus ja vabas vormis esitlus (plusspunktid kui saate projektifaili ette näidata).
+> 	- Milline oli sinu roll projekti valmimisel?
+> 	- Kuidas sujus koostöö või kuidas mõjutas iseseisvalt töötamine tööprotsessi?
+> 	- Kuidas aines omandatud teadmised aitasid sind praktikas?
+> 	- Mis olid peamised takistused või teadmiste kitsaskohad?
+> 	- Kas jäid tulemiga rahule?
+> 	- Mida teeksid tulevikus teisiti, miks ja kuidas?
 
 > [!success] Eristamata hindamine, "Arvestatud" saamiseks tuleb:
 > - Sooritada arvestuslik töö.
@@ -59,6 +58,5 @@ publish: true
 | Ekke Kaarel Rand | **3 (15.09, 22.09, 27.10)** | 7.                |
 | Helen Piir       | 1 (27.10)                   | 7.                |
 | Raphael          |                             | 6.                |
-Ekke puudub 27.10
 
 <!-- /hide -->

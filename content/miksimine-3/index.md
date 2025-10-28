@@ -60,18 +60,18 @@ Ja siis teha ise ka paar sessi, kus miksin nt nende muusikat.
 
 %%
 
-| jrk | tehtud | Loeng (praegune)                             | Kodutöö                                             |
-| :-- | :----- | :------------------------------------------- | --------------------------------------------------- |
-| 1   | x      | [[Sissejuhatus Miksimine 3e]]                | [[Sissejuhatus Miksimisse#Tagasiside andmine]]      |
-| 2   | x      | [[Miksimise protsess]]                       | [[Miksimise protsess#Mix 1]]                        |
-| 3   | x      | [[Faas, Linear Phase EQ, MS]]                | [[Faas, Linear Phase EQ, MS#Mix 1 V2]]              |
-| 4   | x      | [[Dünaamika Megamix]]                        | [[Dünaamika Megamix#Mix 2]]                         |
-| 5   | x      | [[Reverb & Delay]]                           | [[Reverb & Delay#Mix 2 V2]]                         |
-| 6   |        | [[Live salvestus, bleed ja drum triggering]] |                                                     |
-| 7   |        | [[Modulatsioon ja automatsioon]]             |                                                     |
-| 8   |        | [[Saturatsioon]]                             |                                                     |
-| 9   |        | [[Masterdamine ja valjus]]                   |                                                     |
-| 10  |        | Arvestus                                     | [[04 - Õpetamine/Ained/Miksimine (3. osa)#^luefab]] |
+| jrk | tehtud | Loeng (praegune)                                        | Kodutöö                                             |
+| :-- | :----- | :------------------------------------------------------ | --------------------------------------------------- |
+| 1   | x      | [[Sissejuhatus Miksimine 3e]]                           | [[Miksile tagasiside andmine]]                      |
+| 2   | x      | [[Miksimise protsess]]                                  | [[Mix 1 V1]]                                        |
+| 3   | x      | [[Faas, Linear Phase EQ, MS]]                           | [[Mix 1 V2 - EQ]]                                   |
+| 4   | x      | [[Dünaamika Megamix]]                                   | [[Mix 2 V1 - EQ]]                                   |
+| 5   | x      | [[Reverb & Delay]]                                      | [[Mix 2 V2]]                                        |
+| 6   |        | [[Eeltöö miksimisele]]                                  |                                                     |
+| 7   |        | [[Live salvestuse miksimine, bleed ja drum triggering]] |                                                     |
+| 8   |        | [[Saturatsioon]]                                        |                                                     |
+| 9   |        | [[Masterdamine ja valjus]]                              |                                                     |
+| 10  |        | Arvestus                                                | [[04 - Õpetamine/Ained/Miksimine (3. osa)#^luefab]] |
 
 ---
 ## Tudengid

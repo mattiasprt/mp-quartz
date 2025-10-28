@@ -6,7 +6,8 @@ publish: true
 ---
 > [!important] Salvestusteks
 > - [[TÜ VKA Stuudio Signal Flow]]
-> -  [Input List TEMPLATE](https://docs.google.com/spreadsheets/d/1BCbxRhaKBFH1tdbhUe7F7zAMbtVsWFcL5hDuThUsKoI/edit?usp=sharing "https://docs.google.com/spreadsheets/d/1BCbxRhaKBFH1tdbhUe7F7zAMbtVsWFcL5hDuThUsKoI/edit?usp=sharing") 
+> - [Input List TEMPLATE](https://docs.google.com/spreadsheets/d/1BCbxRhaKBFH1tdbhUe7F7zAMbtVsWFcL5hDuThUsKoI/edit?usp=sharing "https://docs.google.com/spreadsheets/d/1BCbxRhaKBFH1tdbhUe7F7zAMbtVsWFcL5hDuThUsKoI/edit?usp=sharing") 
+> - [Meie stuudio mikrofonid](https://docs.google.com/spreadsheets/d/1DtWGfC8WeCv58Mm1l5fs8Nrlgesm2rvQGCaREgGJXLU/edit?usp=sharing)
 
 ---
 ## Üldinfo
