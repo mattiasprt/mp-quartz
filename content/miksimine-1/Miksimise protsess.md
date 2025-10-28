@@ -1,7 +1,7 @@
 ---
 aine: "[[04 - Õpetamine/content/miksimine-1/index|Miksimine 1]]"
 jrk: 2 & 3
-kodutöö: "[[Miksimise protsess#Mix 1]]"
+kodutöö: "[[Mix 1 V1]]"
 publish: true
 tehtud: true
 ---
@@ -182,17 +182,6 @@ NOTE:
 
 ---
 # Kodutöö
-## Mix 1
 
-1. Vali laul: https://is.gd/MJ7iNi või ekspordi enda produtud demost rajad. 
-2. Tee uus projekt, korrektsete BPMi, sample rate'i ja bit depth'iga ja impordi rajad.
-3. Lähene miksile gainstagingust ja panimisest. 
-4. Siis ekspordi "Before" versioon, ehk nö "enne miksimist versioon".
-5. Nüüd alles kasuta efekte ja loo balansse faderitega, vastavalt eesmärgistatud soovidele ning maitsele.
-6. [Lae siia miksi enne ja pärast failid](https://www.dropbox.com/request/1gsszcjaKfxgbTnTMMmo), VEENDU ET FAILID LAADISID ÜLES!
-	- Eesnimi_Projektinimi_Before.wav
-	- Eesnimi_Projektinimi_After.wav
-7. Kui failid üleslaetud, vastake minu meilile:
-	- Kirjutage, mis lugu miksisite ja kuidas teil protsess edenes. Kui takerdusite siis mille taha ja kui tekkis protsessi jooksul mingeid küsimusi siis pange need kah kirja!
-
+![[Mix 1 V1]]
 <!-- /hide -->

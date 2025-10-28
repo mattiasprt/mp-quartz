@@ -1,7 +1,7 @@
 ---
 aine: "[[04 - Õpetamine/content/miksimine-1/index|Miksimine 1]]"
 jrk: "1"
-kodutöö: "[[Sissejuhatus Miksimisse#Tagasiside andmine]]"
+kodutöö: "[[Miksile tagasiside andmine]]"
 publish: true
 tehtud: true
 ---
@@ -61,12 +61,6 @@ tehtud: true
 	- "What is the difference between mixing and mastering?" https://www.izotope.com/en/learn/what-is-the-difference-between-mixing-and-mastering.html
 - Uurige enda kuulamissüsteemi kalibreerimist ja katsetage sellega, ideaalis kalibreerige ära.
 
-## Tagasiside andmine
-
-- Järgmiseks loenguks kirjuta ühele vabalt valitud laulule (kellegi teise, mitte oma produtud) miksi tagasiside. Justkui mina oleksin miksija ja see oleks teie laul. Mis muudatusi te soovite kuulda? Mis toimib ja ei toimi? 
-- Eesmärk on passiivselt kuulamiselt analüütilisele kuulamisele ümber lülituda ja tagasiside andmist praktiseerida. 
-- Meili formaat:
-	- Laulu nimi ja link, kust kuulasid.
-	- Tagasiside, **vabas vormis**. Anna miksile nii tagasisidet nagu päris olukorras artistina annaksid!
+![[Miksile tagasiside andmine]]
 
 <!-- /hide -->

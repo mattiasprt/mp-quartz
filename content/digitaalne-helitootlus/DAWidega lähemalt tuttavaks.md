@@ -1,7 +1,7 @@
 ---
 aine: "[[04 - Õpetamine/content/digitaalne-helitootlus/index|Digitaalne Helitöötlus]]"
 jrk: "4"
-kodutöö: "[[DAWidega lähemalt tuttavaks#Valikuline kodutöö]]"
+kodutöö: "[[Reverbi ja kompressiooni kuulamine]]"
 publish: false
 tehtud: true
 ---
@@ -45,8 +45,5 @@ tehtud: true
 ## Valikuline kodutöö
 
 Huvi korral võite ka katsetade järgnevaid harjutusi, kasutades multitracki materjale. Pole kohustuslik aga aitab teil paremini tööriistadest aru saada!
-- Reverb - https://webtet.net/apcl/#/reverberation
-	- Matching, Level 2, Decay Time
-	- Matching, Level 2, Mix
-- Kompressioon - https://webtet.net/apcl/#/compression
-	- Matching, Level 1 või 2, Ratio
+
+![[Reverbi ja kompressiooni kuulamine]]

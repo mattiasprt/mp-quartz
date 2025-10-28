@@ -7,6 +7,7 @@ publish: false
 > materjali juurde
 > kõlanäited
 > ER LR, reverbi ja delay täiendavad seaded
+> reverse reverb ja delay näited
 
 ---
 ![[Efektide kasutamine#Efektid]]

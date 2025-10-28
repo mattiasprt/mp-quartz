@@ -1,7 +1,7 @@
 ---
 aine: "[[04 - Õpetamine/content/digitaalne-helitootlus/index|Digitaalne Helitöötlus]]"
 jrk: "1"
-kodutöö: "[[Sissejuhatus Digitaalsesse Helitöötlusse#Laulu valimine]]"
+kodutöö: "[[Laulu valimine]]"
 publish: true
 tehtud: true
 ---
@@ -109,12 +109,7 @@ tehtud: true
 ---
 
 # Kodutöö
-## Laulu valimine
 
-- Vali järgmiseks loenguks üks laul mille kõlapildiga oled tuttav. Peaks sisaldama elemente madalatest kuni kõrgete sagedusteni (ideaalis trummikomplektiga). Harjutame selle looga tonaalsuse analüütilist kuulamist, ehk mis mõju on ekvaliseerimisel (EQ).
-- Saatke mulle laulu link kust lugu kuulasite, nimi ja esitaja määratud tähtajaks.
-	- Vastates sellele meilile privaatselt, et kogu selle aine vestlus oleks ühe meilivestluse all. Nii ka edaspidi!
-	- Loengus on vaja kasutada laulu faili, tekitan selle teile.
-	- Kui teil on endil kõrgkvaliteediga fail laulust olemas siis laadige see [SIIA](https://www.dropbox.com/request/WDUkrqufv7TzTWDv8zeU "https://www.dropbox.com/request/WDUkrqufv7TzTWDv8zeU").
+![[Laulu valimine]]
 
 <!-- /hide -->

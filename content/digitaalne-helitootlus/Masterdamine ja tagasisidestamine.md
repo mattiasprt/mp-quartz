@@ -3,7 +3,7 @@ aine: "[[04 - Õpetamine/content/digitaalne-helitootlus/index|Digitaalne Helitö
 publish: true
 jrk: "7"
 tehtud: true
-kodutöö: "[[Masterdamine ja tagasisidestamine#Kodutöö]]"
+kodutöö: "[[Miksile tagasiside andmine]]"
 ---
 <!-- hide -->
 ![[Masterdamine#Kus on piir miksi ja masteri vahel?]]
@@ -40,6 +40,6 @@ kodutöö: "[[Masterdamine ja tagasisidestamine#Kodutöö]]"
 <!-- hide -->
 # Kodutöö
 
-![[Sissejuhatus Miksimisse#Tagasiside andmine]]
+![[Miksile tagasiside andmine]]
 
 <!-- /hide -->

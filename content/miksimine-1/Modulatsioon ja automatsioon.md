@@ -3,8 +3,6 @@ aine: "[[04 - Õpetamine/content/miksimine-1/index|Miksimine 1]]"
 jrk: "9"
 publish: false
 ---
-kas jõuate arvestusliku töö tähtajaks tehtud?
-
 chorus, flanger, phaser, kasutamine ja erinevused
 
 siin võib rääkida ka nt widener ja doubler pluginatest

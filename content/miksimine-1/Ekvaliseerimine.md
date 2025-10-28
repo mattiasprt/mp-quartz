@@ -1,7 +1,7 @@
 ---
 aine: "[[04 - Õpetamine/content/miksimine-1/index|Miksimine 1]]"
 jrk: "4"
-kodutöö: "[[Ekvaliseerimine#Mix 1 V2]]"
+kodutöö: "[[Mix 1 V2 - EQ]]"
 publish: true
 tehtud: true
 ---
@@ -13,9 +13,7 @@ tehtud: true
 
 <!-- hide -->
 # Kodutöö
-## Mix 1 V2
 
-- Tagasisidestastan teie mikse, tehke vastavalt tagasisidele korrektuurid ja saatke enne järgmist loengut miksi V2.
-- Kirjutage mis muudatusi te arvesse võtsite ja mille kallal töötasite, kuidas protsess läks? Kas tagasiside järgi hakkasid mingid pusletükid rohkem paika loksuma? jne
+![[Mix 1 V2 - EQ]]
 
 <!-- /hide -->
