@@ -60,18 +60,18 @@ Ja siis teha ise ka paar sessi, kus miksin nt nende muusikat.
 
 %%
 
-| jrk | tehtud | Loeng (praegune)                                        | Kodutöö                                             |
-| :-- | :----- | :------------------------------------------------------ | --------------------------------------------------- |
-| 1   | x      | [[Sissejuhatus Miksimine 3e]]                           | [[Miksile tagasiside andmine]]                      |
-| 2   | x      | [[Miksimise protsess]]                                  | [[Mix 1 V1]]                                        |
-| 3   | x      | [[Faas, Linear Phase EQ, MS]]                           | [[Mix 1 V2 - EQ]]                                   |
-| 4   | x      | [[Dünaamika Megamix]]                                   | [[Mix 2 V1 - EQ]]                                   |
-| 5   | x      | [[Reverb & Delay]]                                      | [[Mix 2 V2]]                                        |
-| 6   |        | [[Eeltöö miksimisele]]                                  |                                                     |
-| 7   |        | [[Live salvestuse miksimine, bleed ja drum triggering]] |                                                     |
-| 8   |        | [[Saturatsioon]]                                        |                                                     |
-| 9   |        | [[Masterdamine ja valjus]]                              |                                                     |
-| 10  |        | Arvestus                                                | [[04 - Õpetamine/Ained/Miksimine (3. osa)#^luefab]] |
+| jrk | tehtud | Loeng (praegune)                                        | Kodutöö                        |
+| :-- | :----- | :------------------------------------------------------ | ------------------------------ |
+| 1   | x      | [[Sissejuhatus Miksimine 3e]]                           | [[Miksile tagasiside andmine]] |
+| 2   | x      | [[Miksimise protsess]]                                  | [[Mix 1 V1]]                   |
+| 3   | x      | [[Faas, Linear Phase EQ, MS]]                           | [[Mix 1 V2 - EQ]]              |
+| 4   | x      | [[Dünaamika Megamix]]                                   | [[Mix 2 V1 - EQ]]              |
+| 5   | x      | [[Reverb & Delay]]                                      | [[Mix 2 V2]]                   |
+| 6   |        | [[Eeltöö miksimisele]]                                  |                                |
+| 7   |        | [[Live salvestuse miksimine, bleed ja drum triggering]] |                                |
+| 8   |        | [[Saturatsioon]]                                        |                                |
+| 9   |        | [[Masterdamine ja valjus]]                              |                                |
+| 10  |        | Arvestus                                                |                                |
 
 ---
 ## Tudengid
@@ -79,8 +79,8 @@ Ja siis teha ise ka paar sessi, kus miksin nt nende muusikat.
 | Nimi              | Märkmed | Puudumised (max 2) | Kodutöid üle tähtaja | Kodutöid tegemata |
 | ----------------- | ------- | ------------------ | -------------------- | ----------------- |
 | Samuel Hõim       | Ableton |                    |                      |                   |
-| Grete Lagemaa     | Ableton |                    | 2 (2. 4.)            |                   |
-| Kerttu Piigli     | FL      | 1 (15.10)          | 1 (4.)               | 1 (4.)            |
+| Grete Lagemaa     | Ableton |                    | 3 (2. 4. 5.)         |                   |
+| Kerttu Piigli     | FL      | 1 (15.10)          | 2 (4. 5.)            | 2 (4. 5.)         |
 | Ott Rang          | Ableton |                    | 1 (1.)               | 1 (1.)            |
-| Ariana Arutjunjan | Logic   |                    |                      |                   |
+| Ariana Arutjunjan | Logic   |                    | 1 (5.)               | 1 (5.)            |
 <!-- /hide -->
