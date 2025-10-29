@@ -4,6 +4,11 @@ publish: true
 jrk: "8"
 tehtud: true
 ---
+<!-- hide -->
+>- lisa guitar de-noise näide. nimeta näidete kaustad ja materjalid korralikult.
+
+---
+<!-- /hide -->
 # Eeltöö miksimisele
 
 - Helifailide puhastamine, *audio restoration / cleanup*
@@ -12,7 +17,7 @@ tehtud: true
 	- Melodyne ja Auto-Tune
 - Ajaline korrektuur
 	- Audio *warp*'imine ja Vocalign
-- Tegu ei ole ilmtingimata "vigade parandusega", või "sohki tegemisega". Tegu on esitluse ja salvestatud materjali viimistlemisega.
+- Tegu ei ole ilmtingimata "vigade parandusega", või "sohki tegemisega". Tegu on esituse ja salvestatud materjali viimistlemisega.
 
 ---
 ![[iZotope RX#Helifailide puhastamine]]
