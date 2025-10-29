@@ -5,6 +5,7 @@ publish: true
 
 - Kompressor võimaldab meil kontrollida **mikrodünaamikat**, vähendades dünaamilist ulatust. Keerates lävendi ehk *treshold*'i ületanud signaali (enamasti transientid) vaiksemaks. Hiljem kompenseeritakse volüümi kaotus, *make-up gain*'iga.
 - Kasutada siis kui on kuuldav dünaamiline ebaütlus. Mingid perkussiivsed löögid "löövad liiga välja" või kui mingid spetsiifilised noodid partiis kaovad miksi sisse ära, võrreldes teiste nootidega.
+- Hea lühike video, seletab kuidas kompressor töötab: [https://www.youtube.com/watch?v=fnLL8Qo8S-w](https://www.youtube.com/watch?v=fnLL8Qo8S-w)
 
 <!-- hide -->
 >NOTE:

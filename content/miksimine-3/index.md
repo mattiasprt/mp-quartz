@@ -67,7 +67,7 @@ Ja siis teha ise ka paar sessi, kus miksin nt nende muusikat.
 | 3   | x      | [[Faas, Linear Phase EQ, MS]]                           | [[Mix 1 V2 - EQ]]              |
 | 4   | x      | [[Dünaamika Megamix]]                                   | [[Mix 2 V1 - EQ]]              |
 | 5   | x      | [[Reverb & Delay]]                                      | [[Mix 2 V2]]                   |
-| 6   |        | [[Eeltöö miksimisele]]                                  |                                |
+| 6   | x      | [[Eeltöö miksimisele]]                                  | [[Mix 3 V1 - Dünaamika]]       |
 | 7   |        | [[Live salvestuse miksimine, bleed ja drum triggering]] |                                |
 | 8   |        | [[Saturatsioon]]                                        |                                |
 | 9   |        | [[Masterdamine ja valjus]]                              |                                |
