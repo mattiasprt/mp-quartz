@@ -82,5 +82,5 @@ Ja siis teha ise ka paar sessi, kus miksin nt nende muusikat.
 | Grete Lagemaa     | Ableton |                    | 3 (2. 4. 5.)         |                   |
 | Kerttu Piigli     | FL      | 1 (15.10)          | 2 (4. 5.)            | 2 (4. 5.)         |
 | Ott Rang          | Ableton |                    | 1 (1.)               | 1 (1.)            |
-| Ariana Arutjunjan | Logic   |                    | 1 (5.)               | 1 (5.)            |
+| Ariana Arutjunjan | Logic   | 1 (29.10)          | 1 (5.)               | 1 (5.)            |
 <!-- /hide -->

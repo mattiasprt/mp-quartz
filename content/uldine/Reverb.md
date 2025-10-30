@@ -7,7 +7,7 @@ publish: true
 - Hea reverb on see mille olemasolule sa ei mõtle aga selle puudumist igatsed. Sulandub saundi ja miksiga ühte.
 - Levinud tüübid:
 	- Algorütmilised - Valdav enamus reverbi pluginatest, tehislikud aga väga paindlikud enda kasutuses
-	- *Convolution*, (IR, Impulse Response) - Kõige naturaalsem, sest salvestatud päris asukohti.
+	- *Convolution* - Kõige naturaalsem, sest salvestatud päris asukohti. Kasutab IR (Impulse Response) salvestusi.
 - Enimlevinud stiilid:
 	- Room - Kõlab nagu ruum, justkui oleks salvestusel lisa ruumimikrid olnud.
 	- Hall - Kõlab nagu "sügav" saal.
