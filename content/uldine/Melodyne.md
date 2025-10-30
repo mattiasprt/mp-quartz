@@ -12,6 +12,12 @@ publish: true
 - Miks teha manuaalselt kui saab automaatselt? Melodyne vs Auto-Tune
 	- Manuaalselt on rohkem kontrolli ja täpsust, automaatselt kiirem ja tihtipeale piisavalt pädev
 - Reverbiga signaali Melodyne'ides tekib palju kuuldavaid artifact'e, tähtis on töödelda kuiva signaali.
+- Melodyneiga saab katsetada ka harmooniate loomisega.
+	- Näiteks: Duplicate'ige enda main vokaali rada, pange Melodyne peale ja tõstke noodid ümber sobilikuks harmooniaks.
+- Variant kasutada kas..
+	- ARAga - laete plugina heliklipi peale ja Melodyne laeb kõik audio sisse
+	- Plugina formaadis - kasutate Melodynei insert pluginana, "salvestate" sinna heli sisse
+	- Standalone - eraldiseisev programm, leate materjali sisse, korrigeerite ära, ekspordite korrigeeritud materjali
 
 <!-- hide -->
 
