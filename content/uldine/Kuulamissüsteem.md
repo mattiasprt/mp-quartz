@@ -20,12 +20,15 @@ publish: true
 
 - Kõlarid - SoundID Reference, IK Multimedia ARC jne
 	- [Tasuta tarkvara Room EQ Wizard kasutamine ja ruumi EQ tekitamine](https://www.youtube.com/watch?v=Ev1bSSL8tRA) Vana video aga palju sellest endiselt kehtib, REWi tasub uurida endiselt!
+	- [Sellised näevad välja meie kooli laos olevad Neumann MA-1 mikrofonid](https://www.retrosonicproaudio.com/product/neumann-ma-1-monitor-alignment-microphone "https://www.retrosonicproaudio.com/product/neumann-ma-1-monitor-alignment-microphone") kui soovite laenata siis [rääkige minuga üle](https://www.facebook.com/mattiaspart/ "https://www.facebook.com/mattiaspart/")!
+		- Spetsiifilise Neumanni mõõtemikri kalibratsiooni faili saab [siit](https://ma1.neumann.com/linearization "https://ma1.neumann.com/linearization").
 - Klapid - SoundID Reference, Toneboosters Morphit, [AutoEQ](https://www.autoeq.app/) + EQ
 	- Mac - [SoundSource](https://rogueamoeba.com/soundsource/)
 	- Windows - [Equalizer APO](https://sourceforge.net/projects/equalizerapo/)
 		- Valikuline lisand Equalizer APO-le: [Peace GUI](https://sourceforge.net/projects/peace-equalizer-apo-extension/)
 	- Klappidel crossfeed - Peace GUI sisseehitatud, GHz Can Opener plugin. Simuleerib kõlaritega kuulamise olukorda, ehk vasakule bleedib paremat signaali ja vastupidi, tekib naturaalsem panoraam.
-- Kõlarite kalibreerimine on justkui plaastri haavale peale panemine, reaalsuses on tähtsam ruumi akustika. Kõrvaklappide kalibreerimine ja crossfeedi kasutamine annab konkreetsema tulemuse, sest akustika ei ole mängus.
+- Kõlarite kalibreerimine on justkui plaastri haavale peale panemine, mis vajaks tegelt õmbluseid. Reaalsuses on tähtsam ruumi akustika. 
+	- Kõrvaklappide kalibreerimine ja crossfeedi kasutamine annab konkreetsema tulemuse, sest akustika ei ole mängus.
 	- Kuid ärge endiselt pimesi usaldage EQ korrektuuri, veenduge ikka kas kõla läheb paremaks ja lineaarsemaks.
 
 ---
