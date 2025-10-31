@@ -41,9 +41,6 @@ publish: true
 ---
 ## Struktuur
 
-> [!note]
-> [[NotebookLM - Miksimise ja masterdamise põhimõtted]] - The Recording Engineers Handbook 5th Edition b.pdf
-
 ![[KÕIK LOENGUD.base#Stuudiotöö (1.osa)]]
 
 ---
