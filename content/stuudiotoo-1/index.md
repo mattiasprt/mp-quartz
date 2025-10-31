@@ -23,7 +23,7 @@ publish: true
 
 > [!info] Arvestuslik töö 12.12.25 14:15, foonikas 001. 
 >- Salvestus:
->	- Salvestage enda projekti tarbeks vähemalt kahte muusikut (erinevad inimesed ja erinevad instrumendid). Kasutades 001te ja 002te. Tegu võib olla live salvestuse kontekstiga, kus kõik instrumendid mängivad ja salvestuvad samaaegselt, või lihtsalt overdub'imisega (üks partii korraga).
+>	- Salvestage enda projekti tarbeks vähemalt kahte muusikut (erinevad inimesed, erinevad instrumendid ja mitte teie kursakad!). Kasutades 001te ja 002te. Tegu võib olla live salvestuse kontekstiga, kus kõik instrumendid mängivad ja salvestuvad samaaegselt, või lihtsalt overdub'imisega (üks partii korraga).
 >		- Projekt võib olla sama, mille jaoks oleme ka praktikumides salvestanud.
 >	- Ärge tehke samal salvestusel, mitme tudengi arvestuslikku tööd, kõik seisavad enda eest. Olge üksteisele toeks aga ärge salvestage samal sessioonil mitmesse arvestuslikku projekti, sama mikri setup'iga. Tahan, et kõik läbiksid individuaalselt ettevalmistuse, setup'imise ja salvestamise protsessi.
 >- Esitlus:
