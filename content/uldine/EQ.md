@@ -48,7 +48,7 @@ publish: true
 <!-- hide -->
 [[Tonaalsuse Sõnastamine.canvas|Tonaalsuse Sõnastamine]]
 <!-- /hide -->
-![[Tonaalsuse Sõnastamine.png]]<!-- hide -->
+![[Tonaalsuse Sõnastamine 1.png]]<!-- hide -->
 >NOTE:
 > - Õppimine läbi sõnavara, lase mussi, boosti või cuti sagedusvahemikku, küsi iseloomustavat sõna
 > - Ei pea olema terve laulu kõrakarakteri kohta, saab ka kasutada individuaalsetel elementidel!
