@@ -29,8 +29,7 @@ publish: true
 >- Esitlus:
 >	- Esitate enda lõpliku projekti (oma läpakast või 001 Macist) ning oskate kirjeldada ja põhjendada kasutatud salvestusmeetodeid, võimalusel näidake ka pilte salvestusprotsessist, mikrite asetustest, inputlisti jne. 
 >	- Tähtis on eneseanalüüs, kuidas läks protsess ja kommunikatsioon muusikutega. Kui takerdusite protsessi käigus, siis mille taha. Mida teeksid järgmine kord teisiti ja kuidas jne. 
->		- Kui te toote enda vigu välja protsessi läbiviimisel, siis ma ei hinda teie tööd automaatselt madalamalt. Tähtis on eneseteadlikkus ja soov areneda!
->- Tahan ka lugu eksporditud .wav failina, et ise hiljem üle kuulata. Laul ei pea olema lõplikult miksitud ja masterdatud, kuid võiks olla seisukorras, kus julgete ja tahate seda mulle esitada.
+>- Tahan ka lugu eksporditud .wav failina, et ise hiljem üle kuulata. Laul ei pea olema lõplikult miksitud ja masterdatud, kuid võiks olla seisukorras, kus julgete ja tahate seda teistele esitada.
 
 > [!success] Eristav hindamine, lõpphinne kujuneb:
 >- Arvestusliku töö esitamisest ja töö tulemusest.
