@@ -21,7 +21,7 @@ publish: true
 >	- [mattias.part@ut.ee](mailto:mattias.part@ut.ee)
 >	- Kiiremad küsimused [FB Messengeris](https://www.facebook.com/mattiaspart/).
 
-> [!info] Arvestuslik töö 05.12.25 14:15, foonikas 001. 
+> [!info] Arvestuslik töö 12.12.25 14:15, foonikas 001. 
 >- Salvestus:
 >	- Salvestage enda projekti tarbeks vähemalt kahte muusikut (erinevad inimesed ja erinevad instrumendid). Kasutades 001te ja 002te. Tegu võib olla live salvestuse kontekstiga, kus kõik instrumendid mängivad ja salvestuvad samaaegselt, või lihtsalt overdub'imisega (üks partii korraga).
 >		- Projekt võib olla sama, mille jaoks oleme ka praktikumides salvestanud.
