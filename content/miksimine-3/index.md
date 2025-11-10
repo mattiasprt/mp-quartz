@@ -76,11 +76,12 @@ Ja siis teha ise ka paar sessi, kus miksin nt nende muusikat.
 ---
 ## Tudengid
 
-| Nimi              | Märkmed | Puudumised (max 2) | Kodutöid üle tähtaja | Kodutöid tegemata |
-| ----------------- | ------- | ------------------ | -------------------- | ----------------- |
-| Samuel Hõim       | Ableton |                    |                      |                   |
-| Grete Lagemaa     | Ableton |                    | 3 (2. 4. 5.)         |                   |
-| Kerttu Piigli     | FL      | 1 (15.10)          | 2 (4. 5.)            | 2 (4. 5.)         |
-| Ott Rang          | Ableton |                    | 1 (1.)               | 1 (1.)            |
-| Ariana Arutjunjan | Logic   | 1 (29.10)          | 1 (5.)               | 1 (5.)            |
+| Nimi              | Puudumisi (max 2) | 1 [[Miksile tagasiside andmine]] | 2 [[Mix 1 V1]] | 3 [[Mix 1 V2 - EQ]] | 4 [[Mix 2 V1 - EQ]] | 5 [[Mix 2 V2]] | 6 [[Mix 3 V1 - Dünaamika]] | 7 [[Mix 3 V2]] | 8 [[Mix 4 V1]] | 9 [[Mix 4 V2]] |
+| ----------------- | ----------------- | -------------------------------- | -------------- | ------------------- | ------------------- | -------------- | -------------------------- | -------------- | -------------- | -------------- |
+| Samuel Hõim       |                   |                                  |                |                     |                     |                |                            |                |                |                |
+| Grete Lagemaa     |                   |                                  |                | H                   | H                   | H              |                            |                |                |                |
+| Kerttu Piigli     | 1 (15.10)         |                                  |                |                     | X                   | X              |                            |                |                |                |
+| Ott Rang          |                   | X                                |                |                     |                     |                |                            |                |                |                |
+| Ariana Arutjunjan | 1 (29.10)         |                                  |                |                     |                     | X              |                            |                |                |                |
+
 <!-- /hide -->
