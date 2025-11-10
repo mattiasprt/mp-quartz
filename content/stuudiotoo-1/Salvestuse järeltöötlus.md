@@ -1,6 +1,6 @@
 ---
 aine: "[[04 - Õpetamine/content/stuudiotoo-1/index|Stuudiotöö 1]]"
-jrk: "7"
+jrk: "6"
 publish: false
 kodutöö: "[[Salvestuse järeltöötlus#Radade puhastus]]"
 ---

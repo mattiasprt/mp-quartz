@@ -5,7 +5,9 @@ jrk: "8"
 tehtud: true
 ---
 <!-- hide -->
->- lisa guitar de-noise näide. nimeta näidete kaustad ja materjalid korralikult.
+
+> [!NOTE] Note
+>  lisa guitar de-noise näide. nimeta näidete kaustad ja materjalid korralikult.
 
 ---
 <!-- /hide -->

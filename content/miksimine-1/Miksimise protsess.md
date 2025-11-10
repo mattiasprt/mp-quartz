@@ -148,7 +148,7 @@ NOTE:
 ## Nüüd alles hakkame miksima..
 
 - Efektide kasutus ei tohiks kriitiliselt gainstage'i muuta! Ehk plugina bypassimisel ei tohiks selle raja tajutav valjus muutuda. Valjuse kontrollimiseks on faderid.
-- Solotada on kerge aga miksimises loeb kogu üldpildi kõla!
+- Solotada on kerge aga miksimises loeb kogu üldpildi kõla! Mine solosse siis kui te teate MIKS te solosse lähete!
 
 ---
 ## Render / Export / Bounce ja Print

@@ -88,13 +88,16 @@ tehtud: true
 
 - Masterdatud faili sisse kirjutatud.
 	- Pealkiri, artisti nimi, albumi nimi, järjekorra nr jne
-- ISRC kood (laulu "isikukood", määratud distribuutori poolt)
+- ISRC kood (laulu "isikukood", genereeritud distribuutori poolt või määratud artisti poolt kes on EFÜst koodi küsinud)
 
 ---
 
 ## 6.  Distributsioon
 
 - Kasutades digitaalse muusika distributsiooni platvorme, kes jagavad sinu masterdatud faili voogedastusse.
+
+NOTE:
+> - https://aristake.com/digital-distribution-comparison/
 
 ---
 

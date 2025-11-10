@@ -53,7 +53,7 @@ publish: true
 
 | Nimi             | Puudumisi (max 3)           | Kodutöid tegemata |
 | ---------------- | --------------------------- | ----------------- |
-| Kristin Kaha     |                             | 6.                |
+| Kristin Kaha     |                             |                   |
 | Helery Kõrvemaa  | 1 (15.09)                   |                   |
 | Ekke Kaarel Rand | **3 (15.09, 22.09, 27.10)** | 7.                |
 | Helen Piir       | 1 (27.10)                   | 7.                |

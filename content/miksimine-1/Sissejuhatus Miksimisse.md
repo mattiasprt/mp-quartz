@@ -60,6 +60,7 @@ tehtud: true
 	- "Mixing While Producing Music: Good or Bad Idea?" https://www.izotope.com/en/learn/mixing-while-producing-music-good-or-bad-idea.html
 	- "What is the difference between mixing and mastering?" https://www.izotope.com/en/learn/what-is-the-difference-between-mixing-and-mastering.html
 - Uurige enda kuulamissüsteemi kalibreerimist ja katsetage sellega, ideaalis kalibreerige ära.
+- Kandke loengutes enda läpakaid kaasas, et kõike järgi teha!
 
 ![[Miksile tagasiside andmine]]
 
