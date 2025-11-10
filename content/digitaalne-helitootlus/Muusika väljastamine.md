@@ -3,11 +3,14 @@ aine: "[[04 - Õpetamine/content/digitaalne-helitootlus/index|Digitaalne Helitö
 publish: true
 jrk: "9"
 ---
+<!-- hide -->
 # Meenutuseks
 
 ![[Sissejuhatus Digitaalsesse Helitöötlusse#5.1. Metaandmed]]
 
 ![[Sissejuhatus Digitaalsesse Helitöötlusse#6. Distributsioon]]
+
+<!-- /hide -->
 # Muusika väljastamine
 
 - ALATI KUULA fail üle mida sa üles laadima hakkad.
