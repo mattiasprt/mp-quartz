@@ -34,10 +34,10 @@ publish: true
 > 	- Miksi before'i ja V1'te võrreldes on toimunud kõlaline areng.
 > 	- Teisele tudengile antud tagasiside on väärtuslik ja mõistlik.
 > 	- V1'te ja V2'te võrreldes on võetud tagasisidet kuulda ja on toimunud kõlaline areng.
-> 2. Kodutööde õigeaegsest esitamisest.
+> - Kodutööde õigeaegsest esitamisest.
 > 	- Kui tudengil jääb kodutöö tegemata õigeaegselt, **siis läheb tema kodutööde hinne ühe punkti võrra madalamaks.** 
 > 	- Aine lõpetamiseks on vaja kõik kodutööd ära teha!
-> ---
+>
 > Lõplik hinne kujuneb kahe eelneva punkti keskmisest. Nt. arvestuslik töö on esitatud 'A'-le aga tudengil on hilinenud 4 kodutööd ehk 'A'-4='E', siis lõpphindeks kujuneb 'C', sest A ja E keskpunkt on C.
 
 # NB! Kuna 2025 sügissemestril on ainekava üpriski Frankenstein'itud, siis leiate läbitud teemad [[uldine|"Üldised teemad"]] alt.
