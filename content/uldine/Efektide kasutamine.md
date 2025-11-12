@@ -19,19 +19,14 @@ publish: true
 # [[Reverb]]
 # [[Delay]]
 ---
-# Kõlakarakter ja presetid
+# Põhjalikumalt
+## Kõlakarakter ja presetid
 
 - EQ enne ja/või pärast efekti võimaldab määrata tooni mida manipuleeritakse või on manipuleeritud.
 	- Pluginates sisseehitatud high- ja lowcut, enamasti post-reverb.
 	- Paindlikum on aux kanalil ise EQda. Näiteks vokaali reverbi puhul EQ essid ja mudasus välja enne reverbi saatmist jne (või näiteks de-esser enne reverbi).
 	- Lowcut reverbidel vähendab miksis mudasuse kogunemist. EQ kuulates tervet miksi, mitte solos!
 - Presetide kasutamine loovamates pluginates julgustatud! Pigem vältida täpsemates töötluspluginates, nt EQ ja kompressorid, sest nende kasutamine on nii situatsiooniline ja sõltuv algsignaalist.
-
----
-## Efekti *throw*'d
-
-- Üksikud hetked loo vältel, kui mingile elemendile rakendub verbi või delay saba nt. Niiöelda "viskad signaali minema."
-- Automeeritud send'i volüüm. Dry-wet knobiga seda teha ei saa.
 
 ---
 ## Sõnavara
@@ -42,5 +37,17 @@ publish: true
 | Ees / Lähedal / *Upfront*     | Taga / Eemal / Kaugel |
 | Lai                           | Kitsas                |
 | Sügavus                       | 2D                    |
+
+---
+# Efekti *throw*'d
+
+- Üksikud hetked loo vältel, kui mingile elemendile rakendub verbi või delay saba nt. Niiöelda "viskad signaali minema."
+- Automeeritud send'i volüüm. Dry-wet knobiga seda teha ei saa.
+- Reverse reverbid ja delay'd on väga levinud produelemendid, võib ka throw'deks nimetada.
+
+---
+## Ducking
+
+- Reverbi või delay dünaamiliselt vaiksemaks keeramine, kui sidechain signaal on aktiivne. Kui sidechain jääb vaikseks, siis reverbid ja delayd avanevad. 
 
 ---

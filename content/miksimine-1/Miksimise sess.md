@@ -1,7 +1,7 @@
 ---
 aine: "[[04 - Õpetamine/content/miksimine-1/index|Miksimine 1]]"
 jrk: "6"
-kodutöö: "[[Mix 2 V2]]"
+kodutöö: Mix 2 V2
 publish: false
 tehtud: true
 ---

@@ -2,8 +2,13 @@
 aine: "[[04 - Õpetamine/content/digitaalne-helitootlus/index|Digitaalne Helitöötlus]]"
 publish: true
 jrk: "9"
+tehtud: true
 ---
 <!-- hide -->
+
+> [!NOTE] Title
+> Siin peaks metaandmed ja distributsiooni rohkem välja kirjutama
+
 # Meenutuseks
 
 ![[Sissejuhatus Digitaalsesse Helitöötlusse#5.1. Metaandmed]]

@@ -23,20 +23,21 @@ publish: true
 
 > [!info] Arvestuslik töö 03.12.25 16:15, foonikas 001.
 > - Esitad enda poolt miksitud laulu ja selle projekti. Laul ei pea olema teie poolt produtseeritud. Esitlus oma sülearvutis või stuudio arvutis.
-> 	- Miksist peab olema ka "before" versioon. Samamoodi nagu kodutöödel.
+> 	- Miksist peab olema ka "before" versioon. Samamoodi nagu kodutöödel. Esitlusel tuleb teha AB võrdlus.
 > - Tagasisidestate üksteise töid, peale mida on nädal aega vastavalt tagasisidele muudatusi teha. 
 > - Miksimise ja tagasisidestamise protsess saab minult tagasiside ja hinnangu. ^luefab
 
 > [!success] Eristav hindamine, lõpphinne kujuneb:
-> - Arvestusliku töö läbimisest ja tulemusest. Hindamiskriteeriumid:
+> 1. Arvestusliku töö läbimisest ja tulemusest. Hindamiskriteeriumid:
 > 	- Juhul kui tudeng on loo produtsent siis on tähtis, et miksimise projekt ei ole sama mis produtseerimise projekt.
 > 	- On näha, et projektis on materjal korrektselt gainstage'itud, meter'itel on tervislik headroom, midagi ei clipi.
 > 	- Miksi before'i ja V1'te võrreldes on toimunud kõlaline areng.
 > 	- Teisele tudengile antud tagasiside on väärtuslik ja mõistlik.
 > 	- V1'te ja V2'te võrreldes on võetud tagasisidet kuulda ja on toimunud kõlaline areng.
-> - Kodutööde õigeaegsest esitamisest.
-> 	- Kui tudengil jääb kodutöö tegemata õigeaegselt, **siis läheb tema hinne ühe punkti võrra madalamaks.** 
+> 2. Kodutööde õigeaegsest esitamisest.
+> 	- Kui tudengil jääb kodutöö tegemata õigeaegselt, **siis läheb tema kodutööde hinne ühe punkti võrra madalamaks.** 
 > 	- Aine lõpetamiseks on vaja kõik kodutööd ära teha!
+> - Lõplik hinne kujuneb eelneva kahe punkti keskmisest. Nt. arvestuslik töö on esitatud 'A'-le aga tudengil on hilinenud 4 kodutööd ehk 'A'-4='E', siis lõpphindeks kujuneb 'C'.
 
 # NB! Kuna 2025 sügissemestril on ainekava üpriski Frankenstein'itud, siis leiate läbitud teemad [[uldine|"Üldised teemad"]] alt.
 
@@ -68,7 +69,7 @@ Ja siis teha ise ka paar sessi, kus miksin nt nende muusikat.
 | 4   | x      | [[Dünaamika Megamix]]                                   | [[Mix 2 V1 - EQ]]              |
 | 5   | x      | [[Reverb & Delay]]                                      | [[Mix 2 V2]]                   |
 | 6   | x      | [[Eeltöö miksimisele]]                                  | [[Mix 3 V1 - Dünaamika]]       |
-| 7   |        | [[Live salvestuse miksimine, bleed ja drum triggering]] |                                |
+| 7   | x      | [[Live salvestuse miksimine, bleed ja drum triggering]] |                                |
 | 8   |        | [[Saturatsioon]]                                        |                                |
 | 9   |        | [[Masterdamine ja valjus]]                              |                                |
 | 10  |        | Arvestus                                                |                                |
@@ -76,12 +77,12 @@ Ja siis teha ise ka paar sessi, kus miksin nt nende muusikat.
 ---
 ## Tudengid
 
-| Nimi              | Puudumisi (max 2) | 1 [[Miksile tagasiside andmine]] | 2 [[Mix 1 V1]] | 3 [[Mix 1 V2 - EQ]] | 4 [[Mix 2 V1 - EQ]] | 5 [[Mix 2 V2]] | 6 [[Mix 3 V1 - Dünaamika]] | 7 [[Mix 3 V2]] | 8 [[Mix 4 V1]] | 9 [[Mix 4 V2]] |
-| ----------------- | ----------------- | -------------------------------- | -------------- | ------------------- | ------------------- | -------------- | -------------------------- | -------------- | -------------- | -------------- |
-| Samuel Hõim       |                   |                                  |                |                     |                     |                |                            |                |                |                |
-| Grete Lagemaa     |                   |                                  |                | H                   | H                   | H              |                            |                |                |                |
-| Kerttu Piigli     | 1 (15.10)         |                                  |                |                     | X                   | X              |                            |                |                |                |
-| Ott Rang          |                   | X                                |                |                     |                     |                |                            |                |                |                |
-| Ariana Arutjunjan | 1 (29.10)         |                                  |                |                     |                     | X              |                            |                |                |                |
+| Nimi              | Puudumisi (max 2) | 1 [[Miksile tagasiside andmine]] | 2 Mix 1 V1 | 3 Mix 1 V2 | 4 Mix 2 V1 | 5 Mix 2 V2 | 6 Mix 3 V1 | 7 Mix 3 V2 |
+| ----------------- | ----------------- | -------------------------------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
+| Samuel Hõim       |                   |                                  |            |            |            |            | H          |            |
+| Grete Lagemaa     |                   |                                  |            | H          | H          | H          | X          |            |
+| Kerttu Piigli     | 1 (15.10)         |                                  |            |            | X          | X          | X          |            |
+| Ott Rang          |                   | X                                |            |            |            |            | H          |            |
+| Ariana Arutjunjan | 1 (29.10)         |                                  |            |            |            | X          | H          |            |
 
 <!-- /hide -->
