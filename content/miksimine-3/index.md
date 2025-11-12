@@ -28,7 +28,7 @@ publish: true
 > - Miksimise ja tagasisidestamise protsess saab minult tagasiside ja hinnangu. ^luefab
 
 > [!success] Eristav hindamine, lõpphinne kujuneb:
-> 1. Arvestusliku töö läbimisest ja tulemusest. Hindamiskriteeriumid:
+> - Arvestusliku töö läbimisest ja tulemusest. Hindamiskriteeriumid:
 > 	- Juhul kui tudeng on loo produtsent siis on tähtis, et miksimise projekt ei ole sama mis produtseerimise projekt.
 > 	- On näha, et projektis on materjal korrektselt gainstage'itud, meter'itel on tervislik headroom, midagi ei clipi.
 > 	- Miksi before'i ja V1'te võrreldes on toimunud kõlaline areng.
@@ -37,7 +37,8 @@ publish: true
 > 2. Kodutööde õigeaegsest esitamisest.
 > 	- Kui tudengil jääb kodutöö tegemata õigeaegselt, **siis läheb tema kodutööde hinne ühe punkti võrra madalamaks.** 
 > 	- Aine lõpetamiseks on vaja kõik kodutööd ära teha!
-> - Lõplik hinne kujuneb eelneva kahe punkti keskmisest. Nt. arvestuslik töö on esitatud 'A'-le aga tudengil on hilinenud 4 kodutööd ehk 'A'-4='E', siis lõpphindeks kujuneb 'C'.
+> ---
+> Lõplik hinne kujuneb kahe eelneva punkti keskmisest. Nt. arvestuslik töö on esitatud 'A'-le aga tudengil on hilinenud 4 kodutööd ehk 'A'-4='E', siis lõpphindeks kujuneb 'C', sest A ja E keskpunkt on C.
 
 # NB! Kuna 2025 sügissemestril on ainekava üpriski Frankenstein'itud, siis leiate läbitud teemad [[uldine|"Üldised teemad"]] alt.
 
