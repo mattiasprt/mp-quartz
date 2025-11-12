@@ -3,8 +3,9 @@ publish: true
 ---
 # Delay
 
-- Kaja tekitamine, pigem tehislik efekt. Lisab põnevat rütmikat produktsioonile.
+- Kaja tekitamine, pigem tehislik efekt. Lisab põnevat rütmikat produktsioonile. 
 - Enamasti *synced*, ehk noodi pikkused on seotud loo tempoga (määratud DAWi poolt). 
+	- Lugu millel on vaja rohkem detaili säilitada, võib lühike synced-delay tekitada parema "liimimise" kui lühike reverb.
 - Levinud stiilid:
 	- Normal - Tavaline kaja
 	- Ping-Pong - Delay põrkab vasaku ja parema kanali vahel
@@ -12,6 +13,7 @@ publish: true
 
 >NOTE:
 >- Produ trikk: Echoboy delay igavatele staatilistele trummidele, siis mängida groove ja shuffle knobidega
+>- Helinäited
 
 ---
 ## Peamised delay seaded

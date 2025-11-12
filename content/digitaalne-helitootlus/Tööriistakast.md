@@ -21,7 +21,7 @@ tehtud: true
 
 ![[Delay#Delay]]
 
-![[Efektide kasutamine#Kõlakarakter ja presetid]]
+![[Efektide kasutamine#Põhjalikumalt]]
 
 <!-- hide -->
 # Kodutöö

@@ -15,6 +15,11 @@ publish: false
 
 ![[Sidechain Compression#Sidechain Compression]]
 
+# Dünaamiline EQ
+
+- tark jutt siia
+
+---
 <!-- hide -->
 # Kodutöö
 

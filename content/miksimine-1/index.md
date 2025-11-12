@@ -45,5 +45,5 @@ publish: true
 | Oskar Piik                        | Mac, FL    |                   |                   |
 | Pepi aka Jose Manuel Prieto Garay | Mac, Logic | 1 (17.09)         |                   |
 | Maaria Õun                        | Mac, Logic | 1 (15.10)         |                   |
-| Kasper Suur                       | Win, ?     |                   |                   |
+| Kasper Suur                       | Win, ?     |                   | 1 (7.)            |
 <!-- /hide -->

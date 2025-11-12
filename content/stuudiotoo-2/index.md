@@ -22,4 +22,6 @@ publish: false
 
 ## Struktuur
 
+IRide salvestamine ja kasutamine?
+
 ![[KÕIK LOENGUD.base#Stuudiotöö (2.osa)]]

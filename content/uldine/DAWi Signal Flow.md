@@ -7,6 +7,6 @@ publish: true
 [[DAW Signal Flow Canvas.canvas]]
 <!-- /hide -->
 
-![[DAW Signal Flow.png]]
+![[DAW Signal Flow Canvas.png]]
 
 ---

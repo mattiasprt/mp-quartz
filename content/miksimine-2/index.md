@@ -24,15 +24,17 @@ publish: false
 > 	- Aine lõpetamiseks on vaja kõik kodutööd ära teha!
 > 	- Kõik kodutööd saavad minult tagasisidet, teie tööd ei lähe musta auku!
 
+> [!info] Arvestuslik töö
+> - Esitad enda poolt miksitud laulu ja selle projekti, kas oma sülearvutis või stuudio arvutis.
+> - Tagasisidestate üksteise töid, peale mida on nädal aega vastavalt tagasisidele muudatusi teha. 
+> - Miksimise kogu protsess saab minult tagasiside ja hinnangu. ^9e3xam
+
 ---
 ## Struktuur
 
 ![[KÕIK LOENGUD.base#Miksimine (2.osa)]]
 
-> [!info] Arvestuslik töö
-> - Esitad enda poolt miksitud laulu ja selle projekti, kas oma sülearvutis või stuudio arvutis.
-> - Tagasisidestate üksteise töid, peale mida on nädal aega vastavalt tagasisidele muudatusi teha. 
-> - Miksimise kogu protsess saab minult tagasiside ja hinnangu. ^9e3xam
+Arvestusliku töö esitluseks 3h!
 
 ---
 
