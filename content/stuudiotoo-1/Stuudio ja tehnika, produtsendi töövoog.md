@@ -1,7 +1,7 @@
 ---
 aine: "[[04 - Õpetamine/content/stuudiotoo-1/index|Stuudiotöö 1]]"
 jrk: 1 & 2
-kodutöö: "[[Stuudio ja tehnika, produtsendi töövoog#Salvestuse ettevalmistus]]"
+kodutöö: "[[Salvestuse ettevalmistus]]"
 publish: true
 tehtud: true
 ---
@@ -131,8 +131,6 @@ tehtud: true
 ---
 ![[04 - Õpetamine/content/stuudiotoo-1/index#Üldinfo]]
 
-<!-- /hide -->
-
 ---
 # Kodutöö
 
@@ -141,7 +139,7 @@ tehtud: true
 - Hea viis kontrollitud ja turvalises keskkonnas enda projekti jaoks midagi salvestada.
 - Valikud:
 	- [x] Elektrikitarr / Basskitarr
-	- [ ] Nord / Analoog süntesaator
+	- [ ] Nord / Analoog süntesaator 
 	- [x] Klaver (Võime ka kammersaalist)
 	- [x] Vokaalid
 	- [ ] Akustiline kitarr
@@ -155,13 +153,6 @@ tehtud: true
 - 14.11 Maaria projekti trummiset
 
 ---
-## Salvestuse ettevalmistus
+![[Salvestuse ettevalmistus]]
 
-- Eksportige enda DAWist materjal mille peale me salvestama hakkame. 
-- Importige see Pro Toolsi projekti. Ideaalis valmistage projekt ette 001s, siis saate juba saata signaali ka Behringeri süsteemi.
-	- Sama sample rate ja bit depth mis sinu projekt! Vältige ebavajalikke konversioone.
-- Tehke Pro Toolsis tühjad rajad, ideaalis korrektsete inputidega (määratud 001s), kuhu me hakkame salvestama.
-- Proovige ka input listi tegemist: [TEMPLATE](https://docs.google.com/spreadsheets/d/1BCbxRhaKBFH1tdbhUe7F7zAMbtVsWFcL5hDuThUsKoI/edit?usp=sharing "https://docs.google.com/spreadsheets/d/1BCbxRhaKBFH1tdbhUe7F7zAMbtVsWFcL5hDuThUsKoI/edit?usp=sharing") 
-	- Eriti kui teil ei ole võimalik 001s projekti ette valmistada!
-- Veenduge, et teie muusik on valmistunud enda partiid esitama.
-
+<!-- /hide -->
