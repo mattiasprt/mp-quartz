@@ -4,8 +4,8 @@ publish: true
 # Helifailide puhastamine
 
 - Salvestatud helifailid, võivad vajada "puhastamist", kui salvestustingimused ei olnud perfektsed.
-- Peamiselt eemaldatakse, või vähendadakse, müra ja muud segavad elemendid, näiteks suu klikid.
-- Kui faile ei puhasta, siis nad võivad tekitada miksimises peavalu ja frustratsiooni. 
+- Peamiselt eemaldatakse, või vähendadakse, müra ja muud segavad elemendid, näiteks suu klikid, *hum*, *hiss*.
+- Kui faile ei puhasta, siis nad võivad tekitada miksimises peavalu ja frustratsiooni. Kuna edasine töötlus võib võimendada neid häirivaid elemente.
 > *Garbage in = Garbage out*
 
 ---
@@ -17,7 +17,7 @@ publish: true
 
 <!-- hide -->
 NOTE:
-> - näita RXis sinesweepi [10s Sine Sweep.wav](file:///Users/mattiasprt/Library/CloudStorage/Dropbox/ÕPETAMINE/Materjalid/Noise/10s%20Sine%20Sweep.wav)
+> - näita RXis sinesweepi [10s Sine Sweep.wav](file:///Users/mattiasprt/Library/CloudStorage/Dropbox/ÕPETAMINE/Materjalid/Testisignaalid/10s%20Sine%20Sweep.wav)
 
 ---
 ## Näited
