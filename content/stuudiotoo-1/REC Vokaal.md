@@ -2,7 +2,7 @@
 aine: "[[04 - Õpetamine/content/stuudiotoo-1/index|Stuudiotöö 1]]"
 jrk: "3"
 publish: true
-kodutöö:
+kodutöö: "[[Salvestuse ettevalmistus]]"
 tehtud: true
 ---
 ![[Stuudio ja tehnika, produtsendi töövoog#Salvestuse ettevalmistus]]
