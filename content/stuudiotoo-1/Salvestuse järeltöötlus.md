@@ -5,7 +5,7 @@ jrk: "6"
 tehtud: true
 kodutöö: "[[Audio puhastamine]]"
 ---
-# Eeltöö miksimisele
+# Salvestuse järeltöötlus
 
 - Helifailide puhastamine, *audio restoration / cleanup*
 	- iZotope RX
