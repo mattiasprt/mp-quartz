@@ -2,7 +2,7 @@
 aine: "[[04 - Õpetamine/content/stuudiotoo-1/index|Stuudiotöö 1]]"
 jrk: "5"
 publish: false
-kodutöö:
+kodutöö: "[[Salvestuse ettevalmistus]]"
 tehtud: true
 ---
 - Stereotehnikad: https://sengpielaudio.com/HejiaE.htm
