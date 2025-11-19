@@ -14,3 +14,5 @@ kodutöö: Mix 3 V2
 ![[Delay#Delay]]
 
 ![[Efektide kasutamine#Põhjalikumalt]]
+
+![[Efektide kasutamine#Efekti *throw*'d]]

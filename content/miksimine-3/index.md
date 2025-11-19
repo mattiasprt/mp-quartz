@@ -65,15 +65,14 @@ Ja siis teha ise ka paar sessi, kus miksin nt nende muusikat.
 | jrk | tehtud | Loeng (praegune)                                        | Kodutöö                        |
 | :-- | :----- | :------------------------------------------------------ | ------------------------------ |
 | 1   | x      | [[Sissejuhatus Miksimine 3e]]                           | [[Miksile tagasiside andmine]] |
-| 2   | x      | [[Miksimise protsess]]                                  | [[Mix 1 V1]]                   |
-| 3   | x      | [[Faas, Linear Phase EQ, MS]]                           | [[Mix 1 V2 - EQ]]              |
-| 4   | x      | [[Dünaamika Megamix]]                                   | [[Mix 2 V1 - EQ]]              |
-| 5   | x      | [[Reverb & Delay]]                                      | [[Mix 2 V2]]                   |
-| 6   | x      | [[Eeltöö miksimisele]]                                  | [[Mix 3 V1 - Dünaamika]]       |
-| 7   | x      | [[Live salvestuse miksimine, bleed ja drum triggering]] |                                |
+| 2   | x      | [[Miksimise protsess]]                                  | Mix 1 V1                       |
+| 3   | x      | [[Faas, Linear Phase EQ, MS]]                           | Mix 1 V2                       |
+| 4   | x      | [[Dünaamika Megamix]]                                   | Mix 2 V1                       |
+| 5   | x      | [[Reverb & Delay]]                                      | Mix 2 V2                       |
+| 6   | x      | [[Eeltöö miksimisele]]                                  | Mix 3 V1                       |
+| 7   | x      | [[Live salvestuse miksimine, bleed ja drum triggering]] | Mix 3 V2                       |
 | 8   |        | [[Saturatsioon]]                                        |                                |
 | 9   |        | [[Masterdamine ja valjus]]                              |                                |
-| 10  |        | Arvestus                                                |                                |
 
 ---
 ## Tudengid
@@ -81,8 +80,8 @@ Ja siis teha ise ka paar sessi, kus miksin nt nende muusikat.
 | Nimi              | Puudumisi (max 2) | 1 [[Miksile tagasiside andmine]] | 2 Mix 1 V1 | 3 Mix 1 V2 | 4 Mix 2 V1 | 5 Mix 2 V2 | 6 Mix 3 V1 | 7 Mix 3 V2 |
 | ----------------- | ----------------- | -------------------------------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
 | Samuel Hõim       |                   |                                  |            |            |            |            | H          |            |
-| Grete Lagemaa     |                   |                                  |            | H          | H          | H          | X          |            |
-| Kerttu Piigli     | 1 (15.10)         |                                  |            |            | X          | X          | X          |            |
+| Grete Lagemaa     |                   |                                  |            | H          | H          | H          | H          | X          |
+| Kerttu Piigli     | 2 (15.10, 19.11)  |                                  |            |            | H          | H          | H          |            |
 | Ott Rang          |                   | X                                |            |            |            |            | H          |            |
 | Ariana Arutjunjan | 1 (29.10)         |                                  |            |            |            | X          | H          |            |
 
