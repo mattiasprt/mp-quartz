@@ -71,7 +71,7 @@ Ja siis teha ise ka paar sessi, kus miksin nt nende muusikat.
 | 5   | x      | [[Reverb & Delay]]                                      | Mix 2 V2                       |
 | 6   | x      | [[Eeltöö miksimisele]]                                  | Mix 3 V1                       |
 | 7   | x      | [[Live salvestuse miksimine, bleed ja drum triggering]] | Mix 3 V2                       |
-| 8   |        | [[Saturatsioon]]                                        |                                |
+| 8   | x      | [[Saturatsioon]]                                        |                                |
 | 9   |        | [[Masterdamine ja valjus]]                              |                                |
 
 ---

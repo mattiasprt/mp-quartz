@@ -6,15 +6,17 @@ jrk:
 <!-- hide -->
 > [!NOTE] Note
 > - PLUGIN DOCTOR analüüs
+> - Intermodulation jutt
 
 ---
 <!-- /hide -->
 # Saturatsioon
 
-- Tegu on ülemhelide lisamisega, et täita sagedusspektrumit ja lisada täidlust.
+- Tegu on ülemhelide lisamisega, et täita sagedusspektrumit ja lisada täidlust ning *liimi*.
+	- Ülemhelid lisatakse vastavalt sisend *waveform*ile, saturatsioon ei vaata spetsiifilisi noote, vaid pigem reageerib konstantsele sageduste summale. Tugevama amplituudiga elemendid saavad suurema saturatsiooni osaliseks. 
 - Excitement = Saturation, ehk sünonüümid
 - Distortioni efekt on sisuliselt agressiivne satureerimine.
-- Satureerimine "kompresseerib" dünaamikat. Sest, et saturatsioon on dünaamika / gaini tundlik efekt. Peakid ja teravad transiendid pehmendatakse.
+- Satureerimine ka "kompresseerib" dünaamikat. Sest, et saturatsioon on dünaamika / gaini tundlik efekt. Peakid ja teravad transiendid pehmendatakse.
 - Alati level matchige enda satureerimine, ärge laske valjusel end petta!
 
 ---
@@ -36,7 +38,7 @@ jrk:
 	- Mida kõrgem IPS seda puhtam, mida madalam - seda räpasem ja lofim.
 	- Ampex, Studer jne
 - Tube / Lamp
-	- Kidravõimud, Blackbox jne
+	- Kidravõimud, Black Box jne
 - Transistor
 	- Kui pushida siis *fuzzy, gritty*, kompressioon on tugevam.
 - Kuna kõlakarakter on subjektiivne ja suhteline siis lihtsalt keerake nuppe, lõpuks saate aru kuidas mingi plugin kõlab ja mis olukorras kasutada on mõistlik.
