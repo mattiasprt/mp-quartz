@@ -18,6 +18,7 @@ publish: true
 ---
 # [[Reverb]]
 # [[Delay]]
+# [[Modulatsioon]]
 ---
 # Põhjalikumalt
 ## Kõlakarakter ja presetid
@@ -41,7 +42,7 @@ publish: true
 ---
 # Efekti *throw*'d
 
-- Üksikud hetked loo vältel, kui mingile elemendile rakendub verbi või delay saba nt. Niiöelda "viskad signaali minema."
+- Üksikud hetked loo vältel, kui mingile elemendile rakendub verbi või delay saba nt. Niiöelda "viskad signaali minema." Hea mingite fraaside rõhutamiseks.
 - Automeeritud send'i volüüm. Dry-wet knobiga seda teha ei saa.
 - Reverse reverbid ja delay'd on väga levinud produelemendid, võib ka throw'deks nimetada.
 
@@ -49,5 +50,7 @@ publish: true
 ## Ducking
 
 - Reverbi või delay dünaamiliselt vaiksemaks keeramine, kui sidechain signaal on aktiivne. Kui sidechain jääb vaikseks, siis reverbid ja delayd avanevad. 
+	- External Sidechain - Efekti saadetud signaal mis ei ühti kanalil oleva sisend signaaliga. Nt kick mis on saadetud bassi kanali kompressorisse. Et iga kord kui kick lööb, siis bass keeratakse vaiksemaks.
+- Võimaldab hoida nt main vokaali täpsemana ja fookuses.
 
 ---

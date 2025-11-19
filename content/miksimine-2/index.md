@@ -4,6 +4,10 @@ aliases:
   - Miksimine 2
 publish: false
 ---
+
+> [!NOTE] Title
+> teha nii et tudengid uploadivad enda kodutöö dropboxi kausta, kust läheb materjal otse samplysse.
+
 ## Üldinfo
 
 > [!danger] PRODU 2 - KEVAD

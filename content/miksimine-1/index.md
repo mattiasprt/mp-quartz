@@ -39,11 +39,11 @@ publish: true
 ---
 ## Tudengid
 
-| Nimi                              | Märkmed    | Puudumisi (max 2) | Kodutöid tegemata |
-| --------------------------------- | ---------- | ----------------- | ----------------- |
-| Lisanna Kuningas                  | Mac, Logic | 1 (15.10)         |                   |
-| Oskar Piik                        | Mac, FL    |                   |                   |
-| Pepi aka Jose Manuel Prieto Garay | Mac, Logic | 1 (17.09)         |                   |
-| Maaria Õun                        | Mac, Logic | 1 (15.10)         |                   |
-| Kasper Suur                       | Win, ?     |                   | 1 (7.)            |
+| Nimi                              | Puudumisi (max 2) | Kodutöid tegemata |
+| --------------------------------- | ----------------- | ----------------- |
+| Lisanna Kuningas                  | 1 (15.10)         |                   |
+| Oskar Piik                        |                   |                   |
+| Pepi aka Jose Manuel Prieto Garay | 1 (17.09)         |                   |
+| Maaria Õun                        | 1 (15.10)         |                   |
+| Kasper Suur                       |                   | 8.                |
 <!-- /hide -->
