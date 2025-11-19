@@ -40,7 +40,7 @@ publish: true
 | Sügavus                       | 2D                    |
 
 ---
-# Efekti *throw*'d
+# Efekti throw
 
 - Üksikud hetked loo vältel, kui mingile elemendile rakendub verbi või delay saba nt. Niiöelda "viskad signaali minema." Hea mingite fraaside rõhutamiseks.
 - Automeeritud send'i volüüm. Dry-wet knobiga seda teha ei saa.

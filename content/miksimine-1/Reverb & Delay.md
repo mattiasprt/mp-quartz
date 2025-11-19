@@ -15,4 +15,4 @@ kodutöö: Mix 3 V2
 
 ![[Efektide kasutamine#Põhjalikumalt]]
 
-![[Efektide kasutamine#Efekti *throw*'d]]
+![[Efektide kasutamine#Efekti throw]]
