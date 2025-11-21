@@ -45,5 +45,5 @@ publish: true
 | Oskar Piik                        |                   |                   |
 | Pepi aka Jose Manuel Prieto Garay | 1 (17.09)         |                   |
 | Maaria Õun                        | 1 (15.10)         |                   |
-| Kasper Suur                       |                   | 8.                |
+| Kasper Suur                       |                   |                   |
 <!-- /hide -->

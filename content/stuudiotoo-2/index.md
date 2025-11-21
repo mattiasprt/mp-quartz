@@ -23,5 +23,7 @@ publish: false
 ## Struktuur
 
 IRide salvestamine ja kasutamine?
+3:1 multimic reegel
+live salvestuse läbi viimine
 
 ![[KÕIK LOENGUD.base#Stuudiotöö (2.osa)]]

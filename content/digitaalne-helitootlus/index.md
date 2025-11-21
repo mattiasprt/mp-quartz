@@ -57,7 +57,7 @@ publish: true
 | Kristin Kaha     |                             |                   |
 | Helery Kõrvemaa  | 1 (15.09)                   |                   |
 | Ekke Kaarel Rand | **3 (15.09, 22.09, 27.10)** | 7.                |
-| Helen Piir       | 1 (27.10)                   | 7.                |
+| Helen Piir       | 1 (27.10)                   |                   |
 | Raphael          |                             | 6.                |
 
 <!-- /hide -->

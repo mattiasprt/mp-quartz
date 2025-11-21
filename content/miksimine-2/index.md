@@ -36,6 +36,10 @@ publish: false
 ---
 ## Struktuur
 
+visuaalne analüüs
+faas tuua eraldi peatükki, mis on mix 1s, linear phase ja MS on eraldiseisvad, nö EQ 2.0
+failiformaadid, flac vs wav jne
+
 ![[KÕIK LOENGUD.base#Miksimine (2.osa)]]
 
 Arvestusliku töö esitluseks 3h!
