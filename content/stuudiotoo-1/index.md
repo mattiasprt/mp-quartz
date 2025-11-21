@@ -48,6 +48,8 @@ publish: true
 ---
 ## Struktuur
 
+trummid on peale rxi olude sunnil, muidu tõsta ümber
+
 ![[KÕIK LOENGUD.base#Stuudiotöö (1.osa)]]
 
 ---
