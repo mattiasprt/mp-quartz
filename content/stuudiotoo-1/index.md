@@ -37,8 +37,11 @@ publish: true
 >- Kodutööde õigeaegsest esitamisest.
 >	- Kui tudengil jääb kodutöö tegemata õigeaegselt, **siis läheb tema kodutööde hinne ühe punkti võrra madalamaks.** 
 >	- Aine lõpetamiseks on vaja kõik kodutööd ära teha!
->
-> Lõplik hinne kujuneb kahe eelneva punkti keskmisest. Nt. arvestuslik töö on esitatud 'A'-le aga tudengil on hilinenud 4 kodutööd ehk 'A'-4='E', siis lõpphindeks kujuneb 'C', sest A ja E keskpunkt on C.
+
+%% 
+> Lõplik hinne kujuneb kahe eelneva punkti keskmisest. Nt. arvestuslik töö on esitatud 'A'-le aga tudengil on hilinenud 4 kodutööd ehk 'A'-4='E', siis lõpphindeks kujuneb 'C', sest A ja E keskpunkt on C. 
+
+%%
 
 <!-- hide -->
 
@@ -53,7 +56,7 @@ publish: true
 | Nimi                     | Märkmed | Puudmised (max 2) | Kodutöid üle tähtaja | Kodutöid tegemata |
 | ------------------------ | ------- | ----------------- | -------------------- | ----------------- |
 | Lisanna Kuningas         |         |                   |                      |                   |
-| Oskar Piik               |         | 1 (17.10)         |                      |                   |
+| Oskar Piik               |         | 2 (17.10, 21.11)  |                      |                   |
 | Jose Manuel Prieto Garay |         |                   |                      |                   |
 | Maaria Õun               |         | 1 (17.10)         |                      |                   |
 <!-- /hide -->
