@@ -35,7 +35,7 @@ kodutöö:
 	- Hi-Hat - Mikker mis korjaks võimalikult vähe snarei bleedi, nt mingi figure 8. Asetada pigem kõrgemale, mitte plaatide vahele, sest sealt tuleb palju õhku.
 - Seti mikrid:
 	- Crotch - võrdne kaugus kicki beaterist ja snareist, võrdne kaugus rackist ja floorist. sihitud racki ja floori vahele paralleelselt
-	- OH - stereopaar, publiku perspektiivis L ja R. Võib kasutada kondensaatoreid kui vaja püüda teravust, attacki ja sära või ribboneid kui on tarvis pehmemat soundi. Kondedel on ka tihtipeale PAD võimekus. Mikrid võrdsel kaugusel snareist, et vältida faasiprobleeme. OHd soolos võiks anda balansseeritud ülevaate kogu setist.
+	- OH - stereopaar, publiku perspektiivis L ja R. Võib kasutada kondensaatoreid kui vaja püüda teravust, attacki ja sära või ribboneid kui on tarvis pehmemat soundi. Kondedel on ka tihtipeale PAD võimekus. Mikrid võrdsel kaugusel snareist, et vältida faasiprobleeme. Seti suhtes samal joonel, kui küljelt vaadata. OHd soolos võiks anda balansseeritud ülevaate kogu setist.
 	- Room - kui ruum on elav, siis tasuks panna vähemalt üks mikker püsti, et saada ruumi kõla. 002s nt laemikker.
 - Mikritel on tähtis polarity/faas üle kontrollida. OHd solos, lisate ükshaaval spote, kuulata kas inverted või normal polarity kõlab paremini.
 
