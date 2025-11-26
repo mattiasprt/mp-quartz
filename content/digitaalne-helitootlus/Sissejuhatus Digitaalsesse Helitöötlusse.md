@@ -110,7 +110,13 @@ NOTE:
 > - reaalne näide: [klaaspilvedel DEMO-MIX-MASTER.RPP](file:///Users/mattiasprt/Library/CloudStorage/Dropbox/ÕPETAMINE/DEMO-PROD-MIX-MASTER/klaaspilvedel%20DEMO-MIX-MASTER.RPP)
 
 ---
+<!-- hide -->
+# [[Muusika Produktsiooni Teekond.canvas|Muusika Produktsiooni Teekond]] 
+<!-- /hide -->
 
+![[Muusika Produktsiooni Teekond.png]]
+
+---
 # Kodutöö
 
 ![[Laulu valimine]]

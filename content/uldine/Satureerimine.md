@@ -48,13 +48,14 @@ publish: true
 	- Kuid olge ettevaatlikud väga kõrgete sageduste satureerimisega! Sest...
 
 ---
-## Nyquisti sagedus ja oversampling
+## Nyquisti sagedus, aliasing distortion ja oversampling
 
 - Sample rate / 2 = Nyquisti sagedus
-- Kui tekitatud ülemhelid tahavad minna sellest kõrgemale, siis nad põrkuvad tagasi ebaharmooniliselt / dissoneeruvalt.
+	- Kui tekitatud ülemhelid tahavad minna sellest kõrgemale, siis nad põrkuvad "vastu Nyquisti seina" ja sealt tagasi ebaharmooniliselt / dissoneeruvalt. Nimetatakse *aliasing distortion*-iks.
 - Selle parandamiseks saab mõnel pluginal kasutada **oversampling**-u, mis tõstab plugina sisest sample rate-i, et tekitatud ülemhelidel oleks võimalik kõrgemale ulatuda. Siis filtreeritakse kõik mis on üle projekti sample rate-i välja. Tekib puhtam kõla. Enamasti kuuldav kõrgetel sagedustel.
 	- Liigub paarisarvu kordsete kaupa 2x, 4x, 8x, 16x jne. 
-		- 48k puhul: 96, 192 jne. Enamasti 4x on piisav, sealt edasi overkill.
+		- 48k puhul: 96, 192 jne. Enamasti 4x on piisav, sealt edasi enamasti overkill.
 	- Lülitage sisse siis kui kuulete erinevust (eriti kõrgetes sagedustes), muidu lihtsalt sööb arvuti jõudlust. 
+	- Paljud tänapäevased saturatsiooni ja distortioni pluginad teevad juba vaikimisi oversamplimist ja ei lase kasutajal seda muuta.
 
 ---

@@ -20,6 +20,7 @@ publish: true
 
 - Kõlarid - SoundID Reference, IK Multimedia ARC jne
 	- [Tasuta tarkvara Room EQ Wizard kasutamine ja ruumi EQ tekitamine](https://www.youtube.com/watch?v=Ev1bSSL8tRA) Vana video aga palju sellest endiselt kehtib, REWi tasub uurida endiselt!
+		- [REW kasutusjuhend](https://www.roomeqwizard.com/help/help_en-GB/html/)
 	- [Sellised näevad välja meie kooli laos olevad Neumann MA-1 mikrofonid](https://www.retrosonicproaudio.com/product/neumann-ma-1-monitor-alignment-microphone "https://www.retrosonicproaudio.com/product/neumann-ma-1-monitor-alignment-microphone") kui soovite laenata siis [rääkige minuga üle](https://www.facebook.com/mattiaspart/ "https://www.facebook.com/mattiaspart/")!
 		- Spetsiifilise Neumanni mõõtemikri kalibratsiooni faili saab [siit](https://ma1.neumann.com/linearization "https://ma1.neumann.com/linearization").
 - Klapid - SoundID Reference, Toneboosters Morphit, [AutoEQ](https://www.autoeq.app/) + EQ
@@ -38,6 +39,7 @@ publish: true
 	- Madalad ja kõrged sagedused vajavad rohkem "võimendust" kui kõrg-kesksagedused, et neid võrdselt kuulda oleks. (Fletcher-Munson graafik)
 	- Ei vaja korrigeerimist, lihtsalt olge teadlikud, et nt. võite madalal kuulamis valjusel kompenseerida bassiga üle, lihtsalt kuna seda ei kuule nii hästi.
 - "Valjem kõlab paremini" tõenäoliselt ka selle tõttu, et siis lihtsalt kõrv kuuleb rohkem võrdset tonaalset spektrumit.
+- [Tajutav valjus hästi selgitatud](https://youtu.be/api8s3a_GZA?si=PXrzGFYt6KPDsgWV&t=234) (3:54 - 4:48)
 
 <!-- hide -->
 >NOTE: 

@@ -33,7 +33,11 @@ publish: true
 
 <!-- hide -->
 >NOTE:
->- - clippiva laulu näide: https://tidal.com/browse/track/188802769?u al. 6:00
+>- [Kings Of The Rollers - Don't Wanna Wake Up.wav](file:///Users/mattiasprt/Music/HQ%20REFERENCES/_MINU/Kings%20Of%20The%20Rollers%20-%20Don't%20Wanna%20Wake%20Up.wav)
+>- clippiva laulu näide: https://tidal.com/browse/track/188802769?u al. 6:00
+>- VALI 
+>	- https://tidal.com/track/393309860/u
+>	- https://tidal.com/track/446936321/u
 
 <!-- /hide -->
 
@@ -49,8 +53,9 @@ publish: true
 ---
 ## Kogumik vs Singel
 
-- Singlid keeratakse kõik samale valjuse astmele. 
-- Kogumikke kuulates keeratakse kõik lood vastavalt kõige valjemale loole vaiksemaks. Et säiliks lauludevaheline valjuse ja dünaamika erinevus.
+- Singlid keeratakse kõik samale valjuse astmele. Ehk valdavalt -14 int. LUFS.
+- Kogumikke kuulates keeratakse kõik lood vastavalt kõige valjemale loole vaiksemaks. Et säiliks laulude vaheline valjuse ja dünaamika erinevus. 
+	- Ehk kõige valjem lugu keeratakse -14 int. LUFS, ning kõik teised lood keeratakse sama palju dB vaiksemaks.
 
 <!-- hide -->
 >NOTE:
