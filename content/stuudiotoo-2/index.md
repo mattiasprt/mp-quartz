@@ -22,8 +22,9 @@ publish: false
 
 ## Struktuur
 
-IRide salvestamine ja kasutamine?
+IRide salvestamine ja kasutamine? reverb, kidra, kemper jne
 3:1 multimic reegel
+impedance
 live salvestuse läbi viimine
 
 ![[KÕIK LOENGUD.base#Stuudiotöö (2.osa)]]

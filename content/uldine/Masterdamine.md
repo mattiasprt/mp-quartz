@@ -17,7 +17,7 @@ publish: true
 <!-- /hide -->
 # Mis on masterdamise point?
 
-- Laulu lõpulihv / kvaliteedi kontroll, miksi viimistlemine, enne distributsiooni. Eesmärk on panna lugu "transleeruma" erinevatele kuulamissüsteemidele, nii hästi kui võimalik.
+- Laulu lõpulihv / kvaliteedi kontroll, miksi viimistlemine, enne distributsiooni. Eesmärk on panna lugu tõlgenduma erinevatele kuulamissüsteemidele, nii hästi kui võimalik.
 - Master ei paranda halba miksi. Masteri tulemus on sõltuv kõikidest eelnevatest etappidest.
 - Masterdaja võiks olla keegi väline usaldusväärne insener, tähtis on läheneda värskete kõrvadega.
 - Mis masteris tehakse:
@@ -45,14 +45,15 @@ publish: true
 ---
 ## Kogumik vs Singel
 
-- Singli puhul sihitakse ainult selle singli kontekstis kõige võimalikku parimat kõla.
-- Kogumiku puhul on tähtis luua laulude vaheline kooskõla.
+- Singli puhul sihitakse ainult selle singli kontekstis kõige võimalikku parimat kõla. Et lugu kõlaks sarnaste lugude playlistis sobilikult.
+- Kogumiku puhul on tähtsam luua laulude vaheline kooskõla.
 	- Sest et iga miksimise projekt on eraldiseisev protsess. Miksijad enamasti ei võrdle enda mikside kõla. Masterdamine võimaldab kõik erinevad miksid sidusaks kogumikuks vormida.
+	- **Kuulaja ei tohiks ulatuda volüüminupu poole kogumikku kuulates.**
 
 ---
 ## Väljund
 
-- Lõplik masterdatud fail, valmis distributsiooniks. Faili nimeks ongi "master".
+- Lõplik masterdatud fail, valmis distributsiooniks. Faili nimetuseks ongi "master".
 - Ideaalis konverteeritud mitmesse formaati, vastavalt vajadusele. Sisaldab sobilikke metaandmeid.
 	- 48_24 WAV, 44.1_16 WAV, MP3
 - Lõplik teos, milles muusika räägiks enese eest, mitte masterdaja kes selle kallal töötas. Töö kus tuleb ego eemaldada, rohkem kui kõik eelnevad etapid.
@@ -89,11 +90,11 @@ publish: true
 # [[Valjus ja LUFS'id]]
 ---
 # Põhjalikumalt
----
 ## Masterda eraldi projektis!
 
 - Enda miksimise projektis mixbusi / 2-busi / master busi peale pluginaid loopides, ei pruugi tulla kõige parem master.
 - Uus projekt võimaldab varasema töö *commit*imist ja värske perspektiiviga lähenemist. 
+- Ärge lõpetage miksi ja alustage masterit samal päeval!
 - Masterdamise pluginad võivad olla suure latency'ga. Eraldi projekt võimaldab teil säästa närvirakke ja CPUd.
 
 ---
