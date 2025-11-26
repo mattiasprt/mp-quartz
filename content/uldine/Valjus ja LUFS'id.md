@@ -26,10 +26,14 @@ publish: true
 ---
 ## True peak
 
-- Ehk *intersample peaks*. Samplite vaheline reaalne lainehari.
-- Lihtsalt ärge laske üle 0-i, te ei võida sellest midagi.
-- Voogedastusplatvormid soovitavad hoida seda -1, et jätta headroomi peale kadudega kodeerimist (*lossy encoding*). Reaalsuses on see overkill. -0.5 on ok, -0.3 on piiripealne.
-- Reaalsuses mängivad enamus kuulamissüsteemid intersample peakid maha ja ei distorti. Kuid mingid odavamad seadmed distortivad.
+- Ehk *intersample peaks*. Samplite vaheline reaalne lainehari. Kõrgetel sagedustel märgatavam, sest lained on lühemad ja sampli punktid ei pruugi maanduda laineharjade peale.
+	- True peak limiter proovib püüda reaalseid laineharja amplituudi tippe, tavaline limiter reageerib ainult sample'i punktidele.
+- Voogedastusplatvormid soovitavad hoida true peaki -1, et jätta headroomi peale kadudega kodeerimist (*lossy encoding*). Reaalsuses on see overkill. -0.5 on ok, -0.3 on piiripealne.
+	- Lihtsalt ärge laske kumbagi sorti peake üle 0-i, te ei võida sellest midagi.
+- Reaalsuses mängivad enamus kuulamissüsteemid intersample peakid maha ja ei distorti. Kuid mingid odavamad seadmed võivad distortida. Olenevalt ka kust helifail maha mängitakse jne. 
+
+True peakid visuaalselt iZotope RXis. Kõik valged punktid on sample'id, nagu näha siis reaalne lainehari joonistub kõrgemale kui sample'i punkt.
+![[Pasted image 20251126202538.png]]
 
 <!-- hide -->
 >NOTE:
@@ -49,6 +53,9 @@ publish: true
 - Momentary - 400ms vältel mõõde
 - Short Term - 3s vältel mõõde
 - Integrated - Terve loo momentary LUFS mõõdete keskmine.
+
+Kuidas LUFSide analüsaator heli "kuuleb". Kõrged sagedused on valjemad, madalad vajavad rohkem võimendust, et olla sama valjud. Täpselt nagu inimkõrval. Vt. [[Kuulamissüsteem#Kuulamise volüüm]]. Nimetatakse K-Weighting'uks.
+![[Pasted image 20251126203123.png]]
 
 ---
 ## Kogumik vs Singel
