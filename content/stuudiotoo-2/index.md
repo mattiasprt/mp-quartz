@@ -26,5 +26,6 @@ IRide salvestamine ja kasutamine? reverb, kidra, kemper jne
 3:1 multimic reegel
 impedance
 live salvestuse läbi viimine
+REC akust, kui guide track siis 2 ribbon 8 mikrit, kidra mic null suu suunas, voxi mic null kidra suunas, mõlemad sama kaugel kidrast
 
 ![[KÕIK LOENGUD.base#Stuudiotöö (2.osa)]]

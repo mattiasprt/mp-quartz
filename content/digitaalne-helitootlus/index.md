@@ -6,9 +6,10 @@ publish: true
 ---
 <!-- hide -->
 > [!todo] Tulevikus
-> - Aine võiks olla semestril mis on peale muusikute audioprogrammide ainet. 4. aasta tundub veits kentsakas seda anda.
 > - Loenguid võib vabalt ka 001s teha. Arvutiklass aint siis kui on mingi harjutus vms.
 > - Rääkida sample rate ja bit depth läbi, failiformaadid
+> - arvestusel määrata konkreetsem lõpptulem, nt miksitud variant.
+> - lihtsustada mingid teemad, ei ole vaja nii süvitsi mõne asjaga ehk minna?
 
 <!-- /hide -->
 
@@ -33,9 +34,9 @@ publish: true
 > - Teose esitus ja vabas vormis esitlus (plusspunktid kui saate projektifaili ette näidata).
 > 	- Milline oli sinu roll projekti valmimisel?
 > 	- Kuidas sujus koostöö või kuidas mõjutas iseseisvalt töötamine tööprotsessi?
-> 	- Kuidas aines omandatud teadmised aitasid sind praktikas?
+> 	- Kuidas aines omandatud teadmised aitasid sind praktikas? Kas mingi tööetapp või tööriist sai rohkem selgemaks kui enne?
 > 	- Mis olid peamised takistused või teadmiste kitsaskohad?
-> 	- Kas jäid tulemiga rahule?
+> 	- Kas jäid tulemiga rahule? Mis sellest projektist edasi saab?
 > 	- Mida teeksid tulevikus teisiti, miks ja kuidas?
 
 > [!success] Eristamata hindamine, "Arvestatud" saamiseks tuleb:
@@ -52,12 +53,11 @@ publish: true
 ---
 ## Tudengid
 
-| Nimi             | Puudumisi (max 3)           | Kodutöid tegemata |
-| ---------------- | --------------------------- | ----------------- |
-| Kristin Kaha     |                             |                   |
-| Helery Kõrvemaa  | 1 (15.09)                   |                   |
-| Ekke Kaarel Rand | **3 (15.09, 22.09, 27.10)** | 7.                |
-| Helen Piir       | 1 (27.10)                   |                   |
-| Raphael          |                             | 6.                |
+| Nimi | Puudumisi (max 3) | Kodutöid tegemata |
+| ---- | ----------------- | ----------------- |
+|      |                   |                   |
+|      |                   |                   |
+|      |                   |                   |
+
 
 <!-- /hide -->
