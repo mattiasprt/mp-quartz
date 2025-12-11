@@ -5,9 +5,9 @@ aliases:
 publish: true
 ---
 > [!important] Kodutööd
-> - Laadige enda kodutööd [SIIA Dropboxi kausta](https://www.dropbox.com/request/1gsszcjaKfxgbTnTMMmo)!
-> - Materjali miksimiseks leiate näiteks [SIIT Notioni lehelt](https://mattiasprt.notion.site/Multitracks-for-Engineering-264dc1e62ee0809cb997f1822aadfd71?source=copy_link). 
-> - Kodutööde tagasiside leiab [SIIT Samply lehelt](https://samply.app/p/id:s-qFRHZRTo0AAAAAAAACzg?si=jbe3csD3K4Mr7UyWQT4GPXqdDyG2).
+> - Materjali miksimiseks leiate näiteks [SIIT Notioni lehelt](https://mattiasprt.notion.site/Multitracks-for-Engineering-264dc1e62ee0809cb997f1822aadfd71?source=copy_link)
+> - Laadige enda kodutööd [SIIA Dropboxi kausta](https://www.dropbox.com/request/1gsszcjaKfxgbTnTMMmo)
+> - Kodutööde tagasiside leiab [SIIT Samply lehelt](https://samply.app/p/id:s-qFRHZRTo0AAAAAAAACzg?si=jbe3csD3K4Mr7UyWQT4GPXqdDyG2)
 
 ---
 ## Üldinfo
@@ -24,7 +24,11 @@ publish: true
 > [!info] Arvestuslik töö 03.12.25 16:15, foonikas 001.
 > - Esitad enda poolt miksitud laulu ja selle projekti. Laul ei pea olema teie poolt produtseeritud. Esitlus oma sülearvutis või stuudio arvutis.
 > 	- Miksist peab olema ka "before" versioon. Samamoodi nagu kodutöödel. Esitlusel tuleb teha AB võrdlus.
-> - Tagasisidestate üksteise töid, peale mida on nädal aega vastavalt tagasisidele muudatusi teha. 
+> 	- Näidake projekti, rääkige kuidas läks. Tavapärane eneseanalüüs.
+> 	- Before ja V1 laadige mulle Dropboxi.
+> - Peale esitlust tagasisidestate Samplys üksteise töid. 
+> 	- Kõik saavad endale tagasisidestamiseks ühe suvaliselt valitud tudengi töö. Jätke konstruktiivne, kriitiline aga mõistlik tagasiside. Pidage kommentaarides omavahel dialoogi, kui midagi on segane.
+> 	- Tagasiside põhjal teete kõik V2-e enda miksist, laete mulle Dropboxi. Saatke lühikene enese- ja saadud tagasiside analüüs mulle meilile.
 > - Miksimise ja tagasisidestamise protsess saab minult tagasiside ja hinnangu. ^luefab
 
 > [!success] Eristav hindamine, lõpphinne kujuneb:
@@ -33,17 +37,18 @@ publish: true
 > 	- On näha, et projektis on materjal korrektselt gainstage'itud, meter'itel on tervislik headroom, midagi ei clipi.
 > 	- Miksi before'i ja V1'te võrreldes on toimunud kõlaline areng.
 > 	- Teisele tudengile antud tagasiside on väärtuslik ja mõistlik.
-> 	- V1'te ja V2'te võrreldes on võetud tagasisidet kuulda ja on toimunud kõlaline areng.
+> 	- V1'te ja V2'te võrreldes on võetud mõistlikku tagasisidet kuulda ja on toimunud kõlaline areng.
 > - Kodutööde õigeaegsest esitamisest.
 > 	- Kui tudengil jääb kodutöö tegemata õigeaegselt, **siis läheb tema kodutööde hinne ühe punkti võrra madalamaks.** 
 > 	- Aine lõpetamiseks on vaja kõik kodutööd ära teha!
 >
 > Lõplik hinne kujuneb kahe eelneva punkti keskmisest. Nt. arvestuslik töö on esitatud 'A'-le aga tudengil on hilinenud 4 kodutööd ehk 'A'-4='E', siis lõpphindeks kujuneb 'C', sest A ja E keskpunkt on C.
 
-# NB! Kuna 2025 sügissemestril on ainekava üpriski Frankenstein'itud, siis leiate läbitud teemad [[uldine|"Üldised teemad"]] alt.
+# NB! Kuna 2025 sügissemestril on ainekava üpriski Frankenstein'itud, siis leiate läbitud teemad peamiselt [[uldine|"Üldised teemad"]] alt.
 
 <!-- hide -->
 
+# [[Miksimine 3.osa EKSAM]]
 ---
 ## Struktuur
 
@@ -52,6 +57,7 @@ AL. 2026
 
 Äkki teha et 1 loeng = 1 miksimise sess tudengi poolt, kus annan tagasisidet tema töövõtetele jne
 Ja siis teha ise ka paar sessi, kus miksin nt nende muusikat.
+Äkki arvestusel hoopis las saadavad kõik enda mikside v1 ja beforeid enne loengut. Ja siis kohapeal on samamoodi projekti tutvustus, kindlustab et nad ei muudaks midagi peale loengut.
 
 ![[KÕIK LOENGUD.base#Miksimine (3.osa)]]
 
@@ -71,7 +77,7 @@ Ja siis teha ise ka paar sessi, kus miksin nt nende muusikat.
 | 5   | x      | [[Reverb & Delay]]                                      | Mix 2 V2                       |
 | 6   | x      | [[Eeltöö miksimisele]]                                  | Mix 3 V1                       |
 | 7   | x      | [[Live salvestuse miksimine, bleed ja drum triggering]] | Mix 3 V2                       |
-| 8   | x      | [[04 - Õpetamine/content/miksimine-3/Saturatsioon]]     |                                |
+| 8   | x      | [[Saturatsioon]]                                        |                                |
 | 9   | x      | [[Masterdamine ja valjus]]                              |                                |
 
 ---
@@ -80,9 +86,9 @@ Ja siis teha ise ka paar sessi, kus miksin nt nende muusikat.
 | Nimi              | Puudumisi (max 2) | 1 [[Miksile tagasiside andmine]] | 2 Mix 1 V1 | 3 Mix 1 V2 | 4 Mix 2 V1 | 5 Mix 2 V2 | 6 Mix 3 V1 | 7 Mix 3 V2 |
 | ----------------- | ----------------- | -------------------------------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
 | Samuel Hõim       |                   |                                  |            |            |            |            | H          |            |
-| Grete Lagemaa     |                   |                                  |            | H          | H          | H          | H          | X          |
+| Grete Lagemaa     |                   |                                  |            | H          | H          | H          | H          | H          |
 | Kerttu Piigli     | 2 (15.10, 19.11)  |                                  |            |            | H          | H          | H          |            |
-| Ott Rang          |                   | X                                |            |            |            |            | H          |            |
-| Ariana Arutjunjan | 1 (29.10)         |                                  |            |            |            | X          | H          |            |
+| Ott Rang          |                   | H                                |            |            |            |            | H          |            |
+| Ariana Arutjunjan | 1 (29.10)         |                                  |            |            |            | H          | H          |            |
 
 <!-- /hide -->

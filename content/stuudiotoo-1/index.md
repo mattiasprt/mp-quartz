@@ -34,9 +34,10 @@ publish: true
 > [!success] Eristav hindamine, lõpphinne kujuneb:
 >- Arvestusliku töö esitamisest ja töö tulemusest.
 >- Iga tudeng peab salvestama vähemalt ühe praktikumi jooksul enda projektiks uut materjali ja läbi viima salvestusprotsessi.
->- Kodutööde õigeaegsest esitamisest.
+>- Aine läbimiseks on vaja kõik kodutööd esitada!
+%% >- Kodutööde õigeaegsest esitamisest.
 >	- Kui tudengil jääb kodutöö tegemata õigeaegselt, **siis läheb tema kodutööde hinne ühe punkti võrra madalamaks.** 
->	- Aine lõpetamiseks on vaja kõik kodutööd ära teha!
+>	- Aine lõpetamiseks on vaja kõik kodutööd ära teha! %%
 
 %% 
 > Lõplik hinne kujuneb kahe eelneva punkti keskmisest. Nt. arvestuslik töö on esitatud 'A'-le aga tudengil on hilinenud 4 kodutööd ehk 'A'-4='E', siis lõpphindeks kujuneb 'C', sest A ja E keskpunkt on C. 
@@ -55,10 +56,10 @@ trummid on peale rxi olude sunnil, muidu tõsta ümber
 ---
 ## Tudengid
 
-| Nimi                     | Märkmed | Puudmised (max 2) | Kodutöid üle tähtaja | Kodutöid tegemata |
-| ------------------------ | ------- | ----------------- | -------------------- | ----------------- |
-| Lisanna Kuningas         |         |                   |                      |                   |
-| Oskar Piik               |         | 2 (17.10, 21.11)  |                      |                   |
-| Jose Manuel Prieto Garay |         |                   |                      |                   |
-| Maaria Õun               |         | 1 (17.10)         |                      |                   |
+| Nimi                     | Märkmed | Puudmised (max 2) | Kodutöid üle tähtaja |
+| ------------------------ | ------- | ----------------- | -------------------- |
+| Lisanna Kuningas         |         |                   | 1                    |
+| Oskar Piik               |         | 2 (17.10, 21.11)  |                      |
+| Jose Manuel Prieto Garay |         |                   |                      |
+| Maaria Õun               |         | 1 (17.10)         |                      |
 <!-- /hide -->
