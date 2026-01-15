@@ -5,6 +5,14 @@ kodutöö: "[[Multitracki miksimine]]"
 publish: true
 tehtud: true
 ---
+<!-- hide -->
+>NOTE:
+>- kompressioon ja dünaamika tegelt ei ole NII tähtis. võib eemaldada.
+>- volüüm ja panimine
+
+<!-- /hide -->
+
+
 ![[Dünaamika#Volüüm ja amplituud]]
 
 ![[Dünaamika#Dünaamika]]

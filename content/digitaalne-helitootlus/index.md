@@ -5,13 +5,15 @@ aliases:
 publish: true
 ---
 <!-- hide -->
+# KÕIK PEIDUS
+
 > [!todo] Tulevikus
 > - Loenguid võib vabalt ka 001s teha. Arvutiklass aint siis kui on mingi harjutus vms.
 > - Rääkida sample rate ja bit depth läbi, failiformaadid
 > - arvestusel määrata konkreetsem lõpptulem, nt miksitud variant.
 > - lihtsustada mingid teemad, ei ole vaja nii süvitsi mõne asjaga ehk minna?
-
-<!-- /hide -->
+> - https://metshein.com/courses/digitaalne-audio/lessons/digitaalne-audio-heli-salvestamine-ja-taasesitamine/
+> - vajadusel saan loengute mahtu vähendada ja suurendada iseseisvat tööd, kui materjali jääb väheseks
 
 > [!important] Kodutööd
 > - Laadige enda kodutööd [SIIA Dropboxi kausta](https://www.dropbox.com/request/WDUkrqufv7TzTWDv8zeU)!
@@ -43,6 +45,7 @@ publish: true
 > - Sooritada arvestuslik töö.
 > - Esitada kõik kodutööd. 
 
+<!-- /hide -->
 <!-- hide -->
 
 ---

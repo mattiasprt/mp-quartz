@@ -4,10 +4,14 @@ aliases:
   - Miksimine 3
 publish: true
 ---
+<!-- hide -->
+
+# KÕIK PEIDUS
+
 > [!important] Kodutööd
 > - Materjali miksimiseks leiate näiteks [SIIT Notioni lehelt](https://mattiasprt.notion.site/Multitracks-for-Engineering-264dc1e62ee0809cb997f1822aadfd71?source=copy_link)
 > - Laadige enda kodutööd [SIIA Dropboxi kausta](https://www.dropbox.com/request/1gsszcjaKfxgbTnTMMmo)
-> - Kodutööde tagasiside leiab [SIIT Samply lehelt](https://samply.app/p/id:s-qFRHZRTo0AAAAAAAACzg?si=jbe3csD3K4Mr7UyWQT4GPXqdDyG2)
+> - Kodutööde tagasiside leiab [SIIT Samply lehelt](https://mattiasprt.notion.site/Multitrackid-miksimiseks-264dc1e62ee0809cb997f1822aadfd71?source=copy_link)
 
 ---
 ## Üldinfo
@@ -44,26 +48,23 @@ publish: true
 >
 > Lõplik hinne kujuneb kahe eelneva punkti keskmisest. Nt. arvestuslik töö on esitatud 'A'-le aga tudengil on hilinenud 4 kodutööd ehk 'A'-4='E', siis lõpphindeks kujuneb 'C', sest A ja E keskpunkt on C.
 
-# NB! Kuna 2025 sügissemestril on ainekava üpriski Frankenstein'itud, siis leiate läbitud teemad peamiselt [[uldine|"Üldised teemad"]] alt.
 
-<!-- hide -->
 
-# [[Miksimine 3.osa EKSAM]]
 ---
 ## Struktuur
 
 %% 
 AL. 2026
 
-Äkki teha et 1 loeng = 1 miksimise sess tudengi poolt, kus annan tagasisidet tema töövõtetele jne
+Teha et 1 loeng = 1 miksimise sess tudengi poolt, kus annan tagasisidet tema töövõtetele jne. Annan ise random trackid kui tal endal pole mingit materjali kohe võtta. Kuid ütlen ka semestri alguses, et olge valmis mingite materjalidega. Tudeng tuleb iga loeng suvaliselt, ratta pealt. Leadupib eksamile, kus neil on 3h(?) miksida lugu.
 Ja siis teha ise ka paar sessi, kus miksin nt nende muusikat.
-Äkki arvestusel hoopis las saadavad kõik enda mikside v1 ja beforeid enne loengut. Ja siis kohapeal on samamoodi projekti tutvustus, kindlustab et nad ei muudaks midagi peale loengut.
+
 
 ![[KÕIK LOENGUD.base#Miksimine (3.osa)]]
 
 > [!note] Arvestuslik töö
-> - Kus sul on 1h miksida ettemääratud lugu, võite kasutada oma sülearvuteid ja kõrvaklappe. 
-> - Peale miksimist tagasisidestate üksteise töid, peale mida on nädal aega vastavalt tagasisidele muudatusi teha. 
+> - Sul on 2h miksida enda poolt valitud lugu, võite kasutada oma sülearvuteid ja kõrvaklappe, või kooli ruume. Kooliruumid paneme kohe bronni ära. 
+> - Peale miksimist tagasisidestate üksteise v1tesid, peale mida on nädal aega vastavalt tagasisidele muudatusi teha. 
 > - Kui minu kätte jõuavad miksi V1 ja V2 siis saab kogu miksimise ja tagasisidestamise protsess minult individuaalse tagasiside ja hinnangu.  ^2d9y9g
 
 %%
@@ -79,16 +80,14 @@ Ja siis teha ise ka paar sessi, kus miksin nt nende muusikat.
 | 7   | x      | [[Live salvestuse miksimine, bleed ja drum triggering]] | Mix 3 V2                       |
 | 8   | x      | [[Saturatsioon]]                                        |                                |
 | 9   | x      | [[Masterdamine ja valjus]]                              |                                |
+# [[Miksimine 3.osa EKSAM]]
 
 ---
 ## Tudengid
 
-| Nimi              | Puudumisi (max 2) | 1 [[Miksile tagasiside andmine]] | 2 Mix 1 V1 | 3 Mix 1 V2 | 4 Mix 2 V1 | 5 Mix 2 V2 | 6 Mix 3 V1 | 7 Mix 3 V2 |
-| ----------------- | ----------------- | -------------------------------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
-| Samuel Hõim       |                   |                                  |            |            |            |            | H          |            |
-| Grete Lagemaa     |                   |                                  |            | H          | H          | H          | H          | H          |
-| Kerttu Piigli     | 2 (15.10, 19.11)  |                                  |            |            | H          | H          | H          |            |
-| Ott Rang          |                   | H                                |            |            |            |            | H          |            |
-| Ariana Arutjunjan | 1 (29.10)         |                                  |            |            |            | H          | H          |            |
+| Nimi | Puudumisi (max 2) | 1 [[Miksile tagasiside andmine]] | 2 Mix 1 V1 | 3 Mix 1 V2 | 4 Mix 2 V1 | 5 Mix 2 V2 | 6 Mix 3 V1 | 7 Mix 3 V2 |
+| ---- | ----------------- | -------------------------------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
+|      |                   |                                  |            |            |            |            |            |            |
+
 
 <!-- /hide -->

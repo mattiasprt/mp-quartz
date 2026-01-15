@@ -39,6 +39,7 @@ publish: false
 muusika ja pluginate visuaalne analüüs
 faas tuua eraldi peatükki, mis on mix 1s kuid lühendatult, siis faas, linear phase ja MS on eraldiseisvad, nö EQ 2.0
 failiformaadid, flac vs wav jne - äkki mix 1
+Äkki arvestusel hoopis las saadavad kõik enda mikside v1 ja beforeid enne loengut. Ja siis kohapeal on samamoodi projekti tutvustus, kindlustab et nad ei muudaks midagi peale loengut.
 
 ![[KÕIK LOENGUD.base#Miksimine (2.osa)]]
 

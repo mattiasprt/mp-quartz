@@ -32,10 +32,12 @@ publish: true
 - Dampening seaded - Kui kiiresti mingi sagedusvahemik volüümis kukub, enamasti seotud mingite EQ parameetritega.
 - Diffusion - Kui madal siis reverbil on vähe peegeldusi ja kõlab hõredalt, kui kõrge - siis on reverbi sound "tihedam".
 - Width - Verbi laius. Ärge tehke kõike verbe maksimaalselt laiaks! Kaob kontrast ja reverbid hakkavad omavahel võitlema. Kitsam reverb võib tajutavalt ka kesta kauem.
-- Early Reflections - Esimesed peegeldused. Saab kontrollida kogust/tihedust.
-- Late Reflections - Reverbi saba, hilisemad peegeldused. Saab kontrollida kogust/tihedust.
+- Reverbi saba on enamasti jaotatud kaheks:
+	- Early Reflections - Esimesed peegeldused. Saab kontrollida kogust/tihedust.
+	- Late Reflections - Reverbi saba, hilisemad peegeldused. Saab kontrollida kogust/tihedust.
 
 >NOTE:
+> - ER, LR näiteks, lihtsalt võtta üks impulss ja keerata ER ja LR nuppe kui verb on 100% wet.
 > - Kuidas tempo syncida: 60000 : BPM = 1/4 noot millisekundites
 >	- Või lihtsalt zoomi sisse, selecti noodi pikkus snap gridil ja vaata mitu ms selection kestab
 
