@@ -27,5 +27,7 @@ IRide salvestamine ja kasutamine? reverb, kidra, kemper jne
 impedance
 live salvestuse läbi viimine
 REC akust, kui guide track siis 2 ribbon 8 mikrit, kidra mic null suu suunas, voxi mic null kidra suunas, mõlemad sama kaugel kidrast
+gainimine ja faaside kontroll! akustil mikri asetus
+MS tehnika kasutamine
 
 ![[KÕIK LOENGUD.base#Stuudiotöö (2.osa)]]

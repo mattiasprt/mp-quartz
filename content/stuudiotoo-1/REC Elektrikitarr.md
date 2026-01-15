@@ -5,6 +5,11 @@ publish: true
 kodutöö: "[[Salvestuse ettevalmistus]]"
 tehtud: true
 ---
+<!-- hide -->
+>NOTE:
+>-  https://www.sweetwater.com/insync/best-guitar-amp-mics/
+
+<!-- /hide -->
 # Elektrikitarri salvestamine
 
 - Kõik järgnev kehtib valdavalt ka elektribassi salvestustele.

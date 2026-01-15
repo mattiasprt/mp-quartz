@@ -57,6 +57,7 @@ tehtud: true
 - Eestis tegutseb sellega Tier Music: https://www.tiermusic.com/licensing-and-sync
 	- https://www.tiermusic.com/sync-previous-works
 	- https://www.instagram.com/reel/DQtQW9gkVAa/?igsh=MXJiaGNsMG9ndmR3ZQ==
+- ..ja üks uustulija startup: https://www.synchub.ee/
 
 ---
 ## Stock music

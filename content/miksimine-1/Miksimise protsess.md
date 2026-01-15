@@ -8,6 +8,7 @@ tehtud: true
 <!-- hide -->
 > [!note]
 > - Tulevikus võiks see olla 3h loeng, jõuab ühe korraga ja rahulikult kõik tehtud.
+> - ÄRGE KUNAGI NÄPPIGE MASTER FADERIT
 
 <!-- /hide -->
 
@@ -149,6 +150,7 @@ NOTE:
 
 - Efektide kasutus ei tohiks kriitiliselt gainstage'i muuta! Ehk plugina bypassimisel ei tohiks selle raja tajutav valjus muutuda. Valjuse kontrollimiseks on faderid.
 - Solotada on kerge aga miksimises loeb kogu üldpildi kõla! Mine solosse siis kui te teate MIKS te solosse lähete!
+- Keera nuppe, liiguta fadereid ja tee julgeid EQ lükkeid. Proovi viia visuaalsed liigutused kuuldeliste erinevustega kooskõlla. Mis juhtub kui sa keerad käesoleva tracki vaiksemaks? - valjemaks? - kuidas see EQ lüke muudab kõlakarakterit? Olge julgeid ja kuulake erinevusi.
 
 ---
 ## Render / Export / Bounce ja Print
