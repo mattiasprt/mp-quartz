@@ -12,13 +12,16 @@ publish: true
 - Ideaalis, selle asemel, et üritada soundi parandada EQga, on soovituslik muuta soundi allikat, mikri asetust, süna soundi jne. Kuid kui see enam võimalik ei ole, siis tasub võtta kätte EQ.
 - Alati ei olegi vaja EQt kasutada! Ole teadlik, kas selle kasutamine lisab materjalile väärtust või mitte.
 
+<!-- hide -->
 >NOTE:
 > - Tehke EQ liigutus muusika ajal ja analüüsige kuidas spektrum ja kõla muutub.
+
+<!-- /hide -->
 
 ---
 ## Filtritüübid
 
-- Bell - Kõige levinum, mõjutab spetsiifilist sagedusvahemikku, meenutab küngast, või orgu:  ![[Pasted image 20250915160834.png]]<!-- .element: style="max-height:50%;" -->
+- Bell - Kõige levinum, mõjutab spetsiifilist sagedusvahemikku, meenutab küngast, või orgu. Roheline "boost", sinine "cut":  ![[Pasted image 20250915160834.png]]<!-- .element: style="max-height:50%;" -->
 
 ---
 
@@ -36,22 +39,24 @@ publish: true
 - High cut/Low pass: ![[Pasted image 20250915162705.png]]<!-- .element: style="max-height:50%;" --> 
 
 ---
-- "Q" factor - mida nulli lähedasem number, seda "laiem" filter. Mida laiem, seda naturaalsem kõla.
-- "Lai" Q: ![[Pasted image 20250915170146.png]]<!-- .element: style="max-height:50%;" --> 
+- "Q" factor - mida nulli lähedasem number, seda "laiem" filter. Mida laiem filter, seda naturaalsem kõla.
+	- "Lai" Q: ![[Pasted image 20250915170146.png]]<!-- .element: style="max-height:50%;" --> 
 
 ---
-- Kitsas Q: ![[Pasted image 20250915170223.png]]<!-- .element: style="max-height:50%;" --> 
+- Kitsas Q. Mida kitsam filter seda "kirurgilisem" ja täpsem see on.: ![[Pasted image 20250915170223.png]]<!-- .element: style="max-height:50%;" --> 
 
 ---
 ## Tonaalsuse sõnadesse panemine
 
+- Tonaalsuse sõnastamist on kergem õppida kasutades iseloomustavat sõnavara.
+- Ei pea olema terve laulu kõrakarakteri kohta, saab ka kasutada individuaalsetel elementide kohta!
+
 <!-- hide -->
 [[Tonaalsuse Sõnastamine.canvas|Tonaalsuse Sõnastamine]]
 <!-- /hide -->
-![[Tonaalsuse Sõnastamine 1.png]]<!-- hide -->
+![[Tonaalsuse Sõnastamine.png]]<!-- hide -->
 >NOTE:
-> - Õppimine läbi sõnavara, lase mussi, boosti või cuti sagedusvahemikku, küsi iseloomustavat sõna
-> - Ei pea olema terve laulu kõrakarakteri kohta, saab ka kasutada individuaalsetel elementidel!
+> - Lase mussi, boosti või cuti sagedusvahemikku, küsi iseloomustavat sõna
 
 <!-- /hide -->
 
@@ -60,15 +65,15 @@ publish: true
 ---
 ## Võta ära või lisa juurde
 
-- Subtractive vs Additive
+- Subtractive vs Additive (cut vs boost)
 	- Võta ära koledused, võimenda kõike mis ilus <3
-	- Signal flow (ehk signaali järjekord) on jällegi tähtis! Corrective EQ esialgu, siis näiteks dünaamiline töötlus, värvi lisamine ja siis alles boostimine.
+	- Signal flow (ehk signaali järjekord) on jällegi tähtis! Corrective EQ esialgu, siis näiteks dünaamiline töötlus, "värvi" lisamine ja siis alles boostimine.
 - "Yin-Yang" mentaliteet. Boostid on cutid ja cutid on boostid
 	- Kõrgsageduslike boostide asemel kontrolli enne madalat otsa!
-	- Näiteks, 250Hz vähendamine annab sama efekti, kui 5kHz tõstmine
+	- Näiteks, 250Hz vähendamine annab kuuldeliselt sama efekti, kui 5kHz tõstmine. Kujutage ette, et spektrumil on 1khz peal peegel.
 
 >NOTE: 
-> - eq vaatamise asemel rõhuda analüütilisele kuulamisele
+> - EQ vaatamise asemel rõhuda analüütilisele kuulamisele
 > - üldine tava on cuttimise eelistus üle boostimise
 
 ---
@@ -91,12 +96,11 @@ publish: true
 ---
 ## Erinevad EQ-d
 
-- Kõige levinumad on Digitaalsed Parameetrilised EQ-d
+- Kõige levinumad on digitaalsed **parameetrilised EQ**-d (Pro-Q)
 - Analoog emulatsioonid (Pultec, BAX, SSL jne)
 	- Kuidas analoog võtteid teha digitaalse EQga: Pultec trick, Baxandal boost
 	- Kurvi mitte nägemine muudab EQ otsuseid. 
 - Analüüs: [EQ Curve Analyzer](https://bertomaudio.com/eq-curve-analyzer.html)(Tasuta) või [Plugin Doctor](https://ddmf.eu/plugindoctor/)(Tasuline)
-
 
 ---
 ## Muusika tonaalsuse analüüsimine

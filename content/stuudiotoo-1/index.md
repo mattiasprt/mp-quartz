@@ -19,7 +19,7 @@ publish: true
 > [!danger] PRODU 2 - SÜGIS
 >- Kuidas produtsendina end iseseisvalt stuudios mugavalt tunda, salvestada vajalikke instrumente ja teha koostööd teiste muusikutega. Stuudioruumide ja tehnika korrektne kasutus.
 >- 8x 3h praktikumi
->	- Puududa võib maksimaalselt 2-st praktikumist! Kui puudute rohkem, siis näeme järgmine aasta.
+>	- Puududa võib maksimaalselt 2-st praktikumist!
 >	- Puudumine ei vabasta materjali läbi töötamisest ja kodutööst.
 >- Suhtlus kasutades UT meiliaadresse. Nii teie kui ka minu poolt.
 >	- [mattias.part@ut.ee](mailto:mattias.part@ut.ee)
@@ -49,14 +49,13 @@ publish: true
 >- Iga tudeng peab salvestama vähemalt ühe praktikumi jooksul enda projektiks uut materjali ja läbi viima salvestusprotsessi.
 >- Aine läbimiseks on vaja kõik kodutööd esitada!
 
-
-
 ---
 ## Struktuur
 
 trummid on peale rxi olude sunnil, muidu tõsta ümber
 gainimine ja faaside kontroll!
 akust kidra oleks ka hea siin teha, trummid pigem ST2
+tehnika scavenger hunt, ütlen tehnika nime ja nad peavad sellest mulle pildi tegema. teevad võidu, paar mikrit, paar hardwarei, paar stuudio osa jne. võitjate järjestus saab eelisõiguse salvestusteks, et mis pilli tahab salvestada jne. kuna pillid ei tohi korduda
 
 ![[KÕIK LOENGUD.base#Stuudiotöö (1.osa)]]
 

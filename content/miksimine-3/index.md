@@ -53,7 +53,6 @@ publish: true
 ---
 ## Struktuur
 
-%% 
 AL. 2026
 
 Teha et 1 loeng = 1 miksimise sess tudengi poolt, kus annan tagasisidet tema töövõtetele jne. Annan ise random trackid kui tal endal pole mingit materjali kohe võtta. Kuid ütlen ka semestri alguses, et olge valmis mingite materjalidega. Tudeng tuleb iga loeng suvaliselt, ratta pealt. Leadupib eksamile, kus neil on 3h(?) miksida lugu.
@@ -67,19 +66,6 @@ Ja siis teha ise ka paar sessi, kus miksin nt nende muusikat.
 > - Peale miksimist tagasisidestate üksteise v1tesid, peale mida on nädal aega vastavalt tagasisidele muudatusi teha. 
 > - Kui minu kätte jõuavad miksi V1 ja V2 siis saab kogu miksimise ja tagasisidestamise protsess minult individuaalse tagasiside ja hinnangu.  ^2d9y9g
 
-%%
-
-| jrk | tehtud | Loeng (praegune)                                        | Kodutöö                        |
-| :-- | :----- | :------------------------------------------------------ | ------------------------------ |
-| 1   | x      | [[Sissejuhatus Miksimine 3e]]                           | [[Miksile tagasiside andmine]] |
-| 2   | x      | [[Miksimise protsess]]                                  | Mix 1 V1                       |
-| 3   | x      | [[Faas, Linear Phase EQ, MS]]                           | Mix 1 V2                       |
-| 4   | x      | [[Dünaamika Megamix]]                                   | Mix 2 V1                       |
-| 5   | x      | [[Reverb & Delay]]                                      | Mix 2 V2                       |
-| 6   | x      | [[Eeltöö miksimisele]]                                  | Mix 3 V1                       |
-| 7   | x      | [[Live salvestuse miksimine, bleed ja drum triggering]] | Mix 3 V2                       |
-| 8   | x      | [[Saturatsioon]]                                        |                                |
-| 9   | x      | [[Masterdamine ja valjus]]                              |                                |
 # [[Miksimine 3.osa EKSAM]]
 
 ---

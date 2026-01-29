@@ -1,7 +1,7 @@
 ---
 aine: "[[04 - Õpetamine/content/digitaalne-helitootlus/index|Digitaalne Helitöötlus]]"
 jrk: "2"
-kodutöö: "[[EQ kuulamine]]"
+kodutöö: "[[(DH, M1) EQ kuulamine]]"
 publish: true
 tehtud: true
 ---
@@ -18,6 +18,6 @@ tehtud: true
 <!-- hide -->
 # Kodutöö
 
-![[EQ kuulamine]]
+![[(DH, M1) EQ kuulamine]]
 
 <!-- /hide -->

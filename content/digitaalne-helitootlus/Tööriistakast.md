@@ -6,9 +6,11 @@ publish: true
 tehtud: true
 ---
 <!-- hide -->
->NOTE:
->- kompressioon ja dünaamika tegelt ei ole NII tähtis. võib eemaldada.
->- volüüm ja panimine
+
+> [!note]
+> - kompressioon ja dünaamika tegelt ei ole NII tähtis. võib eemaldada.
+> - volüüm ja panimine
+
 
 <!-- /hide -->
 

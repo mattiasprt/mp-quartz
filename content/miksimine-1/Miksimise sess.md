@@ -11,4 +11,4 @@ tehtud: true
 ---
 # Kodutöö
 
-![[Mix 2 V2]]
+Mix 2 V2

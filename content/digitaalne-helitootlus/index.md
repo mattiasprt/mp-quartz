@@ -24,7 +24,7 @@ publish: true
 > [!danger] RÜTM, PÄRIMUS 4 - SÜGIS
 > - Digitaalse helitöötluse maailm, läbi muusiku perspektiivi. Kuidas heliinsenere suunata, olla teadlik tööetappidest, tööriistadest ja -võtetest. Harjutame analüütilist kuulamist ja korrektse sõnavara kasutamist mikside ja masterite tagasisidestamisel. Kuidas iseseisvalt demosid teha.
 > - 12x 1.5h: 11 loengut, 1 arvestusliku töö esitlus
-> 	- Puududa võib maksimaalselt 3-st loengust! Kui puudute rohkem, siis näeme järgmine aasta.
+> 	- Puududa võib maksimaalselt 3-st loengust!
 > 	- Puudumine ei vabasta materjali läbi töötamisest ja kodutööst.
 > - Suhtlus kasutades UT meiliaadresse. Nii teie kui ka minu poolt. 
 > 	- [mattias.part@ut.ee](mailto:mattias.part@ut.ee)
@@ -32,8 +32,8 @@ publish: true
 
 > [!note] Arvestuslik töö 01.12.25 kell 14:15, 001s
 > - Valmista ja esita üks muusikateos, mille oled semestri jooksul kas iseseisvalt või koostöös teise produtsendi/heliinseneriga loonud. Kõik etapid ei pea olema sinu tehtud - oluline on, et sinu panus ja protsessi mõistmine oleks selgelt nähtav.
-> - Laul ei pea olema lõplikult miksitud ja masterdatud, vaid faasis kus tunnete, et olete valmis seda teistele esitlema.
-> - Teose esitus ja vabas vormis esitlus (plusspunktid kui saate projektifaili ette näidata).
+> 	- Laul ei pea olema lõplikult miksitud ja masterdatud, vaid faasis kus tunnete, et olete valmis seda teistele esitlema.
+> - **Teose esitus ja vabas vormis esitlus** (plusspunktid kui saate projektifaili ette näidata).
 > 	- Milline oli sinu roll projekti valmimisel?
 > 	- Kuidas sujus koostöö või kuidas mõjutas iseseisvalt töötamine tööprotsessi?
 > 	- Kuidas aines omandatud teadmised aitasid sind praktikas? Kas mingi tööetapp või tööriist sai rohkem selgemaks kui enne?

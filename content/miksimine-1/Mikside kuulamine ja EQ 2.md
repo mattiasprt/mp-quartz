@@ -19,4 +19,4 @@ tehtud: true
 ![[Mix 2 V1 - EQ]]
 ### Valikuline
 
-![[EQ kuulamine]]
+![[(DH, M1) EQ kuulamine]]
