@@ -7,6 +7,7 @@ publish: true
 	- Professionaalses keskkonnas peab süsteem olema **kalibreeritud** ning ruum akustiliselt töödeldud, et seal töödeldud muusika **transleeruks** ka teistele süsteemidele.
 - Inimkõrv harjub väga kiiresti ära kuulamiskeskkonnaga. Kui kuulamiskeskkond ei ole kalibreeritud, siis miksides võib üle kompenseerida sagedusi mida ei peaks kompenseerima. 
 - Et säilitada objektiivsus: vaheta keskkonda, tee pause ja puhka kõrvu, kuula muud muusikat.
+- Ei kehti ainult kõlaritele ruumis, kõik kõrvaklapid kõlavad erinevalt!
 
 <!-- hide -->
 >NOTE:
@@ -37,8 +38,8 @@ publish: true
 
  - Miks kõlakarakter muutub vastavalt kuulamis valjusele?
 	- Madalad ja kõrged sagedused vajavad rohkem "võimendust" kui kõrg-kesksagedused, et neid võrdselt kuulda oleks. (Fletcher-Munson graafik)
-	- Ei vaja korrigeerimist, lihtsalt olge teadlikud, et nt. võite madalal kuulamis valjusel kompenseerida bassiga üle, lihtsalt kuna seda ei kuule nii hästi.
-- "Valjem kõlab paremini" tõenäoliselt ka selle tõttu, et siis lihtsalt kõrv kuuleb rohkem võrdset tonaalset spektrumit.
+	- Ei vaja korrigeerimist, lihtsalt olge teadlikud, et võite madalal kuulamis valjusel kompenseerida bassi valjusega üle. Kuna seda lihtsalt ei kuule nii hästi.
+- "Valjem kõlab paremini" tõenäoliselt ka selle tõttu, siis lihtsalt kõrv kuuleb võrdsemalt helispektrumit, muusika kõlab "täidlasemalt".
 - [Tajutav valjus hästi selgitatud](https://youtu.be/api8s3a_GZA?si=PXrzGFYt6KPDsgWV&t=234) (3:54 - 4:48)
 
 <!-- hide -->

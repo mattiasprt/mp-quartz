@@ -1,7 +1,7 @@
 ---
 aine: "[[04 - Õpetamine/content/digitaalne-helitootlus/index|Digitaalne Helitöötlus]]"
 jrk: "1"
-kodutöö: "[[Laulu valimine]]"
+kodutöö: "[[(DH) Laulu valimine]]"
 publish: true
 tehtud: true
 ---
@@ -80,8 +80,6 @@ tehtud: true
 - Väljundiks on lõplik masterdatud fail(id). Ideaalis konverteeritud ka mitmesse formaati, vastavalt vajadusele. Lõplik fail nimetatudki tihtipeale kui "master".
 	- Vajadusel ka sobilikud failid füüsilistele väljaannetele.
 
-%% [[Masterdamine]] %%
-
 ---
 
 ## 5.1. Metaandmed
@@ -95,9 +93,7 @@ tehtud: true
 ## 6.  Distributsioon
 
 - Kasutades digitaalse muusika distributsiooni platvorme, kes jagavad sinu masterdatud faili voogedastusse.
-
-NOTE:
-> - https://aristake.com/digital-distribution-comparison/
+- [Distribuutorite võrdlus](https://aristake.com/digital-distribution-comparison/)
 
 ---
 
@@ -107,7 +103,9 @@ NOTE:
 
 <!-- hide -->
 >NOTE:
-> - reaalne näide: [klaaspilvedel DEMO-MIX-MASTER.RPP](file:///Users/mattiasprt/Library/CloudStorage/Dropbox/ÕPETAMINE/DEMO-PROD-MIX-MASTER/klaaspilvedel%20DEMO-MIX-MASTER.RPP)
+> - reaalne näide kogu protsessist: [klaaspilvedel DEMO-MIX-MASTER.RPP](file:///Users/mattiasprt/Library/CloudStorage/Dropbox/ÕPETAMINE/DEMO-PROD-MIX-MASTER/klaaspilvedel%20DEMO-MIX-MASTER.RPP)
+
+<!-- /hide -->
 
 ---
 <!-- hide -->
@@ -115,10 +113,11 @@ NOTE:
 <!-- /hide -->
 
 ![[Muusika Produktsiooni Teekond.png]]
+<!-- hide -->
 
 ---
 # Kodutöö
 
-![[Laulu valimine]]
+![[(DH) Laulu valimine]]
 
 <!-- /hide -->

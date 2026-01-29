@@ -54,7 +54,7 @@ tehtud: true
 ## Salvestamise head tavad
 
 - Salvesta nii palju kui saad, salvesta ka scratch trackid. Hea päästerõngas hädaolukordades.
-	- Võimalusel kasuta "pre record audio input"i (Logicus "Quick Punch-In" ja "Flashback Recording"), et DAW salvestaks signaali juba enne salvestusnupu vajutamist. Et fraasi algused ei kaoks ära punch-inides.
+	- Võimalusel kasuta "pre record audio input"i (Logicus "Flashback Recording"), et DAW salvestaks signaali juba enne salvestusnupu vajutamist. Et fraasi algused ei kaoks ära punch-inides ja sul oleks võimalik head esitust kinni püüda.
 - Ärge laske kanali **keskmist** peaki üle -12dB, siis jääb veel headroomi kui peaks mingi üllatavalt vali hetk tulema.
 - Subjektiivsed ja situatsioonilised mõtted:
 	- Salvestusel võiks sound kõlada võimalikult sarnaselt nagu see ruumis kõlab.

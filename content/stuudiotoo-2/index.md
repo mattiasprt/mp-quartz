@@ -4,6 +4,10 @@ aliases:
   - Stuudiotöö 2
 publish: false
 ---
+> [!important] Salvestusteks
+> - [[TÜ VKA Stuudio Signal Flow]]
+> - [Input List TEMPLATE](https://docs.google.com/spreadsheets/d/1BCbxRhaKBFH1tdbhUe7F7zAMbtVsWFcL5hDuThUsKoI/edit?usp=sharing "https://docs.google.com/spreadsheets/d/1BCbxRhaKBFH1tdbhUe7F7zAMbtVsWFcL5hDuThUsKoI/edit?usp=sharing") 
+> - [Meie stuudio mikrofonid](https://docs.google.com/spreadsheets/d/1DtWGfC8WeCv58Mm1l5fs8Nrlgesm2rvQGCaREgGJXLU/edit?usp=sharing)
 ## Üldinfo
 
 > [!danger] PRODU 2 - KEVAD
@@ -29,5 +33,6 @@ live salvestuse läbi viimine
 REC akust, kui guide track siis 2 ribbon 8 mikrit, kidra mic null suu suunas, voxi mic null kidra suunas, mõlemad sama kaugel kidrast
 gainimine ja faaside kontroll! akustil mikri asetus
 MS tehnika kasutamine
+bleediga tegelemine rx music rebalanceiga
 
 ![[KÕIK LOENGUD.base#Stuudiotöö (2.osa)]]
