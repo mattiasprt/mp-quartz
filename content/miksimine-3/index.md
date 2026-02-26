@@ -2,7 +2,7 @@
 title: Miksimine 3
 aliases:
   - Miksimine 3
-publish: true
+publish: false
 ---
 <!-- hide -->
 
