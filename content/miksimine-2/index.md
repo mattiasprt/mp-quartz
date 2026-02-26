@@ -41,6 +41,7 @@ faas tuua eraldi peatükki, mis on mix 1s kuid lühendatult, siis faas, linear p
 failiformaadid, flac vs wav jne - äkki mix 1
 Äkki arvestusel hoopis las saadavad kõik enda mikside v1 ja beforeid enne loengut. Ja siis kohapeal on samamoodi projekti tutvustus, kindlustab et nad ei muudaks midagi peale loengut.
 dünaamiline eq, canto oscuro mix kitarrid, triinu orgmets album
+kuulamisharjutused, mina vahetan mixide versioone, kuulajad saavad kasutada spektrumi analüsaatoreid, võrrelda nt sama versiooni kui on ajavahe ja veits valjem ja vaiksem jne.
 
 ![[KÕIK LOENGUD.base#Miksimine (2.osa)]]
 

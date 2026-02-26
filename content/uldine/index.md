@@ -7,5 +7,4 @@ aliases:
 <!-- hide -->
 ![[Üldised teemad.base#posts]]
 
-![[Üldised teemad.base#attachments]]
 <!-- /hide -->

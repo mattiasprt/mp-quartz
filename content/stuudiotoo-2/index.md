@@ -34,5 +34,6 @@ REC akust, kui guide track siis 2 ribbon 8 mikrit, kidra mic null suu suunas, vo
 gainimine ja faaside kontroll! akustil mikri asetus
 MS tehnika kasutamine
 bleediga tegelemine rx music rebalanceiga
+kodutöö: valmista ette input list + projekt enda salvestuseks, põhjenda mikrofoni valikud
 
 ![[KÕIK LOENGUD.base#Stuudiotöö (2.osa)]]
