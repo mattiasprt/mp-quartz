@@ -68,7 +68,7 @@ tehtud: true
 
 ## 5.  Masterdamine
 
-- Lõpulihv ja miksi viimistlemine. Eesmärk on panna lugu "transleeruma" nii hästi kui võimalik. 
+- Lõpulihv ja miksi viimistlemine. Eesmärk on panna lugu tõlgenduma eri süsteemidele, nii hästi kui võimalik. 
 - Master ei saa parandada halba miksi. Masteri tulemus on sõltuv kõikidest eelnevatest etappidest.
 - Kasutades ainult lõplikku miksi faili. 
 	- Valik on ka teha "stem masterit" mis tähendab, et miksitud instrumendi grupeeringute kasutamine masteri protsessis. Tegu pole täiendava miksimisega, annab lihtsalt rohkem paindlikkust masterdajale.
