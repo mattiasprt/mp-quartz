@@ -1,6 +1,6 @@
 ---
 aine: "[[04 - Õpetamine/content/miksimine-2/index|Miksimine 2]]"
-publish: true
+publish: false
 jrk:
 ---
 <!-- hide -->
