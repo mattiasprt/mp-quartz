@@ -2,11 +2,12 @@
 title: Miksimine 3
 aliases:
   - Miksimine 3
+  - M3
 publish: false
 ---
 <!-- hide -->
 
-# KÕIK PEIDUS
+# <mark style="background:#ff4d4f">KÕIK PEIDUS</mark>
 
 > [!important] Kodutööd
 > - Materjali miksimiseks leiate näiteks [SIIT Notioni lehelt](https://mattiasprt.notion.site/Multitracks-for-Engineering-264dc1e62ee0809cb997f1822aadfd71?source=copy_link)
@@ -70,10 +71,11 @@ Ja siis teha ise ka paar sessi, kus miksin nt nende muusikat.
 
 ---
 ## Tudengid
-
-| Nimi | Puudumisi (max 2) | 1 [[Miksile tagasiside andmine]] | 2 Mix 1 V1 | 3 Mix 1 V2 | 4 Mix 2 V1 | 5 Mix 2 V2 | 6 Mix 3 V1 | 7 Mix 3 V2 |
-| ---- | ----------------- | -------------------------------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
-|      |                   |                                  |            |            |            |            |            |            |
-
+| Nimi | 1   | 2   | 3   | 4   | 5   | 6   | 7   | Eksam |
+| ---- | --- | --- | --- | --- | --- | --- | --- | ----- |
+|      |     |     |     |     |     |     |     |       |
+|      |     |     |     |     |     |     |     |       |
+|      |     |     |     |     |     |     |     |       |
+|      |     |     |     |     |     |     |     |       
 
 <!-- /hide -->

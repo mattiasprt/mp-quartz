@@ -1,5 +1,5 @@
 ---
-aine: "[[04 - Õpetamine/content/miksimine-2/index|Miksimine 2]]"
+aine: "[[Õpetamine/content/miksimine-3/index|Miksimine 3]]"
 publish: false
 jrk:
 ---

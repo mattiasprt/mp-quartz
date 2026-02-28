@@ -2,10 +2,11 @@
 title: Digitaalne Helitöötlus
 aliases:
   - Digitaalne Helitöötlus
+  - DH
 publish: true
 ---
 <!-- hide -->
-# KÕIK PEIDUS
+# <mark style="background:#ff4d4f">KÕIK PEIDUS</mark>
 
 > [!todo] Tulevikus
 > - Loenguid võib vabalt ka 001s teha. Arvutiklass aint siis kui on mingi harjutus vms.
@@ -56,11 +57,12 @@ publish: true
 ---
 ## Tudengid
 
-| Nimi | Puudumisi (max 3) | Kodutöid tegemata |
-| ---- | ----------------- | ----------------- |
-|      |                   |                   |
-|      |                   |                   |
-|      |                   |                   |
+| Nimi | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | Eksam |
+| ---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ----- |
+|      |     |     |     |     |     |     |     |     |     |       |
+|      |     |     |     |     |     |     |     |     |     |       |
+|      |     |     |     |     |     |     |     |     |     |       |
+|      |     |     |     |     |     |     |     |     |     |       
 
 
 <!-- /hide -->
