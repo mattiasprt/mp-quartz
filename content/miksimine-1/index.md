@@ -2,11 +2,11 @@
 title: Miksimine 1
 aliases:
   - Miksimine 1
+  - M1
 publish: true
 ---
 <!-- hide -->
-
-# KÕIK PEIDUS
+# <mark style="background:#ff4d4f">KÕIK PEIDUS</mark>
 
 > [!important] Kodutööd
 > - Laadige enda kodutööd [SIIA Dropboxi kausta](https://www.dropbox.com/request/1gsszcjaKfxgbTnTMMmo)!
@@ -43,11 +43,10 @@ publish: true
 ---
 ## Tudengid
 
-| Nimi                              | Puudumisi (max 2) | Kodutöid tegemata |
-| --------------------------------- | ----------------- | ----------------- |
-| Lisanna Kuningas                  | 1 (15.10)         |                   |
-| Oskar Piik                        |                   |                   |
-| Pepi aka Jose Manuel Prieto Garay | 1 (17.09)         |                   |
-| Maaria Õun                        | 1 (15.10)         |                   |
-| Kasper Suur                       |                   |                   |
+| Nimi | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | Eksam |
+| ---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ----- |
+|      |     |     |     |     |     |     |     |     |     |       |
+|      |     |     |     |     |     |     |     |     |     |       |
+|      |     |     |     |     |     |     |     |     |     |       |
+|      |     |     |     |     |     |     |     |     |     |       |
 <!-- /hide -->
