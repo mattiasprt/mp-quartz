@@ -1,5 +1,5 @@
 ---
-aine: "[[Õpetamine/content/stuudiotoo/stuudiotoo-1/index|Stuudiotöö 1]]"
+aine: "[[Õpetamine/content/stuudiotoo-1/index|Stuudiotöö 1]]"
 publish: true
 jrk: "7"
 tehtud: true
