@@ -1,5 +1,5 @@
 ---
-aine: "[[Õpetamine/content/stuudiotoo/stuudiotoo-1/index|Stuudiotöö 1]]"
+aine: "[[Õpetamine/content/stuudiotoo-1/index|Stuudiotöö 1]]"
 jrk: 1 & 2
 kodutöö: "[[S1 Salvestuse ettevalmistus]]"
 publish: true
