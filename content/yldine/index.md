@@ -4,7 +4,3 @@ title: Üldised teemad
 aliases:
   - Üldised teemad
 ---
-<!-- hide -->
-![[Üldised teemad.base#posts]]
-
-<!-- /hide -->

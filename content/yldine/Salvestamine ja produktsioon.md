@@ -30,6 +30,16 @@ publish: true
 - Enamikel helikaartidel on *combo* sisendid, ehk võimaldavad kõike ülalolevat.
 
 ---
+## Impedance
+
+- Preampidel saab reguleerida *impedance*-it, ehk takistust. Lihtsustatult:
+	- Kõrge pre takistus = signaalil rohkem kõrget otsa
+	- Madal pre takistus = signaalil rohkem madalat ja keskmisi
+	- Veidike nagu tilt EQ, mõnel mikril mõjub soundile rohkem (ribbonid ja dünaamilised), mõnel vähem
+- Igal mikril on väljund takistus igal prel on sisend takistus. Kui pre takistus on 5-10x kõrgem mikri takistusest, siis on tegu justkui "optimaalse" soundiga.
+- Kui võimalik pre pealt kruttida, siis alustage kõrgelt ja liikuge madalamaks, usaldage oma kõrvu!
+
+---
 ## Monitooring
 
 - ..ehk kuidas enda signaali kuulda?

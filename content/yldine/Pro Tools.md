@@ -1,3 +1,6 @@
+---
+publish: true
+---
 # Pro Tools 101
 
 - Pro Toolsi käivitades hoidke N-i all.

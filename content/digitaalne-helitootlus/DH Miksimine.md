@@ -1,8 +1,8 @@
 ---
-aine: "[[Õpetamine/content/digitaalne-helitootlus/index|Digitaalne Helitöötlus]]"
+aine: "[[DH|Digitaalne Helitöötlus]]"
 jrk: "6"
 publish: true
-kodutöö: "[[Leia miksija]]"
+kodutöö: "[[DH Leia miksija]]"
 tehtud: true
 ---
 ![[Miksimine#Mis on miksimise point?]]
@@ -38,6 +38,6 @@ tehtud: true
 ---
 # Kodutöö
 
-![[Leia miksija]]
+![[DH Leia miksija]]
 
 <!-- /hide -->

@@ -1,5 +1,5 @@
 ---
-aine: "[[Õpetamine/content/digitaalne-helitootlus/index|Digitaalne Helitöötlus]]"
+aine: "[[DH|Digitaalne Helitöötlus]]"
 jrk: "10"
 kodutöö:
 publish: false

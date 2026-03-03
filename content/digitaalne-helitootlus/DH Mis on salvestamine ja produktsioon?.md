@@ -1,8 +1,8 @@
 ---
-aine: "[[Õpetamine/content/digitaalne-helitootlus/index|Digitaalne Helitöötlus]]"
+aine: "[[DH|Digitaalne Helitöötlus]]"
 publish: true
 jrk: "5"
-kodutöö: "[[Loopi produtseerimine]]"
+kodutöö: "[[DH Loopi produtseerimine]]"
 tehtud: true
 ---
 # Meenutuseks:
@@ -24,6 +24,6 @@ tehtud: true
 ---
 # Kodutöö
 
-![[Loopi produtseerimine]]
+![[DH Loopi produtseerimine]]
 
 <!-- /hide -->
