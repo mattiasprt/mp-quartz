@@ -1,7 +1,7 @@
 ---
-aine: "[[Õpetamine/content/digitaalne-helitootlus/index|Digitaalne Helitöötlus]]"
+aine: "[[DH|Digitaalne Helitöötlus]]"
 jrk: "1"
-kodutöö: "[[(DH) Laulu valimine]]"
+kodutöö: "[[DH Laulu valimine]]"
 publish: true
 tehtud: true
 ---
@@ -118,6 +118,6 @@ tehtud: true
 ---
 # Kodutöö
 
-![[(DH) Laulu valimine]]
+![[DH Laulu valimine]]
 
 <!-- /hide -->

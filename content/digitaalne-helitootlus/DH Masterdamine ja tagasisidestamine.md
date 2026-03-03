@@ -1,9 +1,9 @@
 ---
-aine: "[[Õpetamine/content/digitaalne-helitootlus/index|Digitaalne Helitöötlus]]"
+aine: "[[DH|Digitaalne Helitöötlus]]"
 publish: true
 jrk: "7"
 tehtud: true
-kodutöö: "[[Miksile tagasiside andmine]]"
+kodutöö: "[[DH, M1 Miksile tagasiside andmine]]"
 ---
 <!-- hide -->
 ![[Masterdamine#Kus on piir miksi ja masteri vahel?]]
@@ -40,6 +40,6 @@ kodutöö: "[[Miksile tagasiside andmine]]"
 <!-- hide -->
 # Kodutöö
 
-![[Miksile tagasiside andmine]]
+![[DH, M1 Miksile tagasiside andmine]]
 
 <!-- /hide -->

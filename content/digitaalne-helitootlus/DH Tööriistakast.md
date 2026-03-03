@@ -1,7 +1,7 @@
 ---
-aine: "[[Õpetamine/content/digitaalne-helitootlus/index|Digitaalne Helitöötlus]]"
+aine: "[[DH|Digitaalne Helitöötlus]]"
 jrk: "3"
-kodutöö: "[[Multitracki miksimine]]"
+kodutöö: "[[DH Multitracki miksimine]]"
 publish: true
 tehtud: true
 ---
@@ -36,6 +36,6 @@ tehtud: true
 <!-- hide -->
 # Kodutöö
 
-![[Multitracki miksimine]]
+![[DH Multitracki miksimine]]
 
 <!-- /hide -->

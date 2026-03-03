@@ -1,7 +1,7 @@
 ---
-aine: "[[Õpetamine/content/digitaalne-helitootlus/index|Digitaalne Helitöötlus]]"
+aine: "[[DH|Digitaalne Helitöötlus]]"
 jrk: "4"
-kodutöö: "[[Reverbi ja kompressiooni kuulamine]]"
+kodutöö: "[[DH, M1 Reverbi ja kompressiooni kuulamine]]"
 publish: false
 tehtud: true
 ---
@@ -46,4 +46,4 @@ tehtud: true
 
 Huvi korral võite ka katsetade järgnevaid harjutusi, kasutades multitracki materjale. Pole kohustuslik aga aitab teil paremini tööriistadest aru saada!
 
-![[Reverbi ja kompressiooni kuulamine]]
+![[DH, M1 Reverbi ja kompressiooni kuulamine]]
