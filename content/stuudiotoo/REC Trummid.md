@@ -33,7 +33,7 @@ kodutöö: "[[S1 Materjal puhastamiseks]]"
 		- Võimalik ka kasutada subkick mikrit - mis püüab ainult sub sagedusi, asetada vahetult kicki naha ette.
 	- **Snare Top** - Naha keskpunkt = terav attack, naha äär = rohkem resonantsust, tooni ja keha. Enamasti keskpunkti ja ääre vahele sihtides sweetspot. [Mikri kõrgus](https://arc.net/l/quote/yisafjlo)
 	- **Snare Bottom** - Püüab vedrude ehk reaalsete "snareide" soundi. Kasutada kui tahta soolo trummile lisa kõrget otsa ja snap-i, olenevalt žanrist. Trummarile kohati ebanaturaalne, kuna ta ei kuule enda kit-i sedasi. Blenditakse sisse, väga harva dominantne snare-i sound. Tihti faasist väljas Snare Top mikri suhtes, nõnda preampi peal peab phase flipi tegema.
-	- **Tomid** - Mikker kaugemal = rohkem resonantsi ja *body* / lähemal = rohkem attacki + sama loogika mis snare topi puhul.
+	- **Tomid** - Mikker kaugemal = rohkem resonantsi ja *body* / lähemal = rohkem attacki + sama loogika mis snare topi puhul. Sisendites võiks olla sama L ja R loogika mis OHdel. Floor > Rack 1 > Rack 2 nt.
 	- **Hi-Hat** - Lisa mikker hihatile, võiks korjata võimalikult vähe snarei bleedi, nt mingi figure 8. Asetada pigem kõrgemale, mitte suunatult plaatide vahele, sest sealt tuleb palju õhku.
 - Seti mikrid:
 	- **Crotch** - võrdne kaugus kicki beaterist ja snareist, võrdne kaugus rackist ja floorist. sihitud racki ja floori vahele paralleelselt
