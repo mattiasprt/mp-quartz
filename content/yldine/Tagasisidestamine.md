@@ -38,13 +38,3 @@ publish: true
 
 ---
 ![[EQ#Tonaalsuse sõnadesse panemine]]
-
-## S.T.A.R meetod
-
-Konstruktiivne ja spetsiifiline tagasisidestamise mall:
-- Situation - *"Kui 1:15 vokaalid tulevad sisse.."* 
-- Task - *"Ma tahan, et nad lõikaksid rohkem miksist läbi ja oleksid esil.."*
-- Action - *"..ilma, et essid hakkaksid kriipima, kas saaks vokaale valjemaks aga ka pehmemaks?"*
-- Reference - *"Nagu näiteks vokaal (Laul) (Artistilt) (timestamp)."*
-
----

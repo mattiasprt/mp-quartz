@@ -8,6 +8,8 @@ tehtud: true
 ![[DH Sissejuhatus Digitaalsesse Helitöötlusse#Kuidas saab laul Sinu peast teiste kõrva(klappi)desse?]]
 
 ![[Salvestamine ja produktsioon#Salvestamine]]
+
+![[Salvestamine ja produktsioon#Produktsioon]]
 ## Produtsendi roll stuudios
 
 - Produtsent = Salvestus insener, vaimse tervise spetsialist / psühholoog, hääleseade spetsialist, nähtamatu (ära räägi esimesena peale take'i, las artist reageerib)

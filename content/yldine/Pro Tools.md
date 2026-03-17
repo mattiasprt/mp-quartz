@@ -25,21 +25,21 @@ publish: true
 ## Salvestamine Pro Toolsis
 
 - Rajale materjali salvestamiseks, pange rajal record enable nupp sisse.
-- Input monitoring nupp sees = kui tahad kuulda tracki live inputi, väljas kui tahad kuulda salvestatud materjali.
+- Input monitoring nupp sees = kui tahad playbacki ajal kuulda tracki live inputi, väljas kui tahad kuulda salvestatud materjali.
 <!-- hide -->
-- Katsetada teha eraldi aux track mikri mõlemapoolseks monitooringuks. Siis ei lähe signaal kunagi mutesse kuulaja poolelt, sest selle saab saata otse behringeri ja ei ole mõjutatud rec enable või input monitoringust.
+- <mark style="background:#ff4d4f">Katsetada teha eraldi aux track mikri mõlemapoolseks monitooringuks. Siis ei lähe signaal kunagi mutesse kuulaja poolelt, sest selle saab saata otse behringeri ja ei ole mõjutatud rec enable või input monitoringust.</mark>
 <!-- /hide -->
-- Multimic salvestustel trackide gruppimine: Select tracks > cmd + G
+- Multimic salvestustel trackide grupeerimine: Select tracks > cmd + G
 - Punch-in: 
 	- QuickPunch REC mode
 - Loop recording:
 	- Loop recording mode peale
 	- Preferences -> Operation -> “Create New Playlists on Loop Record"
-- DSP efektid ei lisa latencyt, saab kasutada salvestusel.
+- DSP efektid ei lisa latencyt, saab kasutada salvestusel. Kasutavad Avid HDX süsteemi jõudlust.
 - Duplicate track, ilma klippideta: 
 	- Right click, duplicate track (cmd + shift + D)
 		- Uncheck "Playlist" - siis ei kopeeri klippe.
-	- Mõistlik teha kohe alguses mitu tracki ja siis jooksvalt nimetada neid sobivalt.
+	- Mõistlik teha kohe salvestuse alguses mitu tracki ja siis jooksvalt nimetada neid sobivalt.
 - Playlistide kasutamine, compimiseks: 
 	- Playlisti vaade tracki pealt. Vaikimisi on waveformi vaade.
 	- alt + shift + down - kopeerib valitud klipi uude playlisti
@@ -48,6 +48,7 @@ publish: true
 - Eksport:
 	- Selecti kõik materjal, veendu, et alguspunkt oleks sama mis importitud materjali alguspunkt. Siis kui tõmbate materjali enda projekti on kõik ajaliselt õiges kohas.
 	- Consolidate: 
-		- Edit -> Consolidate VÕI cmd + shift + 5 (või 3?)
-		- Vaadake kuhu failid tekkisid ja copyge endale kuhugi sobivasse kohta. Siis võite Pro Toolsis undo teha ja kõik materjal on un-consolidated kujul tagasi.
+		- Edit -> Consolidate VÕI alt + shift + 3
+		- Vaadake kuhu failid tekkisid (projekti kausta Audio Files kausta) ja copyge endale kuhugi sobivasse kohta. Siis võite Pro Toolsis undo teha ja kõik materjal on un-consolidated kujul tagasi.
+			- Kui Audio Files kaustas on segaselt palju faile, siis sorteerige Finderis "Date Modified" või "Date Created järgi". Saate aru mis failid te just eksportisite timestampi järgi.
 	- VÕI File > Export > Selected Tracks as Files (või Bounce selected tracks)

@@ -149,6 +149,24 @@ NOTE:
 - Keera nuppe, liiguta fadereid ja tee julgeid EQ lükkeid. Proovi viia visuaalsed liigutused kuuldeliste erinevustega kooskõlla. Mis juhtub kui sa keerad käesoleva tracki vaiksemaks? - valjemaks? - kuidas see EQ lüke muudab kõlakarakterit? Olge julgeid ja kuulake erinevusi.
 
 ---
+### "Balanss"
+
+- Miksimises me jahime "balanssi", et kuulamine oleks meeldiv ja ei tekiks häirivaid hetki.
+- Balansid:
+	- Valjus
+		- Elemendi "staatiline" valjus. Gainstagingus määratud gainidega, miximises määratud faderitega.
+	- Panoraam
+		- Määratud pan potekaga. Nt. kui midagi on vasakul siis tal peaks olema midagi mis on paremal mixile balanssi loomas. Hea määrata võimalikult vara, sest panoraam mõjutab ka seda kui valjuks me elementi keerame.
+	- Dünaamika
+		- Pikaajaline dünaamika:
+			- Loo sektsioonide vaheline valjuse erinevus. Faderite automeerimine.
+		- Lühiajaline dünaamika:
+			- Elemendi enda dünaamika, kontrollitud dünaamilise töötlusega, nt. kompressoriga või gaini automeerimisega. Nt. et trummiset oleks ühtlase kõlaga, ei tohiks sealt mingid soolotrummi löögid välja lüüa, võiks olla ühtlane. 
+	- Tonaalsus
+		- Määratud arranžeeringus ja produktsioonis, *sound selection*-ist. Mixis saab seda kontrollida EQga. Kui lugu on liiga bassine siis see bass matab kõik enda alla, kui lugu on liiga terav siis on seda ebamugav kuulata jne.
+
+
+---
 ## Render / Export / Bounce ja Print
 
 - Millal on mix valmis?

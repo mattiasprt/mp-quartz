@@ -13,6 +13,8 @@ tehtud: true
 
 ![[Salvestamine ja produktsioon#Salvestamine]]
 
+![[Salvestamine ja produktsioon#Produktsioon]]
+
 <!-- hide -->
 ## Harjutus
 
