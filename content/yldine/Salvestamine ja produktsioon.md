@@ -78,7 +78,7 @@ publish: true
 <!-- /hide -->
 
 ---
-## Produktsioon
+# Produktsioon
 
 - Salvestatud materjali töötlemine loovalt ja eesmärgipäraselt. 
 - MIDI heliallikate valimine, kasutamine ja vormimine, helidisain.
@@ -89,3 +89,5 @@ publish: true
 
 - Salvestamine - esituse püüdmine
 - Produktsioon - püüdud esituse vormimine
+
+---
