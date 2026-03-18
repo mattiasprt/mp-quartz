@@ -9,6 +9,6 @@ publish: true
 ---
 ## De-esser
 
-- Sagedusspetsiifiline kompressor. Määrad esside sageduse, kui signaal läheb üle thresholdi, siis keerab essid või terve signaali vaiksemaks. Sisuliselt kompressor internal sidechainiga.
+- Sagedusspetsiifiline kompressor. Määrad esside sageduse, kui signaal läheb üle thresholdi, siis keerab essid või terve signaali vaiksemaks. Sisuliselt kompressor internal sidechainiga, või multiband compressor.
 
 ---
