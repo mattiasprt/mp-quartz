@@ -1,8 +1,8 @@
 ---
 aine: "[[M2|Miksimine 2]]"
-publish: false
+publish: true
 jrk: "2"
-tehtud: false
+tehtud: true
 kodutöö: "[[M Mix V1]]"
 ---
 # Live salvestuse miksimine
@@ -11,7 +11,7 @@ kodutöö: "[[M Mix V1]]"
 - Kui livel on saali või ruumi stereopaar, siis selle järgi saab ka aru kuhu panoraamis elemente asetada.
 - Erinevused stuudio salvestusega:
 	- Bleed
-	- Mikrofoni käsitlemise tehnika vokalistidel = ebaühtlane dünaamika
+	- Vokalistidel = ebaühtlane dünaamika
 	- Üldine algmaterjali kvaliteet võib olla kehvem, kui ei ole salvestatud kontrollitud akustikaga keskkonnas
 
 <!-- hide -->
@@ -23,14 +23,14 @@ kodutöö: "[[M Mix V1]]"
 ---
 # Bleediga tegelemine
 
-- Millal on vaja bleediga tegeleda?
-	- Siis kui materjali töötlemine või üldine helikvaliteet kannatab. 
+- Bleediga on vaja tegeleda siis, kui materjali töötlemine või üldine helikvaliteet kannatab. 
 - Gate'i kasutamine (nt. Oxford Drum Gate)
 	- Internal Sidechain võimaldab gate'il täpsemalt teada mis signaali peale avaneda.
-- Manuaalne mutemine, nt tom'ide radadel, või kui vokalist ei laula.
-- RX De-Bleed moodul - Signaalist teise signaali eemaldamine. 
-	- Võib tuua rohkem kahju kui kasu, tehke AB võrdlus.
-- RX Music Rebalance moodul - Võimaldab signaalist isoleerida vokaali, bassi, perkussiivse elemendi või "muu"
+- Manuaalne mutemine, nt tom'ide radadel kui tom-e ei lööda, või voxi rajal kui vokalist ei laula.
+- RX
+	- RX De-Bleed moodul - Algsignaalist teise signaali eemaldamine. 
+	- RX Music Rebalance moodul - Võimaldab signaalist isoleerida vokaali, bassi, perkussiivse elemendi või "muu"
+	- Võib tuua rohkem kahju kui kasu *artefact*-ide tõttu, tehke AB võrdlus.
 
 <!-- hide -->
 >NOTE:
@@ -41,7 +41,7 @@ kodutöö: "[[M Mix V1]]"
 ---
 # *Drum triggering / replacement*
 
-- Sisend signaali põhjal samplite "triggerdamine".
+- Sisend signaali dünaamika põhjal samplite "triggerdamine".
 - Võimaldab lisada trummi kõlale leiereid, või asendada algne trumm üleüldse.
 	- Olge ettevaatlikud leierdamisel, sest et sampli ja algsignaali faasid võivad tühistada üksteist. Eriti tähtis kickidel, kuna tegu madalate sagedustega.
 - Velocity sensitive, ehk erinevad löögi valjused triggerdavad erineva tunnetusega sampleid.
