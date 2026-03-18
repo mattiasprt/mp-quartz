@@ -81,7 +81,7 @@ publish: true
 
 >NOTE: 
 >- Teha test: 2 mixi kus üks smiley eq ja valjem, teine tavaline. küsida kumb kõlab paremini, siis loudness normalizeida ja küsida uuesti
->- Logic Pro compressoril on by default autogain peal, mis teeb materjali valjemaks kui treshold alla tõmmata, pole loogiline.
+>- Logic Pro compressoril on by default autogain peal, mis teeb materjali valjemaks kui threshold alla tõmmata, pole loogiline.
 
 ---
 # Dünaamika mõõtmine
