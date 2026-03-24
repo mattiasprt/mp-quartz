@@ -8,3 +8,4 @@ kodutöö: mix aga aja valjuks
 [[Masterdamine]]
 [[Valjus ja LUFS'id]]
 [[Mastering]]
+[[Dünaamika#Dünaamika mõõtmine]]

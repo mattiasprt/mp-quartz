@@ -10,9 +10,8 @@ tehtud: true
 >-  https://www.sweetwater.com/insync/best-guitar-amp-mics/
 
 <!-- /hide -->
-# Elektrikitarri salvestamine
+# Elektrikitarri või bassi salvestamine
 
-- Kõik järgnev kehtib valdavalt ka elektribassi salvestustele.
 - Tooni saab mõjutada ka pilli enda pealt tooni potekaga ja pickupi valikuga. Hea tava on leida kiiresti mingi sound mis ruumis kuulates meeldib, ning siis ülejäänud materjaliga kooskõlas katsetada erinevaid pickup-e jne. 
 	- Tooni pehmemaks keeramine kitarri pealt, võib tekitada meeldivama distortioni tooni võimust.
 

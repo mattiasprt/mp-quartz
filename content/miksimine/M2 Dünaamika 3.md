@@ -4,6 +4,16 @@ publish: false
 jrk: "3"
 tehtud: false
 ---
+drum triggering teema.
+
+Kõik võtavad oma läpakad kaasa ja otsivad üles enda pluginabaasidest kõik õpitud tööriistad. Lasevad mingi heli läbi ja saavad aru kuidas toimivad. Lühi ülevaade teistele.
+
+MIKS on vaja digihelis headroomi ja dünaamilist töötlust? mingi hea bypass projektis, kus dünaamiline töötlus on/off.
+
+rohkem bleediga töötamist, ei jõudnud eelmine kord ilusti
+
+kvaliteedi kontroll, vaadake enda fail üle mille te saadata, oskari clippiv mix nt
+
 ![[Transient Shaper#Transient shaper]]
 # External Sidechain
 
@@ -21,5 +31,3 @@ tehtud: false
 ![[Clipperid#Clipperid]]
 
 ![[Kompressor#Pro-d kasutavad]]
-
-![[Dünaamika#Dünaamika mõõtmine]]
