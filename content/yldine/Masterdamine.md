@@ -122,10 +122,10 @@ publish: true
 	- [[Faas#Mid-Side]]
 - [[Kompressor]]
 - [[Limiter]]
-- [[Clipperid]]
+- [[Clipper]]
 
 ---
-## Dither?
+## Dither
 
 - Lisatud müra mis peidab enda sisse kvantimismüra, mis tekib kui vähendada bit depth'i. 
 - Kasutage AINULT, kui te vähendate bit depthi. Kasutage terve loomeprotsessi vältel AINULT ühe korra. Mitmekordne ditherdamine viib kuuldava mürani.

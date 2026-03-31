@@ -7,8 +7,6 @@ kodutöö: "[[M Mix V2]]"
 ---
 ![[Efektide kasutamine#Efektid]]
 
-![[DAWi Signal Flow#DAWi Signaaliahel]]
-
 ![[Reverb#Reverb]]
 
 ![[Delay#Delay]]

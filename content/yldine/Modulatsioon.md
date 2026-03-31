@@ -10,21 +10,21 @@ Kaks peamist meetodit:
 ---
 ## 1. Algsignaal jaotatakse kaheks...
 
-- Flanger
+- **Flanger**
 	- Signaal jaotatakse kaheks, ühte viidatakse, ehk signaal läheb faasist välja, mingid sagedused *phase cancellivad*, tekib comb filter efekt.
 	- *wooshwoosh*
-- Phaser
+- **Phaser**
 	- Signaal jaotatakse kaheks, ühele lisatakse faasinihkega filtreid
 	- *wooshwoosh (but more subtle)*
-- Chorus
+- **Chorus**
 	- Signaal jaotatakse kaheks, ühte viidatakse ja detuneitakse. Nagu mängitakse sama nooti kahel erineval pillil, koor.
 
 ---
 ## 2. Signaali moduleeritakse LFOga.
 
-- Tremolo
+- **Tremolo**
 	- Signaali amplituudi moduleeritakse LFOga.
-- Vibrato
+- **Vibrato**
 	- Signaali helikõrgust moduleeritakse LFOga.
 
 ---
@@ -35,6 +35,9 @@ Kaks peamist meetodit:
 ---
 ## Reverbide ja delayde moduleerimine
 
-- Sabade moduleerimine lisab tihtipeale lahedat *soundi*, paljudes pluginates sisseehitatud. 
+- Sabade moduleerimine lisab tihtipeale lahedat *soundi*, paljudesse reverbi ja delay pluginatesse sisseehitatud. 
 
 ---
+# Vaata ka:
+
+- [[Efektide kasutamine]]

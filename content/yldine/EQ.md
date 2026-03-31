@@ -8,9 +8,9 @@ publish: true
 
 - Muusikal on žanripõhised tonaalsuse tavad. Kuid läbivalt tähtis on **tonaalse balansi leidmine**.
 - Tonaalsust saab järeltöötluses mõjutada ekvaliseerimisega (EQ, equalizer).
-- EQga saab mõjutada ainult eksisteerivat materjali. Instrumendi kõlale ei saa "bassi juurde panna", kui seal füüsiliselt ei ole neid madalaid sagedusi olemas või salvestatud.
-- Ideaalis, selle asemel, et üritada soundi parandada EQga, on soovituslik muuta soundi allikat, mikri asetust, süna soundi jne. Kuid kui see enam võimalik ei ole, siis tasub võtta kätte EQ.
-- Alati ei olegi vaja EQt kasutada! Ole teadlik, kas selle kasutamine lisab materjalile väärtust või mitte.
+- EQga saab mõjutada ainult eksisteerivat materjali. Instrumendi kõlale ei saa "bassi juurde panna", kui seal füüsiliselt ei ole neid madalaid sagedusi algmaterjalis.
+- Ideaalis, selle asemel, et üritada soundi parandada EQga, on soovituslik muuta soundi allikat, mikri asetust, süna soundi jne. Kuid kui see enam võimalik ei ole, siis tasub võtta EQ.
+- Alati ei olegi vaja EQt kasutada! Ole teadlik, kas selle kasutamine lisab loo kõlale väärtust või mitte.
 
 <!-- hide -->
 >NOTE:
@@ -21,7 +21,9 @@ publish: true
 ---
 ## Filtritüübid
 
-- Bell - Kõige levinum, mõjutab spetsiifilist sagedusvahemikku, meenutab küngast, või orgu. Roheline "boost", sinine "cut":  ![[Pasted image 20250915160834.png]]<!-- .element: style="max-height:50%;" -->
+- Bell - Kõige levinum, mõjutab spetsiifilist sagedusvahemikku, meenutab küngast, või orgu. 
+	- Roheline "boost", sinine "cut":  
+![[Pasted image 20250915160834.png]]<!-- .element: style="max-height:50%;" -->
 
 ---
 
@@ -50,6 +52,7 @@ publish: true
 
 - Tonaalsuse sõnastamist on kergem õppida kasutades iseloomustavat sõnavara.
 - Ei pea olema terve laulu kõrakarakteri kohta, saab ka kasutada individuaalsetel elementide kohta!
+- Sõnastades seda, mis sulle materjali tonaalsuse põhjal meeldib/ei meeldi, on võimalik läheneda signaalile EQga teadlikumalt ja taotuslikumalt.
 
 <!-- hide -->
 [[Tonaalsuse Sõnastamine.canvas|Tonaalsuse Sõnastamine]]
@@ -66,10 +69,10 @@ publish: true
 ## Võta ära või lisa juurde
 
 - Subtractive vs Additive (cut vs boost)
-	- Võta ära koledused, võimenda kõike mis ilus <3
+	- Võta ära koledused, võimenda kõike mis ilus <3 "Koleduste eemaldamine" ehk *corrective EQ*.
 	- Signal flow (ehk signaali järjekord) on jällegi tähtis! Corrective EQ esialgu, siis näiteks dünaamiline töötlus, "värvi" lisamine ja siis alles boostimine.
 - "Yin-Yang" mentaliteet. Boostid on cutid ja cutid on boostid
-	- Kõrgsageduslike boostide asemel kontrolli enne madalat otsa!
+	- Kõrgsageduslike boostide asemel kontrolli enne madalat otsa! Sest madal ots sööb rohkem dB headroomi kui kõrge ots.
 	- Näiteks, 250Hz vähendamine annab kuuldeliselt sama efekti, kui 5kHz tõstmine. Kujutage ette, et spektrumil on 1khz peal peegel.
 
 >NOTE: 

@@ -3,7 +3,7 @@ publish: true
 ---
 # Kompressor
 
-- Kompressor võimaldab meil kontrollida **mikrodünaamikat**, vähendades dünaamilist ulatust. Keerates lävendi ehk *threshold*'i ületanud signaali (enamasti transientid) vaiksemaks. Hiljem kompenseeritakse volüümi kaotus, *make-up gain*'iga.
+- Kompressor võimaldab meil kontrollida signaali **mikrodünaamikat**, vähendades selle dünaamilist ulatust. Keerates lävendi ehk *threshold*'i ületanud signaali vaiksemaks. Hiljem **kompenseeritakse** volüümi kaotus, *make-up gain*'iga. Ehk kompressor toob valjud kohad vaiksemaks ja kasutades make-up gaini - vaiksed kohad valjemaks. 
 - Kasutada siis kui on kuuldav dünaamiline ebaütlus. Mingid perkussiivsed löögid "löövad liiga välja" või kui mingid spetsiifilised noodid partiis kaovad miksi sisse ära, võrreldes teiste nootidega.
 - Hea lühike video, seletab kuidas kompressor töötab: [https://www.youtube.com/watch?v=fnLL8Qo8S-w](https://www.youtube.com/watch?v=fnLL8Qo8S-w)
 
@@ -19,7 +19,7 @@ publish: true
 - **Threshold**
 	- Kui sisend signaali amplituud ületab thresholdi lävendi siis kompressor hakkab tööle. Ehk mida madalamal threshold, seda rohkem kompressor töötab, sest seda ületab rohkem signaali.
 - **Ratio**
-	- Määrab ära suhte, kui palju thresholdi ületanud amplituudi vaiksemaks keeratakse. Ehk mida kõrgem, seda agressiivsem.
+	- Määrab ära suhte, kui palju thresholdi ületanud amplituudi vaiksemaks keeratakse. Ehk mida kõrgem, seda rohkem.
 	- 1:1 = kompressor ei tee midagi; 2:1 kompressor vähendab thresholdi ületanud signaali 2x jne.
 		- Näiteks, signaal ületab thresholdi 8dB võrra, 4:1 ratio puhul keeratakse signaal 6dB vaiksemaks. Sest iga 4db mis ületab thresholdi keeratakse 1dB peale. Ehk tekib 6dB *gain reduction*.
 - **Make-up gain**
@@ -40,12 +40,13 @@ publish: true
 ## Täiendavad seaded
 
 - **Attack**
-	- Aeg millisekundites, kui kaua läheb, et kompressor tööle hakkaks peale thresholdi lävendi ületust.
+	- Aeg millisekundites, kui kaua läheb, et kompressor hakkaks thresholdi ületanud signaali vaiksemaks keerama.
 - **Release**
-	- Aeg millisekundites, kui kaua läheb, et *gain reduction* taastuks. Mida kiirem release, seda rohkem on signaali *sustain* võimendatud.
+	- Aeg millisekundites, kui kaua läheb, et *gain reduction* taastuks. 
+	- Mida kiirem release, seda rohkem on signaali *sustain* võimendatud.
 - **Knee**
-	- Võimaldab thresholdil olla "paindlikum" või "sujuvam". Selle asemel, et threshold on üks konkreetne punkt (hard knee, 0.0), siis pehmema *knee* (soft knee, 1.0) puhul läheb signaal kompressorisse sujuvamalt.
-	- Hard knee = täpsus; Soft knee = pehme, *subtle*
+	- Võimaldab thresholdil olla "sujuvam". Selle asemel, et threshold on üks konkreetne punkt (hard knee, 0.0), siis pehmema *knee* (soft knee, 1.0) puhul tekib signaali gain reduction sujuvamalt.
+	- Hard knee = täpsus; Soft knee = pehme, sujuv, *subtle*
 
 ---
 ## Attack-Release visuaalselt
@@ -73,7 +74,7 @@ publish: true
 
 *Mix With The Masters konspekt:*
 
-Most mixers use the same compressors for the same results. Almost all of them mix top down (Bus compression on to start the mix)Compression often 0-4dB at this level of pro mixing as their tracks are already processed!
+Most mixers use the same compressors for the same results. Almost all of them mix top down (Bus compression on to start the mix) Compression often 0-4dB at this level of pro mixing as their tracks are already processed!
 
 - CL1B for slightly softer sustain typically lead vocal (In between LA2A soft and 1176 aggressive).
 - VARI-MU (STA-LEVEL, 660, others) for smooth sustain and tube coloration. Often barely compressing.
