@@ -25,8 +25,6 @@ tehtud: true
 
 ![[Efektide kasutamine#Efektid]]
 
-![[DAWi Signal Flow#DAWi Signaaliahel]]
-
 ![[Reverb#Reverb]]
 
 ![[Delay#Delay]]

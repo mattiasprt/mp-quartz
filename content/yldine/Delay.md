@@ -3,9 +3,9 @@ publish: true
 ---
 # Delay
 
-- Kaja tekitamine, pigem tehislik efekt. Lisab põnevat rütmikat produktsioonile. 
+- **Kaja** tekitamine, pigem tehislik efekt. Reverbiga võrreldes on delay pigem signaali mitu rütmilist kordust.
 - Enamasti *synced*, ehk noodi pikkused on seotud loo tempoga (määratud DAWi poolt). 
-	- Lugu millel on vaja rohkem detaili säilitada, võib lühike synced-delay tekitada parema "liimimise" kui lühike reverb.
+	- Mix millel on vaja rohkem detaili säilitada, võib lühike synced-delay tekitada parema "liimimise" kui lühike reverb.
 - Levinud stiilid:
 	- Normal - Tavaline kaja
 	- Ping-Pong - Delay põrkab vasaku ja parema kanali vahel
@@ -22,3 +22,6 @@ publish: true
 - Feedback - Kui palju kaja signaali läheb kordusesse / *feedbacki*, tekitades kajale täiendavaid korduseid.
 
 ---
+# Vaata ka:
+
+- [[Efektide kasutamine]]

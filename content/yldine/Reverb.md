@@ -26,15 +26,15 @@ publish: true
 ---
 ## Peamised reverbi seaded
 
-- Decay - Kui pikk on reverbi saba. Liiga pikk varjutab detaili, liiga lühike võib kõlada armetult, leidke kesktee. Kui kiiresti kukub reverbi signaal 60 dB.
-- Pre-delay - Aeg algse signaali ja reverbi saba alguse vahel. Võimaldab hoida signaali transiendi puhtana, et reverb seda ära ei *smear*'iks. Näiteks tähtis vokaali kaashäälikutel, et nad ei kõlaks "uduselt".
-- Size - Ruumi suurus, klaustrofoobne vs avar jne
-- Dampening seaded - Kui kiiresti mingi sagedusvahemik volüümis kukub, enamasti seotud mingite EQ parameetritega.
-- Diffusion - Kui madal siis reverbil on vähe peegeldusi ja kõlab hõredalt, kui kõrge - siis on reverbi sound "tihedam".
-- Width - Verbi laius. Ärge tehke kõike verbe maksimaalselt laiaks! Kaob kontrast ja reverbid hakkavad omavahel võitlema. Kitsam reverb võib tajutavalt ka kesta kauem.
+- **Decay** - Kui pikk on reverbi saba. Liiga pikk varjutab detaili, liiga lühike võib kõlada armetult, leidke kesktee. Kui kiiresti kukub reverbi signaal 60 dB.
+- **Pre-delay** - Aeg algse signaali ja reverbi saba alguse vahel. Võimaldab hoida signaali transiendi puhtana, et reverb seda ära ei *smear*'iks. Näiteks tähtis vokaali kaashäälikutel, et nad ei kõlaks reverbi tõttu "uduselt".
+- **Size** - Ruumi suurus, klaustrofoobne vs avar jne
+- **Dampening** seaded - Kui kiiresti mingi sagedusvahemik volüümis kukub, enamasti seotud mingite EQ parameetritega.
+- **Diffusion** - Kui madal siis reverbil on vähe peegeldusi ja kõlab hõredalt, kui kõrge - siis on reverbi sound "tihedam".
+- **Width** - Verbi laius. Ärge tehke kõike verbe maksimaalselt laiaks! Kaob kontrast ja reverbid hakkavad omavahel võitlema. Kitsam reverb võib tajutavalt ka kesta kauem.
 - Reverbi saba on enamasti jaotatud kaheks:
-	- Early Reflections - Esimesed peegeldused. Saab kontrollida kogust/tihedust.
-	- Late Reflections - Reverbi saba, hilisemad peegeldused. Saab kontrollida kogust/tihedust.
+	- **Early Reflections** - Esimesed peegeldused. Saab kontrollida kogust/tihedust.
+	- **Late Reflections** - Reverbi saba, hilisemad peegeldused. Saab kontrollida kogust/tihedust.
 
 >NOTE:
 > - ER, LR näiteks, lihtsalt võtta üks impulss ja keerata ER ja LR nuppe kui verb on 100% wet.
@@ -42,3 +42,6 @@ publish: true
 >	- Või lihtsalt zoomi sisse, selecti noodi pikkus snap gridil ja vaata mitu ms selection kestab
 
 ---
+# Vaata ka:
+
+- [[Efektide kasutamine]]

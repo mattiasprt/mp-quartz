@@ -53,9 +53,9 @@ publish: true
 # [[Gate]]
 # [[Expander]]
 # [[Multiband Compression]]
-# [[Konsoolipluginad]]
+# [[Channel Strip]]
 # [[Transient Shaper]]
-# [[Clipperid]]
+# [[Clipper]]
 
 ---
 # Põhjalikumalt

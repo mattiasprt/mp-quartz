@@ -9,6 +9,4 @@ publish: true
 ![[TÜVKA Stuudio Signal flow 1.png]]
 
 ---
-# Avalik Notioni leht
-
-<iframe src="https://mattiasprt.notion.site/ebd/27adc1e62ee08009a68bce50470ab0c3" width="100%" height="600" frameborder="0" allowfullscreen />
+# [Avalik Notioni leht](https://mattiasprt.notion.site/T-VKA-Stuudio-27adc1e62ee08009a68bce50470ab0c3?source=copy_link)
