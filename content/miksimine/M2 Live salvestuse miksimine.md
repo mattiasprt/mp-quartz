@@ -30,7 +30,7 @@ kodutöö: "[[M Mix V1]]"
 - RX
 	- RX De-Bleed moodul - Algsignaalist teise signaali eemaldamine. 
 	- RX Music Rebalance moodul - Võimaldab signaalist isoleerida vokaali, bassi, perkussiivse elemendi või "muu"
-	- Võib tuua rohkem kahju kui kasu *artefact*-ide tõttu, tehke AB võrdlus.
+	- Võib tuua rohkem kahju kui kasu *artefact*-ide tõttu, tehke AB võrdlus. Enamasti artefactid kaovad mixi sisse ära ja ei mõjuta mixi üldist kõla.
 
 <!-- hide -->
 >NOTE:

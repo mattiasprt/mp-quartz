@@ -122,6 +122,12 @@ publish: true
 <!-- /hide -->
 
 ---
+# Dünaamiline EQ
+
+- Sisuliselt multiband compressor aga piiratumate võimalustega. 
+- Kasulikum kui vaja spetsiifilisi noote töödelda.
+
+---
 # Harjutamine
 
 ## https://webtet.net/apcl/#/parametric
