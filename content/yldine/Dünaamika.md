@@ -48,18 +48,19 @@ publish: true
 <!-- /hide -->
 
 ---
-# [[Kompressor]]
-# [[Limiter]]
-# [[Gate]]
-# [[Expander]]
-# [[Multiband Compression]]
-# [[Channel Strip]]
-# [[Transient Shaper]]
-# [[Clipper]]
+# Tööriistad
+
+- [[Kompressor]]
+- [[Limiter]]
+- [[Gate]]
+- [[Expander]]
+- [[Multiband Compression]]
+- [[Channel Strip]]
+- [[Transient Shaper]]
+- [[Clipper]]
 
 ---
 # Põhjalikumalt
----
 ## Gain Reduction
 
 - Kui palju keeratakse thresholdi ületanud signaali vaiksemaks.
@@ -119,7 +120,7 @@ publish: true
 - Lahti kirjutatud [minu seminaritöös.](https://docs.google.com/document/d/1LaAj2Piu4tHgqFNTMTxYnq1NFn1Rn19j8gWvSxWsUs8/edit?tab=t.0#heading=h.o4k988dzj5kz)
 
 ---
-# Sõnavara
+%% # Sõnavara
 
 | Pigem negatiivne                   | Pigem positiivne vastand          |
 | ---------------------------------- | --------------------------------- |
@@ -135,4 +136,4 @@ publish: true
 
 <!-- /hide -->
 
----
+--- %%
