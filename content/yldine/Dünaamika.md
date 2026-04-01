@@ -62,6 +62,7 @@ publish: true
 ---
 ## Gain Reduction
 
+- Kui palju keeratakse thresholdi ületanud signaali vaiksemaks.
 - Kui palju on okei oleneb algmaterjalist. Hästi töödeldud produktsiooni puhul mida vähem - seda parem.
 	- Senikaua kuni halvasti ei kõla on okei.
 - Harjutamine: https://webtet.net/apcl/#/compression
@@ -70,7 +71,12 @@ publish: true
 ## Headroom
 
 - Digitaalne headroom: Vahe 0dBFS ja lühiajalise amplituudi vahel. DAWi sisene signaal ei tohi minna üle 0dBFS, sest eksportides tekib muidu digitaalne klippimine. [klippiva projekti näide.RPP](file:///Users/mattiasprt/Library/CloudStorage/Dropbox/ÕPETAMINE/Klippiv%20Projekt/klippiva%20projekti%20näide.RPP)
-	- Kompresseerides signaali saame enda loo valjemaks teha, sest tekitame headroomi juurde, mille saame "täis gainida".
+	- Vähendades signaalide dünaamilist ulatust saame enda loo valjemaks teha, sest tekitame headroomi juurde, mille saame "täis gainida".
+
+<!-- hide -->
+<mark style="background:#ff4d4f">TÄIENDADA:</mark>
+<mark style="background:#ff4d4f">MIKS on vaja digihelis headroomi ja dünaamilist töötlust? mingi hea bypass projektis, kus dünaamiline töötlus on/off.</mark>
+<!-- /hide -->
 
 ---
 ## Loudness bias
@@ -82,6 +88,28 @@ publish: true
 >NOTE: 
 >- Teha test: 2 mixi kus üks smiley eq ja valjem, teine tavaline. küsida kumb kõlab paremini, siis loudness normalizeida ja küsida uuesti
 >- Logic Pro compressoril on by default autogain peal, mis teeb materjali valjemaks kui threshold alla tõmmata, pole loogiline.
+
+---
+# Side chain
+## External side chain
+
+- Raja välise signaali dünaamikaga raja enda dünaamilise töötluse aktiveerimine.
+- Võimekus ei ole ainult kompressoritel.
+- Kompressori sisendsignaali välja vahetamine.
+
+![[Pasted image 20260401103434.png]]
+
+---
+## Internal side chain EQ / Filter
+
+- Et dünaamiline tööriist kuuleks sisendsignaali mis on spetsiifliselt filterdatud. Väldib kicki või madalsageduste liigse kompressori töötluse, sest nad on tihtipeale keeratud valjemaks ja juba eos on pikema lainepikkusega. Üldjuhul löövad madalad sagedused dünaamilised tööriistad käima rohkem kui kõik muud sagedusvahemikud.
+- Sagedusvahemiku boostimine on sisuliselt sama mis thresholdi langetamine ainult selles spetsiifilises sagedusvahemikus.
+
+<!-- hide -->
+>NOTE:
+>- drumbuss high shelf boost, keerab taldrikud vaiksemaks.
+
+<!-- /hide -->
 
 ---
 # Dünaamika mõõtmine

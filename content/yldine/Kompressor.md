@@ -25,6 +25,12 @@ publish: true
 - **Make-up gain**
 	- Gain peale töötlust, volüümi kaotuse kompenseerimiseks.
 
+---
+- Downward compression - tavaline kompressioon, ehk valjud kohad tuuakse vaiksemaks.
+	- Kui lisada make-up gaini siis "uplift compression".
+
+![[Pasted image 20260401143430.png|600]]
+
 <!-- hide -->
 >NOTE: 
 >- Näidata visuaalselt, Pro-C2 ja occularScope
@@ -54,14 +60,12 @@ publish: true
 ![[Pasted image 20251008134517.png|800]]
 
 ---
-# Upward & Downward & Parallel
+# Upward & Parallel
 
-- Downward compression - tavaline kompressioon
-	- Kui lisada make-up gaini siis "uplift compression".
 - Upward compression - võimendab signaali mis jääb alla thresholdi. Ehk toob vaiksed kohad valjemaks.
-- Parallel compression - Kompresseeritud signaali *blend*'imine kuiva signaaliga. Tuntud kui ka "New York Compression". Lõpptulemus võib kõlada naturaalsemalt kui uplift compression, hea viis "liimi" lisamiseks, sest säilib algse signaali transientid suhe ning lisandub kompresseeritud signaali punch ja sustain.
+- Parallel compression - Kompresseeritud signaali *blend*'imine kuiva signaaliga. Tuntud kui ka "New York Compression". Lõpptulemus võib kõlada naturaalsemalt kui uplift compression, hea viis "liimi" lisamiseks, sest säilib algse signaali transientide suhe ning lisandub kompresseeritud signaali punch ja sustain.
 
-![[Pasted image 20251006173142.png|800]]
+![[Pasted image 20260401143535.png|307]]
 
 <!-- hide -->
 >NOTE:
@@ -88,8 +92,6 @@ Most mixers use the same compressors for the same results. Almost all of them mi
 - NEVE 33609 for weight, and gravity. Often bus or vocals.
 - SSL Alan Smart C2. Bus compressor typically 1-4dB of compression.
 
-For parallel compression, use eq to filter what bothers you, then squash it and bring it up to taste.
-
-Even Michael Brauer uses comps from this list, but in a unique way to utilize specific colors and tones on each group.
+For parallel compression, use eq to filter out what bothers you, then squash it and bring it up to taste.
 
 ---
