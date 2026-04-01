@@ -8,7 +8,7 @@ tehtud: true
 
 ![[EQ#Dünaamiline EQ]]
 
-![[Kompressor#Upward & Downward & Parallel]]
+![[Kompressor#Upward & Parallel]]
 
 ![[Clipper#Clipper]]
 
