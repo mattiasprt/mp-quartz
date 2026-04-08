@@ -66,4 +66,8 @@ tehtud: true
 	- Ehk teeb balansseeritud signaalist balansseerimata signaali.
 
 ---
-# vt. ka [[Pro Tools#Salvestamine Pro Toolsis]]
+# Vaata ka:
+
+- [[Salvestamine ja produktsioon]]
+- [[Pro Tools#Salvestamine Pro Toolsis]]
+- [[Analoog riistvara kasutamine]]
