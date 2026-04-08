@@ -17,4 +17,8 @@ tehtud: true
 - Multimic salvestustel **line check** tähtis, koputame kõik mikrid läbi ja vaatame kas DAWis jooksevad mikrid õigetesse kanalitesse. Kuna hiljem ei saa aru.
 
 ---
-# vt. ka [[Pro Tools#Salvestamine Pro Toolsis]]
+# Vaata ka:
+
+- [[Stereotehnikad]]
+- [[Salvestamine ja produktsioon]]
+- [[Pro Tools#Salvestamine Pro Toolsis]]

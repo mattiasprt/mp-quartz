@@ -44,4 +44,8 @@ tehtud: true
 	- Kui tuleb mitu halba take'i järjest, siis tehke paus.
 
 ---
-# vt. ka [[Pro Tools#Salvestamine Pro Toolsis]]
+# Vaata ka:
+
+- [[Salvestamine ja produktsioon]]
+- [[Pro Tools#Salvestamine Pro Toolsis]]
+- [[Analoog riistvara kasutamine]]
