@@ -43,7 +43,7 @@ tehtud: true
 	- Kui tuleb mitu halba take'i järjest, siis tehke paus.
 
 ---
-![[Proximity effect]]
+![[Proximity effect#Proximity effect]]
 
 # Vaata ka:
 
