@@ -11,6 +11,6 @@ jrk:
 ---
 <!-- /hide -->
 
-![[Satureerimine#Saturatsioon]]
+![[Saturatsioon#Saturatsioon]]
 
 ![[M2 Dünaamika 3#Top-down mixing]]

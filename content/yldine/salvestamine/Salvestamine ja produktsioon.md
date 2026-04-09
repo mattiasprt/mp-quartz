@@ -60,11 +60,12 @@ publish: true
 - Määratud DAWi buffer size'ist. Mida madalam seda vähem viidet, kuid raskem arvutil hoomata. 
 - Mõõdetud millisekundites, enamasti kuni 10ms on ok.
 - Peale salvestust DAW kompenseerib viite automaatselt. *Latency compensation*
+- Kui direct monitoring on aktiivne siis on viide pea olematu.
 
 ---
 ## MIDI
 
-- Virtuaalsete instrumentide kasutamine on läbi MIDI.
+- Virtuaalsete instrumentide kasutamine käib läbi MIDI.
 - MIDI noote saab salvestada DAWi kasutades MIDI instrumente, enamasti ühendatud arvutisse USBga.
 	- Saab ka kasutada arvuti klaviatuuri
 - MIDI noote saab joonistada ja redigeerida "piano rolli" vaates.
@@ -88,6 +89,6 @@ publish: true
 ## ..ehk
 
 - Salvestamine - esituse püüdmine
-- Produktsioon - püüdud esituse vormimine
+- Produktsioon - püüdud esituse vormimine ja kujundamine
 
 ---
