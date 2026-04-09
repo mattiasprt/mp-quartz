@@ -16,8 +16,7 @@ tehtud: true
 
 - Ruum
 	- Võimalik kasutada ringi liigutatavaid akustilisi paneele. Juhuks kui trummid või klaver vms resoneeruvad kaasa. Tõmmake vokalisti selja taha näiteks.
-	- Kui akustika mängib ruumis rolli siis cardioid. Kui akustiga on korras, siis võib ka kasutada omnit. Sest sellega puudub **proximity effect**.
-		- Proximity effect - esineb suunakarakteriga mikrofonidel, mida lähemal on heliallikas mikrofonile seda rohkem on madalad sagedused võimendatud. Olenevalt olukorrast võib proximity effect ka kasuks tulla, et lisada salvestusele "keha".
+	- Kui akustika mängib ruumis rolli siis cardioid. Kui akustiga on korras, siis võib ka kasutada omnit. Sest sellega puudub [[Proximity effect]].
 - Mikri valik
 	- Stuudios vokaalide salvestuse tava on kasutada **suure kapsliga kondensaator** mikreid.
 	- Dünaamilist mikrit võib proovida siis kui tegu on valjude vokaalidega, karjumised jne. Dünaamilised on ka paremad juhul kui ruum ei kõla hästi.
@@ -44,6 +43,8 @@ tehtud: true
 	- Kui tuleb mitu halba take'i järjest, siis tehke paus.
 
 ---
+![[Proximity effect]]
+
 # Vaata ka:
 
 - [[Salvestamine ja produktsioon]]
