@@ -1,3 +1,6 @@
+---
+publish: true
+---
 # Proximity effect
 
 - Esineb suunakarakteriga mikrofonidel, mida lähemal on heliallikas mikrofonile seda rohkem on madalad sagedused võimendatud. 
