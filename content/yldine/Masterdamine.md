@@ -118,8 +118,8 @@ publish: true
 ## Tööriistad
 
 - [[EQ]]
-	- [[Faas#Linear phase EQ]]
-	- [[Faas#Mid-Side]]
+	- [[Faas ja Mid-Side (MS)#Linear phase EQ]]
+	- [[Faas ja Mid-Side (MS)#Mid-Side]]
 - [[Kompressor]]
 - [[Limiter]]
 - [[Clipper]]
