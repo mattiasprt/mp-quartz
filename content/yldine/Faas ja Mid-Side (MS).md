@@ -73,8 +73,8 @@ publish: true
 ## Faas ja EQ
 
 - Kõik tavapärased EQ'd on *minimum phase*.
-- Iga Minimum Phase EQ liigutus mõjutab faasi. Sest EQ põhjustab sagedus-spetsiifilist ajaviidet. Tegu ei ole probleemiga, kõlab enamasti naturaalselt!
-- Selletõttu võib muutuda ka *peak* mõõde. Iga *cut* ei tähenda, et võidate *headroom*i.
+- Iga Minimum Phase EQ liigutus mõjutab faasi. Sest EQ põhjustab sagedus-spetsiifilist ajaviidet. Tegu ei ole ilmtingimata probleemiga, kõlab enamasti naturaalselt!
+- Selletõttu võib muutuda ka *peak* mõõde. Iga *cut* ei tähenda, et võidate *headroom*i, ehk "low-cut everything to gain headroom"
 
 ---
 ## Linear phase EQ

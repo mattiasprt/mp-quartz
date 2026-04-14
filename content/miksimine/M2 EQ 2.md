@@ -11,6 +11,6 @@ pepi mix 2 v2 soolo 4min peal, soolokidra on ainult side kanalis, ehk monos kaob
 > Rääkida ka widener, imager, doubler pluginatest, sest nad kasutavad enamasti MSi
 
 
-![[Faas#Faas]]
+![[Faas ja Mid-Side (MS)#Faas]]
 
-![[Faas#Põhjalikumalt]]
+![[Faas ja Mid-Side (MS)#Põhjalikumalt]]

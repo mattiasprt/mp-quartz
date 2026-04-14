@@ -126,7 +126,7 @@ NOTE:
 	- Master fader'it ärge näppige! Sellega võib teha loo fade-in'e või fade-out'e, muidu selle liigutamine (nt olukorras kus mix läheb liiga valjuks) ei ole hea tava. Protsessi lõpu poole võib sellega teha maksimaalselt paari dB'lisi laulu sektsioonide automatsioone.
 - Peale gainstageimist, kustuta radadelt vaikus, aitab visuaalset navigeerida.
 ---
-![[Faas#Faas]]
+![[Faas ja Mid-Side (MS)#Faas]]
 ## Panoraam
 
 - Mis on mono ja stereo?
