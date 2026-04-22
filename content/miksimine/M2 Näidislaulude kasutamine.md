@@ -19,7 +19,7 @@ kodutöö: "[[M Mix V1]]"
 ## Kuidas saada hea kvaliteediga muusikat?
 
 - 🏴‍☠️🏴‍☠️🏴‍☠️
-- Loopback recording
+- Loopback recording ([Blackhole](https://github.com/ExistentialAudio/BlackHole) - tasuta digitaalne loopback)
 - Bandcamp
 
 ---
