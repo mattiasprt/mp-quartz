@@ -1,11 +1,11 @@
 ---
-aine: "[[M2|Miksimine 2]]"
+aine: "[[M3]]"
 publish: false
 jrk: "4"
 tehtud: false
 ---
 pepi mix 2 v2 soolo 4min peal, soolokidra on ainult side kanalis, ehk monos kaob ära
-	sama mix 3 v1ga, vox ja kidra
+sama mix 3 v1ga, vox ja kidra
 
 > [!NOTE] Title
 > Rääkida ka widener, imager, doubler pluginatest, sest nad kasutavad enamasti MSi

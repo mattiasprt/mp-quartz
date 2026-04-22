@@ -162,4 +162,4 @@ publish: true
 
 - Kuna masterdajate diskograafia kõla on keeruline analüüsida või hinnata, siis siin loeb aina rohkem inseneri tööeetika ja usaldusväärsus. 
 - Paljud masterdajad teevad seda nö liinitööna. Leidke keegi, kes võtab asja tõsiselt.
-- Masterdaja võib olla sama inimene kes miksib. Eeldusel, et mix mis on tehtud kõlab teie arust hästi. Lihtsalt olge teadlikud, et uus inimene protsessis võib anda selle lõpulihvi mida te ei teadnud, et on vaja.
+- Masterdaja võib olla sama inimene kes miksib. Eeldusel, et mix mis on tehtud kõlab teie arust hästi. Lihtsalt olge teadlikud, et uus inimene protsessis võib anda selle lõpulihvi mida te ei teadnud, et on vaja - sama nagu mixiga.
