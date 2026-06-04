@@ -11,3 +11,7 @@ publish: true
 	- **True peak**, lisab limiterile oversamplingu, et ta püüaks kinni samplite vahelised peak-id. Tähtis masterdamisel.
 	
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ue_5Z7itovw?si=pncvtZH51_pr4t0M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

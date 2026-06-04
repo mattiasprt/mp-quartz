@@ -8,6 +8,9 @@ tehtud: true
 <!-- hide -->
 ![[S1 Salvestuse ettevalmistus]]
 
+> [!NOTE] Title
+> Rääkida ka duublite tegemisest
+
 ---
 <!-- /hide -->
 # Vokaalide salvestus
