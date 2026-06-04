@@ -20,7 +20,8 @@ publish: true
 ## Level ja gain
 
 - Gaini (ehk signaali võimendust) pane nii palju, et DAWis oleks keskmine peak amplituud -12dB kandis. Nähtav *meter*i pealt. Jätab ruumi (*headroom*) ootamatult valjudeks hetkedeks.
-
+	- Madala gainiga / "liiga vaikselt" salvestamine vähendab pärast salvestust digitaalset "resolutsiooni". Sest *noise floor*i ja signaali vaheline dünaamiline ulatus on madalam.
+	- Liiga valjult salvestamine tekitab clip-imist, ehk signaal läheb üle 0dBFS-i ja üle 0-i minev lainehari lõigatakse ära. Tekib distortion.
 - Signaali takistuse (impedance) erinevused:
 	- MIC Level > Preamp + Gain +  PHANTOM (kui vaja) > LINE Level
 	- INSTRUMENT Level > Preamp + Gain > LINE Level

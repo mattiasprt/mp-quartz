@@ -61,7 +61,7 @@ Minu projekti kausta ülesehitus:
 - Alati saab kvaliteeti vähendada aga hiljem "juurde panna" ei saa.
 - Mida kõrgemad sätungid, seda rohkem kulub kettamahtu.
 
-NOTE:
+>NOTE:
 > - Oma projekte salvestades hoian 48_24, rohkem pole vaja, 44.1_16 ka okei. Ärge mõelge üle.
 
 ---
@@ -75,7 +75,7 @@ NOTE:
 6. Lisa tühjad träkid eelmistele versioonidele, referents lauludele jne. Vaata et nad ei jookseks masterist läbi, vaid otse helikaardi outputi!
 
 <!-- hide -->
-NOTE: 
+>NOTE: 
 > - organiseerimine ja hügieen! püstitatud struktuur võiks püsida kõikide projektide vältel, future proofing
 > - olge teadlikud mis on kliendi ootused miksile, kui oled ise produnud siis küsi endalt ja teistelt enne miksima hakkamist, kuidas see lugu saaks paremini kõlada?
 > 	- kui muidu on backseat produmine tüütu, siis selles etappide üleminekus on igasugune tagasiside oodatud
@@ -93,7 +93,7 @@ NOTE:
 	- Clip gain määrab FXide sisendi valjuse. Kui FX clipib siis hiljem fader seda ei muuda.
 
 <!-- hide -->
-NOTE: 
+>NOTE: 
 > - seleta erinevus clipgainil ja faderil, variant ka esimese insert FXina gain pluginat kasutada
 > - näide: saturator kanalile, clipgain ja fader erinevused
 > - pre ja postfader sendide erinevusest räägime reverb/delay loengus
@@ -136,7 +136,7 @@ NOTE:
 - Pan law-id, kui palju keeratakse keskele pan'itud signaali vaiksemaks võrreldes L ja Riga. Kuna muidu on mono signaal mõlemast kõlarist mängides 3dB valjem, helide summeerumise tõttu.
 - Kui kõik on "hard left" / "hard right" siis elemendid istuvad endiselt üksteise otsas ja ei lase üksteisel hingata, leidke instrumentidele oma tasku panoraamis.
 
-NOTE:
+>NOTE:
 > - Pan law, tähtis kui liigutad projekti erinevate DAWide vahel ja ootad et su lugu kõlaks samamoodi, muidu set and forget, soovitatakse 3dB, ableton kasutab ka 3e, ei saagi muuta vist seal.
 > - Trummi spoti mikrite pannimise saab aru OHde järgi. Pannes OH solosse, kuulad kus element asub, pan'id spot mikri samasse kohta.
 > 	- Kui OH signaalid eraldi radadel siis panida nii, et kick oleks keskel ja snr seal lähedal, veits paremal või vasakul olenevalt kas trummari või publiku poolt vaade.
@@ -165,6 +165,14 @@ NOTE:
 	- Tonaalsus
 		- Määratud arranžeeringus ja produktsioonis, *sound selection*-ist. Mixis saab seda kontrollida EQga. Kui lugu on liiga bassine siis see bass matab kõik enda alla, kui lugu on liiga terav siis on seda ebamugav kuulata jne.
 
+
+---
+# Kõikide elementide soolotamine vs Üldpilt
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vJG698U2Mvo?si=ITRTeu6ELfC9oax3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+>NOTE:
+>- Tähtis on mitte ära unustada üldpilti, solotamine ja elementide detailidele keskendumine on kasulik. Päeva lõpuks kuuleb kuulaja lugu, mitte eraldiseisvaid elemente.
 
 ---
 ## Render / Export / Bounce ja Print
