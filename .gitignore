@@ -12,3 +12,6 @@ replit.nix
 .quartz/
 quartz/cli/tui/dist/
 .turbo/
+README.md
+LICENSE.txt
+CODE_OF_CONDUCT.md
