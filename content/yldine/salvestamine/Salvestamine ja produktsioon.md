@@ -1,0 +1,97 @@
+---
+publish: true
+---
+# Salvestamine
+
+- Heli ja instrumente saab salvestada DAWi kasutades helikaarti. Mis võimaldab teha analoogheli digitaalseks ja võimendab signaali eelvõimendiga.
+- Elektrilised instrumendid (elektri-, basskitarr) pulkkaabliga (TS) ja INSTRUMENT LEVEL (INST / Hi-Z / DI).
+- Mikrofonid XLR kaabliga ja MIC LEVEL.
+	- Kondensaator mikrofonidel on vaja FANTOOMTOIDET (+48v)
+- Instrumendid millel on konkreetne LINE OUT väljund (süntesaatorid jne), pulkaabliga ja LINE LEVEL.
+
+<!-- hide -->
+>NOTE:
+> - võta 5 58t kaasa ja jaga laiali
+> - näita ka RODE mikrit peamaja foonikast
+
+<!-- /hide -->
+
+---
+## Level ja gain
+
+- Gaini (ehk signaali võimendust) pane nii palju, et DAWis oleks **keskmine peak amplituud -12dB** (RMS -18) kandis. Nähtav *meter*i pealt. Jätab ruumi (*headroom*) ootamatult valjudeks hetkedeks.
+	- Madala gainiga / "liiga vaikselt" salvestamine vähendab pärast salvestust digitaalset "resolutsiooni". Sest *noise floor*i ja signaali vaheline dünaamiline ulatus on madalam.
+	- Liiga valjult salvestamine tekitab clip-imist, ehk signaal läheb üle 0dBFS-i ja üle 0-i minev lainehari lõigatakse ära. Tekib distortion.
+	- Alles kui gain on paigas ja signaal on piisavalt vali, siis tehakse tagasikuulamise algne mix faderitega, enne võiksid kõik faderid 0-i ehk *unity* peal olla.
+- Signaalide erinevused:
+	- MIC Level > Preamp + Gain +  PHANTOM (kui vaja) > LINE Level
+	- INSTRUMENT Level > Preamp + Gain > LINE Level
+	- LINE Level, kõige valjem, ei vaja võimendust. 
+		- Näiteks helikaardi ja kõlarite vaheline ühendus, või süntesaator Line Outiga.
+
+- Enamikel helikaartidel on *combo* sisendid, ehk võimaldavad kõike ülalolevat, signaalitüüp valitav nupuga preampi pealt või tarkvarast.
+
+---
+## Impedance
+
+- Mõndadel preampidel saab reguleerida *impedance*-it, ehk takistust. 
+- Igal mikril on väljund takistus ja igal prel on sisend takistus. Kui pre takistus on 5-10x kõrgem mikri takistusest, siis on tegu justkui "optimaalse" soundiga.
+- Lihtsustatult:
+	- Kõrge pre takistus = signaalil rohkem kõrget otsa
+	- Madal pre takistus = signaalil rohkem madalat ja keskmisi
+	- Veidike nagu tilt EQ, mõnel mikril mõjub soundile rohkem (ribbonid ja dünaamilised), mõnel vähem
+- Kui võimalik pre pealt kruttida, siis alustage kõrgelt ja liikuge madalamaks, usaldage oma kõrvu!
+
+---
+## Monitooring
+
+- ..ehk kuidas enda signaali kuulda?
+- Signaali monitoorimine kas DAWi siseselt või helikaardi pealt "direct monitoring".
+
+---
+## Salvestamise signaaliahel
+
+<!-- hide -->
+[[Salvestamise Signal Flow Canvas.canvas|Salvestamise Signal Flow Canvas]]
+<!-- /hide -->
+
+![[Salvestamise Signal Flow.png]]
+
+---
+## Latency
+
+- Määratud DAWi buffer size'ist. Mida madalam seda vähem viidet, kuid raskem arvutil hoomata. 
+- Mõõdetud millisekundites, enamasti kuni 10ms on ok.
+- Peale salvestust DAW kompenseerib viite automaatselt. *Latency compensation*
+- Kui direct monitoring on aktiivne siis on viide pea olematu.
+
+---
+## MIDI
+
+- Virtuaalsete instrumentide kasutamine käib läbi MIDI.
+- MIDI noote saab salvestada DAWi kasutades MIDI instrumente, enamasti ühendatud arvutisse USBga.
+	- Saab ka kasutada arvuti klaviatuuri
+- MIDI noote saab joonistada ja redigeerida "piano rolli" vaates.
+- MIDI nootide ajastust saab korrigeerida *quantize*'inguga.
+
+<!-- hide -->
+>NOTE:
+>- klõbista midi klahvil mõned noodid sisse
+>- joonista piano rollis
+
+<!-- /hide -->
+
+---
+# Produktsioon
+
+- Salvestatud materjali töötlemine loovalt ja eesmärgipäraselt. 
+- MIDI heliallikate valimine, kasutamine ja vormimine, helidisain.
+- Helisamplite kasutamine, nt trummid jne.
+
+---
+## ..ehk
+
+- Salvestamine - esituse püüdmine
+- Produktsioon - püüdud esituse vormimine ja kujundamine
+
+---
