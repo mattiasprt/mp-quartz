@@ -3,7 +3,7 @@ aine: "[[DH|Digitaalne Helitöötlus]]"
 jrk: "10"
 kodutöö:
 publish: false
-tehtud: true
+tehtud: false
 ---
 Näita reaalseid projekte
 - REC - kooli arvutist

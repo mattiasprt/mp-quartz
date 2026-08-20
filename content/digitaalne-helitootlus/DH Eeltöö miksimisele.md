@@ -2,7 +2,7 @@
 aine: "[[DH|Digitaalne Helitöötlus]]"
 publish: true
 jrk: "8"
-tehtud: true
+tehtud: false
 kodutöö:
 ---
 ![[iZotope RX#Helifailide puhastamine]]

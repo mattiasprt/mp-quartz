@@ -2,7 +2,7 @@
 aine: "[[S1|Stuudiotöö 1]]"
 publish: true
 jrk: "7"
-tehtud: true
+tehtud: false
 kodutöö: "[[S1 Audio puhastamine]]"
 ---
 # Salvestuse järeltöötlus

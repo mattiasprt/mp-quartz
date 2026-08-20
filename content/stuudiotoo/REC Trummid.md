@@ -2,7 +2,7 @@
 aine: "[[S1|Stuudiotöö 1]]"
 jrk: "6"
 publish: true
-tehtud: true
+tehtud: false
 kodutöö: "[[S1 Materjal puhastamiseks]]"
 ---
 # Trummide salvestamine

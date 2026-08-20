@@ -165,14 +165,20 @@ Minu projekti kausta ülesehitus:
 	- Tonaalsus
 		- Määratud arranžeeringus ja produktsioonis, *sound selection*-ist. Mixis saab seda kontrollida EQga. Kui lugu on liiga bassine siis see bass matab kõik enda alla, kui lugu on liiga terav siis on seda ebamugav kuulata jne.
 
+---
+### Valjus
+
+- Alustame loo miksimist selle kõige valjemast sektsioonist. 
+	- See määrab ära kui valjult kuulaja saab lugu kuulata. Samuti määrab see teiste sektsioonide valjuse suhte.
+	- Kui vali sektsioon on liiga terav, siis ei saa seda valjult kuulata. Läheneda tonaalsuse ja valjuse balansside korrigeerimisega.
 
 ---
-# Kõikide elementide soolotamine vs Üldpilt
+### Kõikide elementide "solotamine" vs laulu üldpilt
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vJG698U2Mvo?si=ITRTeu6ELfC9oax3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 >NOTE:
->- Tähtis on mitte ära unustada üldpilti, solotamine ja elementide detailidele keskendumine on kasulik. Päeva lõpuks kuuleb kuulaja lugu, mitte eraldiseisvaid elemente.
+>- Tähtis on mitte ära unustada üldpilti, solotamine ja elementide detailidele keskendumine on kasulik kui läheneda detailselt. Päeva lõpuks kuuleb kuulaja lugu, mitte eraldiseisvaid elemente.
 
 ---
 ## Render / Export / Bounce ja Print
@@ -182,12 +188,11 @@ Minu projekti kausta ülesehitus:
 - Miksitud eksporditud fail = Mixdown
 - Eksportimis sätungid:
 	- Online print vs offline export
-		- Printides kuuled kohe tulenevat eksporti, offlineis pead hiljem üle kuulama, nõudlikel projektidel võivad mõlemad jamada, siis printimine kindlam.
+		- Printides kuuled kohe tulenevat eksporti, offlineis pead hiljem üle kuulama, arvutile nõudlikel projektidel võivad mõlemad jamada, siis printimine kindlam kuna kuulad loo üle kuidas.
 	- Sample rate ja bit depth hoia sama milles projekt salvestatud/produtud. 
 		- Dither ainult siis peale kui vähendad bit depthi ekspordiga (nt. 24bit > 16bit). [24 vs 16bit.RPP](file:///Users/mattiasprt/Library/CloudStorage/Dropbox/ÕPETAMINE/24%20vs%2016bit/24%20vs%2016bit.RPP)
 	- Mis failitüüpi eksportida? (järgmisel slaidil)
-- Salvestage enda mikside versioonid eraldi kausta projektikaustas. Võimaldab kuulata versioonidevahelisi muutuseid.
-- Kasuta **save as**-i ja tee kriitilisi mixi muudatusi, ole julge!
+- Salvestage enda mikside versioonid eraldi kausta projektikaustas. Võimaldab kuulata versioonidevahelisi muutuseid. Salvestage versiooniga ka selle versiooni projektifail, võimaldab teil minna tagasi vanema versiooni juurde.
 - Levinud valearusaam: Helikaart ei mõjuta exporti, ega selle kvaliteeti! Ainuke mõjutaja on arvuti, mida võimsam - seda kiirem export.
 
 NOTE: 
@@ -199,7 +204,7 @@ NOTE:
 
 - Tehke kliendile kuulamine ja tagasisidestamine võimalikult mugavaks!
 - [Samply](https://samply.app/) või [Highnote](https://www.highnote.fm/), [Boombox](https://boombox.io/)
-- Vältige Google Drive'i linke, hästi aeglased ja kohmakad. Dropbox on parem. 
+- Vältige Google Drive'i linke, hästi aeglased ja kohmakad. Dropbox on üldiselt parem. 
 - Võite ka kasutada nt. [SwissTransfer'it](https://www.swisstransfer.com/en-us) (parem WeTransfer)
 
 ---

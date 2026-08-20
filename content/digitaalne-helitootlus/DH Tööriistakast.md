@@ -3,7 +3,7 @@ aine: "[[DH|Digitaalne Helitöötlus]]"
 jrk: "3"
 kodutöö: "[[DH Multitracki miksimine]]"
 publish: true
-tehtud: true
+tehtud: false
 ---
 <!-- hide -->
 

@@ -1,7 +1,7 @@
 ---
 aine: "[[S2|Stuudiotöö 2]]"
 jrk: "5"
-tehtud: true
+tehtud: false
 publish: true
 ---
 # Live bändi salvestus

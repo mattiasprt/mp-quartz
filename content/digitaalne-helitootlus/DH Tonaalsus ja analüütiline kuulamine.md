@@ -3,7 +3,7 @@ aine: "[[DH|Digitaalne Helitöötlus]]"
 jrk: "2"
 kodutöö: "[[DH, M1 EQ kuulamine]]"
 publish: true
-tehtud: true
+tehtud: false
 ---
 ![[Failitüübid#Miks on vaja digitaalses helitöötluses "kõrgkvaliteediga" faile?]]
 

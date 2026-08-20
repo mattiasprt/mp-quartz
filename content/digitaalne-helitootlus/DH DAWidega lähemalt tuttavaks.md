@@ -3,7 +3,7 @@ aine: "[[DH|Digitaalne Helitöötlus]]"
 jrk: "4"
 kodutöö: "[[DH, M1 Reverbi ja kompressiooni kuulamine]]"
 publish: false
-tehtud: true
+tehtud: false
 ---
 ![[DH Tööriistakast#Kodutöö]]
 

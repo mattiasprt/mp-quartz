@@ -2,7 +2,7 @@
 aine: "[[DH|Digitaalne Helitöötlus]]"
 publish: true
 jrk: "7"
-tehtud: true
+tehtud: false
 kodutöö: "[[DH, M1 Miksile tagasiside andmine]]"
 ---
 <!-- hide -->

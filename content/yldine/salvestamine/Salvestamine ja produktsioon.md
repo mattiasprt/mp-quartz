@@ -19,25 +19,27 @@ publish: true
 ---
 ## Level ja gain
 
-- Gaini (ehk signaali võimendust) pane nii palju, et DAWis oleks keskmine peak amplituud -12dB kandis. Nähtav *meter*i pealt. Jätab ruumi (*headroom*) ootamatult valjudeks hetkedeks.
+- Gaini (ehk signaali võimendust) pane nii palju, et DAWis oleks **keskmine peak amplituud -12dB** (RMS -18) kandis. Nähtav *meter*i pealt. Jätab ruumi (*headroom*) ootamatult valjudeks hetkedeks.
 	- Madala gainiga / "liiga vaikselt" salvestamine vähendab pärast salvestust digitaalset "resolutsiooni". Sest *noise floor*i ja signaali vaheline dünaamiline ulatus on madalam.
 	- Liiga valjult salvestamine tekitab clip-imist, ehk signaal läheb üle 0dBFS-i ja üle 0-i minev lainehari lõigatakse ära. Tekib distortion.
-- Signaali takistuse (impedance) erinevused:
+	- Alles kui gain on paigas ja signaal on piisavalt vali, siis tehakse tagasikuulamise algne mix faderitega, enne võiksid kõik faderid 0-i ehk *unity* peal olla.
+- Signaalide erinevused:
 	- MIC Level > Preamp + Gain +  PHANTOM (kui vaja) > LINE Level
 	- INSTRUMENT Level > Preamp + Gain > LINE Level
 	- LINE Level, kõige valjem, ei vaja võimendust. 
 		- Näiteks helikaardi ja kõlarite vaheline ühendus, või süntesaator Line Outiga.
 
-- Enamikel helikaartidel on *combo* sisendid, ehk võimaldavad kõike ülalolevat.
+- Enamikel helikaartidel on *combo* sisendid, ehk võimaldavad kõike ülalolevat, signaalitüüp valitav nupuga preampi pealt või tarkvarast.
 
 ---
 ## Impedance
 
-- Preampidel saab reguleerida *impedance*-it, ehk takistust. Lihtsustatult:
+- Mõndadel preampidel saab reguleerida *impedance*-it, ehk takistust. 
+- Igal mikril on väljund takistus ja igal prel on sisend takistus. Kui pre takistus on 5-10x kõrgem mikri takistusest, siis on tegu justkui "optimaalse" soundiga.
+- Lihtsustatult:
 	- Kõrge pre takistus = signaalil rohkem kõrget otsa
 	- Madal pre takistus = signaalil rohkem madalat ja keskmisi
 	- Veidike nagu tilt EQ, mõnel mikril mõjub soundile rohkem (ribbonid ja dünaamilised), mõnel vähem
-- Igal mikril on väljund takistus igal prel on sisend takistus. Kui pre takistus on 5-10x kõrgem mikri takistusest, siis on tegu justkui "optimaalse" soundiga.
 - Kui võimalik pre pealt kruttida, siis alustage kõrgelt ja liikuge madalamaks, usaldage oma kõrvu!
 
 ---
@@ -56,7 +58,7 @@ publish: true
 ![[Salvestamise Signal Flow.png]]
 
 ---
-## *Latency*
+## Latency
 
 - Määratud DAWi buffer size'ist. Mida madalam seda vähem viidet, kuid raskem arvutil hoomata. 
 - Mõõdetud millisekundites, enamasti kuni 10ms on ok.

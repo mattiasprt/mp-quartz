@@ -3,7 +3,7 @@ aine: "[[DH|Digitaalne Helitöötlus]]"
 jrk: "1"
 kodutöö: "[[DH Laulu valimine]]"
 publish: true
-tehtud: true
+tehtud: false
 ---
 # Kuidas saab laul Sinu peast teiste kõrva(klappi)desse?
 ---

@@ -2,7 +2,7 @@
 aine: "[[S2|Stuudiotöö 2]]"
 jrk: "4"
 publish: true
-tehtud: true
+tehtud: false
 kodutöö:
 ---
 # Akordioni salvestamine

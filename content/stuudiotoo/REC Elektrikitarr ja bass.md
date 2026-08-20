@@ -3,7 +3,7 @@ aine: "[[S1|Stuudiotöö 1]]"
 jrk: "4"
 publish: true
 kodutöö: "[[S1 Salvestuse ettevalmistus]]"
-tehtud: true
+tehtud: false
 ---
 <!-- hide -->
 >NOTE:

@@ -3,7 +3,7 @@ aine: "[[S1|Stuudiotöö 1]]"
 jrk: 1 & 2
 kodutöö: "[[S1 Salvestuse ettevalmistus]]"
 publish: true
-tehtud: true
+tehtud: false
 ---
 ![[DH Sissejuhatus Digitaalsesse Helitöötlusse#Kuidas saab laul Sinu peast teiste kõrva(klappi)desse?]]
 
@@ -52,7 +52,6 @@ tehtud: true
 
 - Salvesta nii palju kui saad, salvesta ka scratch trackid. Hea päästerõngas hädaolukordades.
 	- Võimalusel kasuta "pre record audio input"i (Logicus "Flashback Recording"), et DAW salvestaks signaali juba enne salvestusnupu vajutamist. Et fraasi algused ei kaoks ära punch-inides ja sul oleks võimalik head esitust kinni püüda.
-- Ärge laske kanali **keskmist** peaki üle -12dB, siis jääb veel headroomi kui peaks mingi üllatavalt vali hetk tulema.
 - Subjektiivsed ja situatsioonilised mõtted:
 	- Salvestusel võiks sound kõlada võimalikult sarnaselt nagu see ruumis kõlab.
 	- Enne salvestus sessiooni võiks demo kuulata, et sessioonil sound kiiresti paika saada.
@@ -68,6 +67,7 @@ tehtud: true
 		- Projects > Tudengid > Teie Nimi. Desktopile ei salvesta!
 - Salvestusvõimalused, Pro Tools vs teised DAWid:
 	- Pro Toolsiga zero latency, teiste DAWidega latency. Variant ka oma läpakaga patchbayst signaali võtta enda helikaarti.
+- [Millist eelvõimendit kasutada?](https://youtu.be/K-vIeA7yy6Q?si=qol39knIjLDVDe02) 
 
 ---
 ![[TÜ VKA Stuudio#TÜ VKA Stuudio Signal Flow]]

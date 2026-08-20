@@ -3,7 +3,7 @@ aine: "[[DH|Digitaalne Helitöötlus]]"
 jrk: "6"
 publish: true
 kodutöö: "[[DH Leia miksija]]"
-tehtud: true
+tehtud: false
 ---
 ![[Miksimine#Mis on miksimise point?]]
 

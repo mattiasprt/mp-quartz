@@ -2,7 +2,7 @@
 aine: "[[S2|Stuudiotöö 2]]"
 jrk: "3"
 publish: true
-tehtud: true
+tehtud: false
 ---
 # Akustilise kitarri salvestamine
 ## Mikrofonide valik

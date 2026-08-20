@@ -2,7 +2,7 @@
 aine: "[[DH|Digitaalne Helitöötlus]]"
 publish: true
 jrk: "9"
-tehtud: true
+tehtud: false
 ---
 <!-- hide -->
 
@@ -39,6 +39,9 @@ tehtud: true
 
 ---
 # [Release checklist](https://mattiasprt.notion.site/Release-Checklist-0da45756b86e41cea1a1dc5424eb2fd4?source=copy_link)
+
+---
+# [Andmete sisestamise template](https://docs.google.com/spreadsheets/d/1WN9jy0rW--52XD6Akdk1tUE7Pqegi7E_SXSl7wgoLPw/edit?usp=sharing)
 
 ---
 # Alternatiivsed sissetulekud

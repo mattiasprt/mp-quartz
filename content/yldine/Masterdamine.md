@@ -62,16 +62,9 @@ publish: true
 ## Füüsilised väljaanded
 
 - CD-dele - DDP Image https://balticdisc.ee/masteri-info/
-- Vinüülidele eraldi versioonid - [https://vinylplant.ee/vinyl_templates/](https://vinylplant.ee/vinyl_templates/)
-	- Vähem madalaid ja kõrgeid, madal ots monos, kitsam panoraam. Üks pikk fail per side, pausidega.
+- [[Masterdamine vinüülile]]
 - Kassetid - Digitaalne master on ok. https://vinylplant.ee/cassette-templates/
 	- Üks pikk fail per side, pausidega.
-
-<!-- hide -->
->NOTE:
->- Robert Jürjendal [DDP (CD)](file:///Users/mattiasprt/Library/CloudStorage/Dropbox/PROJEKTID/ROBERT%20JÜRJENDAL/115%20-%20Aaviku%20Aedade%20Muusika/Aaviku%20Aedade%20Muusika/DDP%20(CD))
-
-<!-- /hide -->
 
 ---
 ## AI Masterdamine
@@ -142,7 +135,7 @@ publish: true
 ## Minu seminaritöö
 
 - [Dünaamilise ulatuse eelistus normaliseeritud muusika voogedastuses](https://docs.google.com/document/d/1LaAj2Piu4tHgqFNTMTxYnq1NFn1Rn19j8gWvSxWsUs8/edit?usp=sharing)
-	- Ehk kas kuulajad eelistavad normaliseeritud voogedastuse kontekstis valjusid mastereid või dünaamilisi.
+	- Ehk kas kuulajad eelistavad normaliseeritud voogedastuse kontekstis valjusid mastereid või dünaamilisi. EHK **kui valjuks masterdada on mõistlik?**
 - Seletan ka lahti LUFSid, tajutava valjuse ja kuidas dünaamikat mõõdetakse.
 
 ---

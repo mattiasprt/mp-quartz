@@ -3,8 +3,14 @@ aine: "[[DH|Digitaalne Helitöötlus]]"
 publish: true
 jrk: "5"
 kodutöö: "[[DH Loopi produtseerimine]]"
-tehtud: true
+tehtud: false
 ---
+<!-- hide -->
+
+> [!info] Tulevikus
+> - Rääkida sample rate ja bit depth läbi, failiformaadid
+
+<!-- /hide -->
 # Meenutuseks:
 
 ![[DH Sissejuhatus Digitaalsesse Helitöötlusse#1. Laulukirjutamine ja demo tegemine]]

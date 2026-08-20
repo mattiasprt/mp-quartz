@@ -2,6 +2,7 @@
 aine: "[[M3|Miksimine 3]]"
 publish: false
 jrk:
+tehtud: false
 ---
 <!-- hide -->
 > [!NOTE] Note

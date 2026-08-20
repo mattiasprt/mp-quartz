@@ -1,5 +1,5 @@
 ---
-aine: "[[M3]]"
+aine: "[[M3|Miksimine 3]]"
 publish: false
 jrk: "4"
 tehtud: false
