@@ -2,7 +2,7 @@
 aine: "[[M2|Miksimine 2]]"
 jrk: "2"
 publish: true
-tehtud: true
+tehtud: false
 ---
 ![[Gate#Gate]]
 

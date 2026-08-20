@@ -2,7 +2,7 @@
 aine: "[[M1|Miksimine 1]]"
 jrk: "7"
 publish: true
-tehtud: true
+tehtud: false
 kodutöö: "[[M Mix V2]]"
 ---
 ![[Efektide kasutamine#Efektid]]

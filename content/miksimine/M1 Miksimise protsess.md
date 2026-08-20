@@ -3,7 +3,7 @@ aine: "[[M1|Miksimine 1]]"
 jrk: 2 (x2)
 kodutöö: "[[M Mix V1]]"
 publish: true
-tehtud: true
+tehtud: false
 ---
 <!-- hide -->
 > [!note]

@@ -3,7 +3,7 @@ aine: "[[M1|Miksimine 1]]"
 jrk: "4"
 kodutöö: "[[M Mix V1]]"
 publish: false
-tehtud: true
+tehtud: false
 ---
 > [!note]
 > - Kuulame mikside V2 versioone, võrdleme, vaatame mis tagasisidega arvestamine läks hästi, mis halvasti. Kuulame referents laule.

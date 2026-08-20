@@ -3,7 +3,7 @@ aine: "[[M1|Miksimine 1]]"
 jrk: "6"
 publish: true
 kodutöö: "[[M Mix V1]]"
-tehtud: true
+tehtud: false
 ---
 ![[Dünaamika#Dünaamika]]
 

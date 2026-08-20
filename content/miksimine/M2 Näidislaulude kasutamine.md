@@ -2,7 +2,7 @@
 aine: "[[M2|Miksimine 2]]"
 publish: true
 jrk: "4"
-tehtud: true
+tehtud: false
 kodutöö: "[[M Mix V1]]"
 ---
 # Näidislaulude kasutamine

@@ -2,7 +2,7 @@
 aine: "[[M2|Miksimine 2]]"
 publish: true
 jrk: "3"
-tehtud: true
+tehtud: false
 ---
 ![[Transient Shaper#Transient shaper]]
 

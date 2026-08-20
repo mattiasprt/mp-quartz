@@ -2,7 +2,7 @@
 aine: "[[M3|Miksimine 3]]"
 publish: false
 jrk:
-tehtud:
+tehtud: false
 ---
 - Surround formaatide tutvustus. atmos jne
 - Binauraalsus.

@@ -3,7 +3,7 @@ aine: "[[M1|Miksimine 1]]"
 jrk: "1"
 kodutöö: "[[DH, M1 Miksile tagasiside andmine]]"
 publish: true
-tehtud: true
+tehtud: false
 ---
 <!-- hide -->
 ## Tere! :~)

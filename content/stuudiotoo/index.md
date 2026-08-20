@@ -2,6 +2,7 @@
 title: Stuudiotöö
 publish: true
 ---
-# 2026 KEVAD
+# 2026 SÜGIS
 
-![[S2]]
+![[S1]]
+%%[[S2]]%%
